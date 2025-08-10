@@ -2,54 +2,21 @@
 layout: default
 ---
 
-<style>
-  .viewer-container {
-    max-width: 90vw;            /* 画面幅の90%以内に制限 */
-    aspect-ratio: 2 / 1;        /* 3600x1800の比率に近い（2:1） */
-    margin: 1rem auto;
-    text-align: center;
-  }
-  #viewer {
-    width: 100%;
-    height: auto;
-    max-height: 80vh;           /* 画面高さの80%以内 */
-    display: block;
-    margin: 0 auto 1rem;
-    border: 1px solid #ccc;
-    box-shadow: 0 0 8px rgba(0,0,0,0.1);
-  }
-  .controls {
-    display: flex;
-    justify-content: center;
-    gap: 1rem;
-    align-items: center;
-    margin-bottom: 1rem;
-  }
-  button {
-    font-size: 1.5rem;
-    padding: 0.3rem 0.8rem;
-    cursor: pointer;
-  }
-  #dateInput {
-    font-size: 1.2rem;
-    width: 120px;
-    text-align: center;
-    padding: 0.2rem 0.4rem;
-  }
-</style>
+<div style="text-align:center;">
+  <button id="prev">←</button>
 
-<div class="viewer-container">
-  <img id="viewer" alt="画像">
+  <input type="text" id="dateInput" placeholder="yyyymmdd" style="font-size:1.2rem; width:120px; text-align:center;">
   
-  <div class="controls">
-    <button id="prev">←</button>
-    <input type="text" id="dateInput" placeholder="yyyymmdd">
-    <button id="next">→</button>
-  </div>
+  <!-- 画像をリンクで囲む -->
+  <a id="imageLink" href="" target="_blank" rel="noopener noreferrer">
+    <img id="viewer" alt="画像" style="max-width:90%; max-height:80vh; display:block; margin: 1rem auto;">
+  </a>
+
+  <button id="next">→</button>
 </div>
 
 <script>
-  const startDate = new Date({{ 2025 }}, {{ 8 | minus: 1 }}, {{ 8 }}); // 2025-08-08開始
+  const startDate = new Date(2025, 7, 8); // 2025-08-08開始（0-basedなので7は8月）
   const today = new Date({{ site.time | date: "%Y" }}, {{ site.time | date: "%m" | minus: 1 }}, {{ site.time | date: "%d" }});
   const daysSinceStart = Math.floor((today - startDate) / (1000*60*60*24));
   let offset = daysSinceStart;
@@ -64,7 +31,14 @@ layout: default
   }
 
   function showImage() {
-    document.getElementById('viewer').src = getDateString(offset);
+    const imgSrc = getDateString(offset);
+    const viewer = document.getElementById('viewer');
+    viewer.src = imgSrc;
+
+    // リンクのhrefにも画像URLをセット
+    document.getElementById('imageLink').href = imgSrc;
+
+    // フォームにも日付を反映
     const d = new Date(startDate);
     d.setDate(d.getDate() + offset);
     const y = d.getFullYear();
