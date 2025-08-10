@@ -1,0 +1,73 @@
+---
+layout: default
+---
+
+<div style="text-align:center;">
+  <button id="prev">←</button>
+
+  <input type="text" id="dateInput" placeholder="yyyymmdd" style="font-size:1.2rem; width:120px; text-align:center;">
+  
+  <img id="viewer" alt="画像" style="max-width:90%;max-height:80vh; display:block; margin: 1rem auto;">
+
+  <button id="next">→</button>
+</div>
+
+<script>
+  const startDate = new Date({{ 2025 }}, {{ 8 | minus: 1 }}, {{ 8 }}); // 2025-08-08開始
+  const today = new Date({{ site.time | date: "%Y" }}, {{ site.time | date: "%m" | minus: 1 }}, {{ site.time | date: "%d" }});
+  const daysSinceStart = Math.floor((today - startDate) / (1000*60*60*24));
+  let offset = daysSinceStart;
+
+  function getDateString(daysFromStart) {
+    const d = new Date(startDate);
+    d.setDate(d.getDate() + daysFromStart);
+    const y = d.getFullYear();
+    const m = String(d.getMonth() + 1).padStart(2, '0');
+    const day = String(d.getDate()).padStart(2, '0');
+    return `${y}${m}${day}.png`;
+  }
+
+  function showImage() {
+    document.getElementById('viewer').src = getDateString(offset);
+    // フォームにも日付を反映
+    const d = new Date(startDate);
+    d.setDate(d.getDate() + offset);
+    const y = d.getFullYear();
+    const m = String(d.getMonth() + 1).padStart(2, '0');
+    const day = String(d.getDate()).padStart(2, '0');
+    document.getElementById('dateInput').value = `${y}${m}${day}`;
+  }
+
+  document.getElementById('prev').onclick = () => {
+    offset = Math.max(0, offset - 1);
+    showImage();
+  };
+  document.getElementById('next').onclick = () => {
+    offset = Math.min(daysSinceStart, offset + 1);
+    showImage();
+  };
+
+  // Enterキーで入力値を判定し画像切替
+  document.getElementById('dateInput').addEventListener('keydown', function(e) {
+    if (e.key === 'Enter') {
+      const val = this.value.trim();
+      if (/^\d{8}$/.test(val)) {
+        // 入力文字列がyyyymmdd形式なら判定
+        const y = parseInt(val.slice(0,4),10);
+        const m = parseInt(val.slice(4,6),10);
+        const d = parseInt(val.slice(6,8),10);
+        const inputDate = new Date(y, m-1, d);
+
+        // 範囲内か判定
+        if (inputDate >= startDate && inputDate <= today) {
+          offset = Math.floor((inputDate - startDate) / (1000*60*60*24));
+          showImage();
+        }
+        // 範囲外や無効なら何もしない
+      }
+      // フォーマット不正なら何もしない
+    }
+  });
+
+  showImage();
+</script>
