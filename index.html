@@ -2,17 +2,24 @@
 layout: default
 ---
 
-<div style="text-align:center;">
-  <button id="prev">←</button>
+<div style="text-align:center; max-width: 100%;">
 
-  <input type="text" id="dateInput" placeholder="yyyymmdd" style="font-size:1.2rem; width:120px; text-align:center;">
-  
-  <!-- 画像をリンクで囲む -->
-  <a id="imageLink" href="" target="_blank" rel="noopener noreferrer">
-    <img id="viewer" alt="画像" style="max-width:90%; max-height:80vh; display:block; margin: 1rem auto;">
+  <!-- 画像だけ上に -->
+  <a id="imageLink" href="" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin-bottom: 1rem;">
+    <img id="viewer" alt="画像" style="max-width:90%; max-height:80vh; display:block; margin: 0 auto;">
   </a>
 
-  <button id="next">→</button>
+  <!-- ボタンと入力欄を横並びに -->
+  <div style="display: flex; justify-content: center; align-items: center; gap: 1rem;">
+
+    <button id="prev" style="font-size: 1.5rem; padding: 0.3em 0.7em;">←</button>
+
+    <input type="text" id="dateInput" placeholder="yyyymmdd" style="font-size:1.2rem; width:120px; text-align:center; padding: 0.3em;">
+
+    <button id="next" style="font-size: 1.5rem; padding: 0.3em 0.7em;">→</button>
+
+  </div>
+
 </div>
 
 <script>
@@ -35,42 +42,10 @@ layout: default
     const viewer = document.getElementById('viewer');
     viewer.src = imgSrc;
 
-    // リンクのhrefにも画像URLをセット
     document.getElementById('imageLink').href = imgSrc;
 
-    // フォームにも日付を反映
     const d = new Date(startDate);
     d.setDate(d.getDate() + offset);
     const y = d.getFullYear();
     const m = String(d.getMonth() + 1).padStart(2, '0');
-    const day = String(d.getDate()).padStart(2, '0');
-    document.getElementById('dateInput').value = `${y}${m}${day}`;
-  }
-
-  document.getElementById('prev').onclick = () => {
-    offset = Math.max(0, offset - 1);
-    showImage();
-  };
-  document.getElementById('next').onclick = () => {
-    offset = Math.min(daysSinceStart, offset + 1);
-    showImage();
-  };
-
-  document.getElementById('dateInput').addEventListener('keydown', function(e) {
-    if (e.key === 'Enter') {
-      const val = this.value.trim();
-      if (/^\d{8}$/.test(val)) {
-        const y = parseInt(val.slice(0,4),10);
-        const m = parseInt(val.slice(4,6),10);
-        const d = parseInt(val.slice(6,8),10);
-        const inputDate = new Date(y, m-1, d);
-        if (inputDate >= startDate && inputDate <= today) {
-          offset = Math.floor((inputDate - startDate) / (1000*60*60*24));
-          showImage();
-        }
-      }
-    }
-  });
-
-  showImage();
-</script>
+    cons
