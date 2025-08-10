@@ -10,6 +10,7 @@ layout: default
   <button id="prev">←</button>
   <input type="text" id="dateInput" placeholder="yyyymmdd" style="font-size:1.2rem; width:120px; text-align:center;">
   <button id="next">→</button>
+  <button id="autoReloadBtn">自動更新: OFF</button>
 </div>
 
 <script>
@@ -17,6 +18,28 @@ layout: default
   const today = new Date({{ site.time | date: "%Y" }}, {{ site.time | date: "%m" | minus: 1 }}, {{ site.time | date: "%d" }});
   const daysSinceStart = Math.floor((today - startDate) / (1000*60*60*24));
   let offset = daysSinceStart;
+
+  let autoReload = false;
+  let reloadIntervalId = null;
+
+  const btn = document.getElementById('autoReloadBtn');
+  const img = document.getElementById('viewer');
+
+  btn.addEventListener('click', () => {
+    autoReload = !autoReload;
+
+    if (autoReload) {
+      btn.textContent = '自動更新: ON';
+      reloadIntervalId = setInterval(() => {
+        const src = img.src.split('?')[0];
+        img.src = src + '?t=' + new Date().getTime();
+      }, 300000);
+    } else {
+      btn.textContent = '自動更新: OFF';
+      clearInterval(reloadIntervalId);
+      reloadIntervalId = null;
+    }
+  });
 
   function getDateString(daysFromStart) {
     const d = new Date(startDate);
