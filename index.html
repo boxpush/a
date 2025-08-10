@@ -29,13 +29,13 @@ layout: default
     autoReload = !autoReload;
 
     if (autoReload) {
-      btn.textContent = '自動更新: ON';
+      btn.textContent = '自動更新(5分毎): ON';
       reloadIntervalId = setInterval(() => {
         const src = img.src.split('?')[0];
         img.src = src + '?t=' + new Date().getTime();
       }, 300000);
     } else {
-      btn.textContent = '自動更新: OFF';
+      btn.textContent = '自動更新(5分毎): OFF';
       clearInterval(reloadIntervalId);
       reloadIntervalId = null;
     }
