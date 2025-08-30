@@ -174,11 +174,13 @@
       const selected = [...checkboxContainer.querySelectorAll("input:checked")].map(el => el.value);
       if (selected.length === 0) {
         results.textContent = "検索ワードを選んでください";
+        scrollToElmName("results");
         return;
       }
       const keywords = encodeURIComponent(selected.join(","));
       const url = `https://boxpush.d4df816be9225fab.workers.dev/chat`;
       results.textContent = "読み込み中...";
+      scrollToElmName("results");
       for (let attempt = 1; attempt <= 3; attempt++) {
         try {
           const response = await fetch(url, {
@@ -191,7 +193,7 @@
           const buffer = await response.arrayBuffer();
           const data = MessagePack.decode(new Uint8Array(buffer));
           renderResults(data);
-          document.getElementById("results").scrollIntoView({ behavior: "smooth" });
+          scrollToElmName("results");
           return
         } catch (err) {
           console.log(err)
@@ -202,6 +204,9 @@
     window.addEventListener("DOMContentLoaded", () => {
       document.querySelectorAll('input[type="checkbox"]').forEach(cb => cb.checked = false);
     });
+    function scrollToElmName(elmName) {
+      document.getElementById(elmName).scrollIntoView({ behavior: "smooth" });
+    }
     function createYouTubeLink(videoId) {
       const videoUrl = `https://www.youtube.com/watch?v=${videoId}`;
       const thumbnailUrl = `https://img.youtube.com/vi/${videoId}/hqdefault.jpg`;
@@ -288,6 +293,5 @@
 
   </script>
 </body>
-
 
 </html>
