@@ -279,7 +279,7 @@
       }
 
       ['Top', 'Bottom'].forEach(pos => {
-        document.getElementById(`pageInfo${pos}`).textContent = `${currentPage} / ${totalPages}(${totalCount}件)`;
+        document.getElementById(`pageInfo${pos}`).textContent = `${currentPage} / ${totalPages} (${totalCount}件)`;
         document.getElementById(`pageInput${pos}`).value = currentPage; // フォームの値を更新
         document.getElementById(`prevBtn${pos}`).disabled = currentPage === 1;
         document.getElementById(`nextBtn${pos}`).disabled = currentPage === totalPages;
