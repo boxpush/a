@@ -230,7 +230,7 @@
     let jumpPage = 1;
     let totalPages = 1;
 
-    function renderPage(page) {
+    function renderPage(page,totalCount) {
       const pageInputTop = document.getElementById('pageInputTop');
       const pageInputBottom = document.getElementById('pageInputBottom');
       const since = document.getElementById('since');
@@ -279,7 +279,7 @@
       }
 
       ['Top', 'Bottom'].forEach(pos => {
-        document.getElementById(`pageInfo${pos}`).textContent = `${currentPage} / ${totalPages}`;
+        document.getElementById(`pageInfo${pos}`).textContent = `${currentPage} / ${totalPages}(${totalCount}件)`;
         document.getElementById(`pageInput${pos}`).value = currentPage; // フォームの値を更新
         document.getElementById(`prevBtn${pos}`).disabled = currentPage === 1;
         document.getElementById(`nextBtn${pos}`).disabled = currentPage === totalPages;
@@ -308,15 +308,15 @@
         if (!res.ok) throw new Error('取得に失敗しました');
         const text = await res.json();
         result = text.result;
-        total_count = text.total_count;
+        totalCount = text.total_count;
         videos = result.trim() ? result.split('\n').map(line => line.split('\t')) : [];
         filteredVideos = null;
         document.getElementById('loading').style.display = 'none';
         document.getElementById('videoTable').style.display = '';
         document.getElementById('paginationTop').style.display = '';
         document.getElementById('paginationBottom').style.display = '';
-        totalPages = Math.ceil(total_count / PAGE_SIZE);
-        renderPage(page);
+        totalPages = Math.ceil(totalCount / PAGE_SIZE);
+        renderPage(page,totalCount);
       } catch (e) {
         document.getElementById('loading').textContent = e;
       }
