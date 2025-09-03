@@ -44,9 +44,16 @@
     }
 
     td:first-child,
-    th:first-child {
+    td:nth-child(2),
+    td:nth-child(3) th:first-child,
+    th:nth-child(2),
+    th:nth-child(3) {
       white-space: nowrap;
       width: 1%;
+    }
+
+    td:nth-child(2) {
+      text-align: right;
     }
 
     nav {
@@ -196,6 +203,9 @@
         <input type="text" class="searchField" id="maxComment" placeholder="" value="" style="width: 64px;" />
       </div>
     </div>
+    <label><input type="checkbox" id="normal" checked="checked">通常</label>
+    <label><input type="checkbox" id="live" checked="checked">ライブ</label>
+    <label><input type="checkbox" id="short" checked="checked">ショート</label>
     <div class="container">
       <div class="left-column">
         <div class="row">
@@ -230,6 +240,8 @@
     <thead>
       <tr>
         <th>日時</th>
+        <th>視聴回数</th>
+        <th>種</th>
         <th>タイトル</th>
       </tr>
     </thead>
@@ -264,19 +276,24 @@
     const maxFavorite = document.getElementById('maxFavorite');
     const minComment = document.getElementById('minComment');
     const maxComment = document.getElementById('maxComment');
+    const normal = document.getElementById('normal');
+    const live = document.getElementById('live');
+    const short = document.getElementById('short');
     const tbody = document.querySelector('#videoTable tbody');
     const regex = document.getElementById('regex');
     const regex2 = document.getElementById('regex2');
     const loading = document.getElementById('loading');
     let videos = [];
-    let filteredVideos = [];
     let currentPage = 1;
     let jumpPage = 1;
     let totalPages = 1;
+    function scrollToElmName(elmName) {
+      document.getElementById(elmName).scrollIntoView({ behavior: "smooth" });
+    }
 
     function renderPage(page, totalCount) {
       tbody.innerHTML = '';
-      const data = (filteredVideos !== null) ? filteredVideos : videos;
+      const data = videos;
       if (totalPages === 0) totalPages = 1;
       if (page < 1) page = 1;
       if (page > totalPages) page = totalPages;
@@ -285,7 +302,7 @@
       const start = 0;
       const end = Math.min(start + PAGE_SIZE, data.length);
       for (let i = start; i < end; i++) {
-        let [videoId, date, title] = data[i];
+        let [videoId, date, title, kind, viewCount] = data[i];
         videoId = DOMPurify.sanitize(videoId);
         date = DOMPurify.sanitize(date);
         title = DOMPurify.sanitize(title);
@@ -294,7 +311,20 @@
         const dateTd = document.createElement('td');
         dateTd.textContent = date;
         tr.appendChild(dateTd);
-
+        const viewCountTd = document.createElement('td');
+        viewCountTd.textContent = Number(viewCount || 0).toLocaleString('ja-JP');
+        tr.appendChild(viewCountTd);
+        const kindTd = document.createElement('td');
+        if ((kind & 8) > 0) {
+          kindTd.textContent = "🍰";
+        } else if ((kind & 4) > 0) {
+          kindTd.textContent = "🔴";
+        } else if ((kind & 2) > 0) {
+          kindTd.textContent = "🔴";
+        } else {
+          kindTd.textContent = "";
+        }
+        tr.appendChild(kindTd);
         const titleTd = document.createElement('td');
         const a = document.createElement('a');
         a.href = `https://www.youtube.com/watch?v=${videoId}`;
@@ -315,6 +345,7 @@
         document.getElementById(`firstBtn${pos}`).disabled = currentPage === 1;
         document.getElementById(`lastBtn${pos}`).disabled = currentPage === totalPages;
       });
+//      scrollToElmName("paginationTop")
     }
 
     async function loadData() {
@@ -329,11 +360,21 @@
         const desc = searchInput2.value.trim();
         const regex_checked = regex.checked ? 1 : 0;
         const regex2_checked = regex2.checked ? 1 : 0;
+        let kind = normal.checked?1:0;
+        kind += live.checked?6:0;
+        kind += short.checked?8:0;
+        if (kind == 0) {
+          normal.checked = true;
+          live.checked = true;
+          short.checked = true;
+          kind = 1+2+4+8;
+        }
+
         const url = `https://boxpush.d4df816be9225fab.workers.dev/video`;
         const res = await fetch(url, {
           method: "POST",
           headers: { "Content-Type": "application/json" },
-          body: JSON.stringify({ keywords: keywords, desc: desc, regex: regex_checked, regex2: regex2_checked, since: since.value, until: until.value, minTime: minTime.value, maxTime: maxTime.value, minView: minView.value, maxView: maxView.value, minLike: minLike.value, maxLike: maxLike.value, minFavorite: minFavorite.value, maxFavorite: maxFavorite.value, minComment: minComment.value, maxComment: maxComment.value, page: page })
+          body: JSON.stringify({ keywords: keywords, desc: desc, regex: regex_checked, regex2: regex2_checked, since: since.value, until: until.value, minTime: minTime.value, maxTime: maxTime.value, minView: minView.value, maxView: maxView.value, minLike: minLike.value, maxLike: maxLike.value, minFavorite: minFavorite.value, maxFavorite: maxFavorite.value, minComment: minComment.value, maxComment: maxComment.value, kind: kind, page: page })
         });
 
         if (!res.ok) throw new Error('取得に失敗しました');
@@ -341,7 +382,6 @@
         result = text.result;
         totalCount = text.total_count;
         videos = result.trim() ? result.split('\n').map(line => line.split('\t')) : [];
-        filteredVideos = null;
         loading.style.display = 'none';
         document.getElementById('videoTable').style.display = '';
         document.getElementById('paginationTop').style.display = '';
@@ -431,6 +471,9 @@
       maxFavorite.value = '';
       minComment.value = '';
       maxComment.value = '';
+      normal.checked = true;
+      live.checked = true;
+      short.checked = true;
       regex.checked = false;
       regex2.checked = false;
       currentPage = 1;
