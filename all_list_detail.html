@@ -305,7 +305,7 @@
       return `${h}:${m}`;
     }
     function formatYMDHM(ms) {
-      const date = new Date(ms+ 9 * 60 * 60 * 1000);
+      const date = new Date(ms);
       const y = date.getFullYear();
       const m = String(date.getMonth() + 1).padStart(2, "0"); // 月は0始まり
       const d = String(date.getDate()).padStart(2, "0");
