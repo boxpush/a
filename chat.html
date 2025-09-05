@@ -217,14 +217,14 @@
       const thumbnail = document.createElement("img");
       thumbnail.src = thumbnailUrl;
       thumbnail.alt = "YouTube Video Thumbnail";
-      thumbnail.style.width = "320px";
-      thumbnail.style.height = "240px";
+      thumbnail.style.width = "160px";
+      thumbnail.style.height = "120px";
       link.appendChild(thumbnail);
       return link;
     }
 
     function renderResults(data) {
-      const MAX_ROWS = 1000;
+      const MAX_ROWS = 100;
       let rowCount = 0;
       if (Object.keys(data).length === 0) {
         results.textContent = "検索結果は０件です";
@@ -254,7 +254,7 @@
           msg = sanitizeAndConvertImages(msg)
           const tr = document.createElement("tr");
           const td1 = document.createElement("td");
-          td1.textContent = dt;
+          td1.textContent = new Date(unixMs + 9*60*60*1000).toISOString().replace(/T/, ' ').replace(/Z/, '').replace(/-/g,'/').replace(/(\.\d{3})\d+/, '$1');
           tr.appendChild(td1);
           const td2 = document.createElement("td");
           td2.innerHTML = DOMPurify.sanitize(msg, { ALLOWED_TAGS: ['img'], ALLOWED_ATTR: ['src', 'alt', 'style', 'class'] });
