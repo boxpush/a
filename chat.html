@@ -254,7 +254,7 @@
           msg = sanitizeAndConvertImages(msg)
           const tr = document.createElement("tr");
           const td1 = document.createElement("td");
-          td1.textContent = new Date(unixMs + 9*60*60*1000).toISOString().replace(/T/, ' ').replace(/Z/, '').replace(/-/g,'/').replace(/(\.\d{3})\d+/, '$1');
+          td1.textContent = new Date(dt + 9*60*60*1000).toISOString().replace(/T/, ' ').replace(/Z/, '').replace(/-/g,'/').replace(/(\.\d{3})\d+/, '$1');
           tr.appendChild(td1);
           const td2 = document.createElement("td");
           td2.innerHTML = DOMPurify.sanitize(msg, { ALLOWED_TAGS: ['img'], ALLOWED_ATTR: ['src', 'alt', 'style', 'class'] });
