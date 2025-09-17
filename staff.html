@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>スタッ</title>
+  <style>
+    body {
+      background-color: #f0f2f5;
+      margin: 0;
+    }
+
+    .card-container {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 20px;
+      max-width: 1200px;
+      width: 100%;
+    }
+
+    .card-container::after {
+      content: "";
+      flex-basis: 300px;
+      /* 最低カード幅と同じにする */
+    }
+
+    .profile-card {
+      background-color: #ffffff;
+      border-radius: 15px;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+      padding: 30px;
+      max-width: 300px;
+      width: 100%;
+      text-align: center;
+      box-sizing: border-box;
+      flex-grow: 1;
+    }
+
+    .profile-name {
+      font-size: 24px;
+      font-weight: bold;
+      color: #333;
+      margin-bottom: 5px;
+    }
+
+    .profile-bio {
+      font-size: 14px;
+      color: #666;
+      margin-bottom: 20px;
+      line-height: 1.6;
+    }
+
+    .profile-links {
+      list-style: none;
+      padding: 0;
+      margin-top: 20px;
+    }
+
+    .profile-links li {
+      margin-bottom: 15px;
+    }
+
+    .profile-links a {
+      display: block;
+      padding: 12px 20px;
+      border-radius: 8px;
+      text-decoration: none;
+      color: #fff;
+      font-weight: 600;
+      font-size: 16px;
+      transition: background-color 0.3s ease;
+    }
+
+    .link-instagram {
+      background-color: #e4405f;
+    }
+
+    .link-twitter {
+      background-color: #1da1f2;
+    }
+
+    .link-tiktok {
+      background-color: #38ded8;
+    }
+
+    .link-threads {
+      background-color: #000000;
+    }
+
+    .link-facebook {
+      background-color: #0866ff;
+    }
+
+    .link-wikipedia {
+      background-color: #404040;
+    }
+
+    .link-youtube {
+      background-color: #ff0033;
+    }
+
+    .link-etc {
+      background-color: #cccccc;
+    }
+
+    .profile-links a:hover {
+      opacity: 0.85;
+    }
+
+    #back {
+      position: fixed;
+      top: 2px;
+      left: 2px;
+      z-index: 9999;
+      padding: 10px 15px;
+      font-size: 16px;
+      border-radius: 6px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    }
+
+    @media (max-width: 600px) {
+      #back {
+        font-size: 18px;
+        padding: 12px 18px;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <div style="width: 100%;text-align: center;">
+    <h2>スタッ</h2>
+    <div>元出役など.正確性は保証しない</div>
+    <div style="margin-bottom: 20px;"></div>
+    <div id="card-container" class="card-container">
+    </div>
+  </div>
+  <button id="back" onclick="location.href='./'">戻る</button>
+  <script>
+    const cardContainer = document.getElementById('card-container');
+
+    fetch('./txt/staff_profiles.json')
+      .then(response => {
+        if (!response.ok) {
+          throw new Error('Network response was not ok');
+        }
+        return response.json();
+      })
+      .then(profiles => {
+        profiles.forEach(profile => {
+          let cardHTML = `
+                <div class="profile-card">
+                    <div class="profile-name">
+                        ${profile.name}
+                    </div>
+                    ${profile.bio ? `<p class="profile-bio">${profile.bio}</p>` : ''}
+                    <ul class="profile-links">
+            `;
+          const socialLinks = profile.links;
+
+          if (socialLinks.instagram && socialLinks.instagram.length > 0) {
+            socialLinks.instagram.forEach(user => {
+              cardHTML += `
+                        <li>
+                            <a href="https://www.instagram.com/${user}" target="_blank" rel="noopener noreferrer" class="link-instagram">
+                                Instagram
+                            </a>
+                        </li>
+                    `;
+            });
+          }
+
+          if (socialLinks.twitter && socialLinks.twitter.length > 0) {
+            socialLinks.twitter.forEach(user => {
+              cardHTML += `
+                        <li>
+                            <a href="https://twitter.com/${user}" target="_blank" rel="noopener noreferrer" class="link-twitter">
+                                Twitter
+                            </a>
+                        </li>
+                    `;
+            });
+          }
+
+          if (socialLinks.threads && socialLinks.threads.length > 0) {
+            socialLinks.threads.forEach(user => {
+              cardHTML += `
+                        <li>
+                            <a href="https://www.threads.net/@${user}" target="_blank" rel="noopener noreferrer" class="link-threads">
+                                Threads
+                            </a>
+                        </li>
+                    `;
+            });
+          }
+
+          if (socialLinks.tiktok && socialLinks.tiktok.length > 0) {
+            socialLinks.tiktok.forEach(user => {
+              cardHTML += `
+                        <li>
+                            <a href="https://www.tiktok.com/@${user}" target="_blank" rel="noopener noreferrer" class="link-tiktok">
+                                TikTok
+                            </a>
+                        </li>
+                    `;
+            });
+          }
+          if (socialLinks.facebook && socialLinks.facebook.length > 0) {
+            socialLinks.facebook.forEach(user => {
+              cardHTML += `
+                        <li>
+                            <a href="https://www.facebook.com/${user}" target="_blank" rel="noopener noreferrer" class="link-facebook">
+                                Facebook
+                            </a>
+                        </li>
+                    `;
+            });
+          }
+          if (socialLinks.youtube && socialLinks.youtube.length > 0) {
+            socialLinks.youtube.forEach(user => {
+              cardHTML += `
+                        <li>
+                            <a href="https://youtu.be/${user}" target="_blank" rel="noopener noreferrer" class="link-youtube">
+                                YouTube
+                            </a>
+                        </li>
+                    `;
+            });
+          }
+          if (socialLinks.wikipedia && socialLinks.wikipedia.length > 0) {
+            socialLinks.wikipedia.forEach(user => {
+              cardHTML += `
+                        <li>
+                            <a href="https://ja.wikipedia.org/wiki/${user}" target="_blank" rel="noopener noreferrer" class="link-wikipedia">
+                                Wikipedia
+                            </a>
+                        </li>
+                    `;
+            });
+          }
+          if (socialLinks.etc && socialLinks.etc.length > 0) {
+            socialLinks.etc.forEach(user => {
+              cardHTML += `
+                        <li>
+                            <a href="https://${user}" target="_blank" rel="noopener noreferrer" class="link-etc">
+                                etc. 
+                            </a>
+                        </li>
+                    `;
+            });
+          }
+
+          cardHTML += `
+                    </ul>
+                </div>
+            `;
+
+          cardContainer.innerHTML += cardHTML;
+        });
+      })
+      .catch(error => {
+        console.error('There has been a problem with your fetch operation:', error);
+        cardContainer.innerHTML = '<p>データの読み込みに失敗しました。</p>';
+      });
+
+  </script>
+
+</body>
+
+</html>
