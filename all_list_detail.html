@@ -423,6 +423,8 @@
           img.style.maxWidth = "100%";
           img.style.maxHeight = "100%";
           img.style.objectFit = "contain";
+          img.setAttribute('data-vid', videoId);
+          img.addEventListener('click', () => showPopup(img));
           imgTd.appendChild(img);
         } else {
           thumbnail_col.style.display = "none";
@@ -625,6 +627,68 @@
     sort.addEventListener("change", () => {
       localStorage.setItem("sort", sort.value);
     });
+    function showPopup(imgElement) {
+      const videoId = imgElement.getAttribute("data-vid");
+      const modal = document.createElement('div');
+      modal.style.position = "fixed";
+      modal.style.top = 0;
+      modal.style.left = 0;
+      modal.style.width = "100%";
+      modal.style.height = "100%";
+      modal.style.backgroundColor = "rgba(0,0,0,0.8)";
+      modal.style.display = "flex";
+      modal.style.alignItems = "center";
+      modal.style.justifyContent = "center";
+      modal.style.overflow = "auto";
+      modal.style.zIndex = 1000;
+
+
+      const popupImg = document.createElement('img');
+      popupImg.style.objectFit = "contain";
+      popupImg.style.cursor = "pointer";
+      popupImg.style.display = "block";
+      modal.appendChild(popupImg);
+      document.body.appendChild(modal);
+
+      modal.addEventListener('click', () => {
+        window.removeEventListener('resize', adjustSize);
+        document.body.removeChild(modal);
+      });
+      const urls = [
+        `https://img.youtube.com/vi/${videoId}/maxresdefault.jpg`,
+        `https://img.youtube.com/vi/${videoId}/sddefault.jpg`,
+        `https://img.youtube.com/vi/${videoId}/hqdefault.jpg`,
+        `https://img.youtube.com/vi/${videoId}/mqdefault.jpg`,
+      ];
+      let index = 0;
+      function tryNext() {
+        if (index >= urls.length) return;
+        const testImg = new Image();
+        testImg.onload = () => {
+          if (testImg.naturalWidth > 90 && testImg.naturalHeight > 90) {
+            popupImg.src = urls[index];
+            adjustSize();
+          } else {
+            index++;
+            tryNext();
+          }
+        };
+        testImg.onerror = () => {
+          index++;
+          tryNext();
+        };
+        testImg.src = urls[index];
+      }
+      tryNext();
+      function adjustSize() {
+        const vw = window.innerWidth;
+        const vh = window.innerHeight;
+        popupImg.style.maxWidth = vw + "px";
+        popupImg.style.maxHeight = vh + "px";
+      }
+      window.addEventListener('resize', adjustSize);
+    }
+
   </script>
 </body>
 
