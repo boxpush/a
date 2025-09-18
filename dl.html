@@ -179,7 +179,7 @@
 
     window.addEventListener("load", () => {
       //昨日と今日を文字列化
-      const now = Date.now()
+      const now = new Date()
       since.value = new Date(now - 864e5).toLocaleDateString(undefined, { year: 'numeric', month: '2-digit', day: '2-digit' }).replace(/\D/g, '');
       until.value = now.toLocaleDateString(undefined, { year: 'numeric', month: '2-digit', day: '2-digit' }).replace(/\D/g, '');
     });
