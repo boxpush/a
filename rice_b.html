@@ -155,7 +155,7 @@
       <img id="viewer" alt="画像">
     </a>
     <div id="loading-overlay"></div>
-    <div id="max-viewers">--:-- -----</div>
+    <div id="max-viewers"></div>
   </div>
 
   <div class="controls">
@@ -271,12 +271,30 @@
       document.getElementById('imageLink').href = imgSrc;
 
       const newImg = new Image();
+      const d = new Date(startDate);
+      d.setDate(d.getDate() + offset);
+      const y = d.getFullYear();
+      const m = String(d.getMonth() + 1).padStart(2, '0');
+      const day = String(d.getDate()).padStart(2, '0');
+      document.getElementById('dateInput').value = `${y}${m}${day}`;
+
       newImg.onload = () => {
         img.src = newImg.src;
         if (showLoading) {
           loadingOverlay.style.display = 'none';
           img.style.opacity = '1';
         }
+        fetch(txtSrc + '?t=' + new Date().getTime())
+          .then(response => {
+            if (!response.ok) throw new Error('');
+            return response.text();
+          })
+          .then(text => {
+            document.getElementById('max-viewers').textContent = text;
+          })
+          .catch(error => {
+            document.getElementById('max-viewers').textContent = '';
+          });
       };
       newImg.onerror = () => {
         if (showLoading) {
@@ -287,24 +305,6 @@
       };
       newImg.src = imgSrc + '?t=' + new Date().getTime();
 
-      const d = new Date(startDate);
-      d.setDate(d.getDate() + offset);
-      const y = d.getFullYear();
-      const m = String(d.getMonth() + 1).padStart(2, '0');
-      const day = String(d.getDate()).padStart(2, '0');
-      document.getElementById('dateInput').value = `${y}${m}${day}`;
-
-      fetch(txtSrc + '?t=' + new Date().getTime())
-        .then(response => {
-          if (!response.ok) throw new Error('');
-          return response.text();
-        })
-        .then(text => {
-          document.getElementById('max-viewers').textContent = text;
-        })
-        .catch(error => {
-          document.getElementById('max-viewers').textContent = '';
-        });
     }
 
     document.getElementById('prev').onclick = () => {
