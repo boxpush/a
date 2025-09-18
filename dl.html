@@ -178,11 +178,10 @@
     });
 
     window.addEventListener("load", () => {
-      //昨日を文字列化
-      console.log(new Date().toString());
-      const yyyymmdd = new Date(Date.now() - 864e5).toLocaleDateString(undefined, { year: 'numeric', month: '2-digit', day: '2-digit' }).replace(/\D/g, '');
-      since.value = yyyymmdd;
-      until.value = yyyymmdd;
+      //昨日と今日を文字列化
+      const now = Date.now()
+      since.value = new Date(now - 864e5).toLocaleDateString(undefined, { year: 'numeric', month: '2-digit', day: '2-digit' }).replace(/\D/g, '');
+      until.value = now.toLocaleDateString(undefined, { year: 'numeric', month: '2-digit', day: '2-digit' }).replace(/\D/g, '');
     });
   </script>
 </body>
