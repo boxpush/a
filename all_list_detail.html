@@ -230,7 +230,6 @@
     }
 
     #popup {
-
       display: none;
       text-align: center;
       position: fixed;
@@ -241,6 +240,7 @@
       border-radius: 10px;
       overflow: visible;
       z-index: 1000;
+      pointer-events:none;
     }
 
     #popup.landscape {
@@ -266,6 +266,7 @@
       width: calc(100% - 120px);
       height: 100%;
       border: 0;
+      pointer-events: auto;
     }
   </style>
 
