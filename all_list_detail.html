@@ -156,7 +156,7 @@
       position: fixed;
       top: 2px;
       left: 2px;
-      z-index: 9999;
+      z-index: 990;
       padding: 10px 15px;
       font-size: 16px;
       border-radius: 6px;
@@ -181,6 +181,29 @@
       gap: 5px;
     }
 
+    #popupNav {
+      position: absolute;
+      top: 50%;
+      left: 0;
+      right: 0;
+      display: flex;
+      justify-content: space-between;
+      transform: translateY(-50%);
+      pointer-events: none;
+      z-index: 1001;
+    }
+
+    #popupNav button {
+      pointer-events: auto;
+      background: rgba(0, 0, 0, 0.6);
+      color: #fff;
+      border: none;
+      padding: 8px 12px;
+      border-radius: 4px;
+      font-size: 24px;
+      cursor: pointer;
+    }
+
     #popupBg {
       display: none;
       position: fixed;
@@ -194,43 +217,53 @@
 
     #closeBtn {
       position: absolute;
-      top: 2px;
-      right: 2px;
+      top: 0;
+      right: 0;
       z-index: 1001;
       background: rgba(0, 0, 0, 0.6);
       color: #fff;
       border: none;
       font-size: 24px;
       cursor: pointer;
-      border-radius: 5px;
+      padding: 8px 12px;
+      border-radius: 0;
     }
 
     #popup {
+
       display: none;
+      text-align: center;
       position: fixed;
       top: 50%;
       left: 50%;
       transform: translate(-50%, -50%);
-      background: #000;
+      background: transparent;
       border-radius: 10px;
-      overflow: hidden;
+      overflow: visible;
       z-index: 1000;
     }
 
     #popup.landscape {
-      width: 90vw;
+      width: calc(90vw + 120px);
       height: calc(90vw * 9 / 16);
       max-height: 90vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
     }
 
     #popup.portrait {
       height: 90vh;
-      width: calc(90vh * 9 / 16);
+      width: calc(90vh * 9 / 16 + 120px);
       max-width: 90vw;
+      display: flex;
+      align-items: center;
+      justify-content: center;
     }
 
     #popup iframe {
-      width: 100%;
+      display: inline-block;
+      width: calc(100% - 120px);
       height: 100%;
       border: 0;
     }
@@ -332,6 +365,10 @@
   <div id="popup">
     <button id="closeBtn">×</button>
     <iframe id="ytIframe" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <div id="popupNav">
+      <button id="prevVideo">←</button>
+      <button id="nextVideo">→</button>
+    </div>
   </div>
 
   <nav id="paginationBottom" style="display:none;">
@@ -375,10 +412,14 @@
     let currentPage = 1;
     let jumpPage = 1;
     let totalPages = 1;
+    let currentIndex = 0;
     const popupBg = document.getElementById('popupBg');
     const popup = document.getElementById('popup');
     const iframe = document.getElementById('ytIframe');
     const closeBtn = document.getElementById('closeBtn');
+    const prevVideo = document.getElementById("prevVideo");
+    const nextVideo = document.getElementById("nextVideo");
+
 
     toTimeStr = t => new Date(t * 1e3).toISOString().substr(t < 3600 ? 14 : 11, t < 3600 ? 5 : 8)
     function formatTime(ms) {
@@ -455,8 +496,9 @@
         tr.appendChild(durationTd);
         //種別
         const kindTd = document.createElement('td');
-        kindTd.addEventListener('click', () => openPopup(kindTd));
+        kindTd.addEventListener('click', () => openPopupAtIndex(i));
         kindTd.setAttribute('data-vid', videoId);
+        kindTd.style.cursor = 'pointer';
         if ((kind & 2) > 0) {
           kindTd.textContent = "🍰";
           kindTd.setAttribute('data-kind', "short");
@@ -467,7 +509,7 @@
         } else if ((kind & 32) > 0) {
           kindTd.textContent = "⚪";
         } else {
-          kindTd.textContent = "";
+          kindTd.textContent = "🎞️";
         }
         tr.appendChild(kindTd);
         //開始時刻
@@ -490,6 +532,7 @@
           img.style.maxHeight = "100%";
           img.style.objectFit = "contain";
           img.setAttribute('data-vid', videoId);
+          img.style.cursor = 'pointer';
           img.addEventListener('click', () => showPopup(img));
           imgTd.appendChild(img);
         } else {
@@ -755,26 +798,11 @@
       window.addEventListener('resize', adjustSize);
     }
 
-
-    // ポップアップ表示関数
-    function openPopup(element) {
-      const videoId = element.getAttribute("data-vid");
-      const kind = element.getAttribute("data-kind");
-      iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
-      popup.style.display = 'block';
-      popupBg.style.display = 'block';
-      if (kind === "short") {
-        popup.classList.remove("landscape");
-        popup.classList.add("portrait");
-      } else {
-        popup.classList.remove("portrait");
-        popup.classList.add("landscape");
-      }
-    }
     function closePopup() {
       iframe.src = "";
       popup.style.display = 'none';
       popupBg.style.display = 'none';
+      document.getElementById('popupNav').style.display = 'none';
     }
     popupBg.addEventListener('click', closePopup);
     closeBtn.addEventListener('click', closePopup);
@@ -783,7 +811,36 @@
         closePopup();
       }
     });
+    prevVideo.addEventListener('click', () => {
+      if (currentIndex > 0) openPopupAtIndex(currentIndex - 1);
+    });
+    nextVideo.addEventListener('click', () => {
+      if (currentIndex < videos.length - 1) openPopupAtIndex(currentIndex + 1);
+    });
+    function openPopupAtIndex(index) {
+      if (index < 0 || index >= videos.length) return;
+      currentIndex = index;
+      const [videoId, , , kindRaw] = videos[index];
+      const kind = ((kindRaw & 2) > 0) ? "short" : "normal";
 
+      iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+      iframe.setAttribute('modestbranding', '1');
+      popup.dataset.kind = kind;
+      popup.style.display = 'block';
+      popupBg.style.display = 'block';
+
+      // 縦横判定
+      if (kind === "short") {
+        popup.classList.remove("landscape");
+        popup.classList.add("portrait");
+      } else {
+        popup.classList.remove("portrait");
+        popup.classList.add("landscape");
+      }
+      prevVideo.style.visibility = (index > 0) ? "visible" : "hidden";
+      nextVideo.style.visibility = (index < videos.length - 1) ? "visible" : "hidden";
+      document.getElementById('popupNav').style.display = 'flex';
+    }
   </script>
 </body>
 
