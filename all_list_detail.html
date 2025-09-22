@@ -726,8 +726,7 @@
           kind = 1 + 2 + 4;
         }
 
-        //        const url = `https://boxpush.d4df816be9225fab.workers.dev/video`;
-        const url = new URL('http://localhost:5000/video');
+        const url = `https://boxpush.d4df816be9225fab.workers.dev/video`;
         url.searchParams.append('keywords', keywords);
         url.searchParams.append('desc', desc);
         url.searchParams.append('regex', regex_checked);
@@ -746,7 +745,7 @@
         url.searchParams.append('sort', sort.value);
         url.searchParams.append('autoPlay', autoPlay.value);
         url.searchParams.append('page', page);
-        const res = await fetchBoth(url, "GET");
+        const res = await fetchBoth(url, "POST");
         if (!res.ok) throw new Error('取得に失敗しました');
         const text = await res.json();
         result = text.result;
