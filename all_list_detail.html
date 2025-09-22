@@ -726,7 +726,7 @@
           kind = 1 + 2 + 4;
         }
 
-        const url = `https://boxpush.d4df816be9225fab.workers.dev/video`;
+        const url = new URL("https://boxpush.d4df816be9225fab.workers.dev/video");
         url.searchParams.append('keywords', keywords);
         url.searchParams.append('desc', desc);
         url.searchParams.append('regex', regex_checked);
