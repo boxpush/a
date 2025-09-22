@@ -190,20 +190,16 @@
       right: 0;
       display: flex;
       justify-content: space-between;
-      /* 左右に配置 */
       transform: translateY(-50%);
       pointer-events: none;
       z-index: 1001;
     }
 
-    /* 左右のコンテナ */
     .navColumn {
       display: flex;
       flex-direction: column;
-      /* 縦に並べる */
       justify-content: center;
       gap: 10px;
-      /* ボタンの間隔 */
       pointer-events: auto;
     }
 
@@ -217,7 +213,6 @@
       font-size: 12px;
       cursor: pointer;
     }
-
     #prevVideo,
     #nextVideo {
       background: rgba(0, 0, 0, 0.6);
@@ -228,18 +223,6 @@
       font-size: 20px;
       cursor: pointer;
     }
-
-    #popupBg {
-      display: none;
-      position: fixed;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
-      background: rgba(0, 0, 0, 0.8);
-      z-index: 999;
-    }
-
     #closeBtn {
       position: absolute;
       top: 0;
@@ -253,7 +236,42 @@
       padding: 8px 12px;
       border-radius: 0;
     }
+    @media (orientation: portrait) {
+      .navColumn:first-child {
+        transform: translateX(-40px); 
+        gap: 20px;
+      }
+      .navColumn:last-child {
+        transform: translateX(40px); 
+        gap: 20px;
+      }      
+      #prevVideo,
+      #nextVideo {
+        font-size: 32px;
+        padding: 8px 8px;
+      }
+      #prevAuto,
+      #nextAuto {
+        font-size: 20px;
+        padding: 8px 12px;
+      }
+      #closeBtn {
+        transform: translateX(20px); 
+        font-size: 64px;
+        padding: 2px 2px;
+      }
+    }
 
+    #popupBg {
+      display: none;
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: rgba(0, 0, 0, 0.8);
+      z-index: 999;
+    }
     #popup {
       display: none;
       text-align: center;
