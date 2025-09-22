@@ -851,6 +851,7 @@
       setInput(short, true);
       setInput(is_thumbnail, false)
       setInput(sort, "0");
+      setInput(autoPlay, "0")
       regex.checked = false;
       regex2.checked = false;
       currentPage = 1;
@@ -882,6 +883,7 @@
       loadInput(live);
       loadInput(short);
       loadInput(sort);
+      loadInput(autoPlay);
       // ページ読み込み時に初期ワードで検索
       applyFilter();
     });
@@ -899,6 +901,9 @@
     });
     sort.addEventListener("change", () => {
       localStorage.setItem("sort", sort.value);
+    });
+    autoPlay.addEventListener("change", () => {
+      localStorage.setItem("autoPlay", autoPlay.value);
     });
     function showPopupImg(imgElement) {
       const videoId = imgElement.getAttribute("data-vid");
