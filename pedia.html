@@ -1,0 +1,467 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" href="./favicon.ico" type="image/x-icon">
+  <title>ウェザペディア</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f4;
+      margin: 0;
+      padding: 0;
+    }
+    h1,h2,h3 {
+      text-align: center;
+      color: #333;
+      margin: 20px 0;
+    }
+
+    h4 {
+    margin-bottom: -0.8em;
+    }
+    h4::before {
+      content: "・";
+    }
+    div {
+    padding-left: 1em;
+    white-space: pre-wrap;
+    }
+    .active {
+    font-weight:bold;
+    }
+    .ex {
+    color:blue;
+    }
+    a[href=""] {
+  color: red;
+  pointer-events: none;
+  text-decoration: none;
+}
+    #back {
+      position: fixed;
+      top: 2px;
+      left: 2px;
+      z-index: 9999;
+      padding: 10px 15px;
+      font-size: 16px;
+      border-radius: 6px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    }
+    @media (max-width: 600px) {
+      #back {
+        font-size: 18px;
+        padding: 12px 18px;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <button id="back" onclick="location.href='./'">戻る</button>
+  <h1>ウェザペディア</h1>
+  <h3>本家に載らない小ネタなど</h3>
+
+
+<h4>オーディションとオーボシャンの歴史</h4>
+<div>
+おは天第１期
+応募期間：2005.09.01-2005.09.15(推定)
+応募資格：
+応募：２１１５名　合格：６名　倍率：３５２．５倍
+合格者：
+<a href="https://ja.wikipedia.org/wiki/%E7%9F%B3%E7%94%B0%E7%B4%97%E8%8B%B1%E5%AD%90" target="_blank" rel="noopener noreferrer">石田紗英子</a>　客室乗務員→WNI→共同テレビ→WNI→グラビア
+<a href="" target="_blank" rel="noopener noreferrer">石上智恵子</a>
+<a href="" target="_blank" rel="noopener noreferrer">松本留衣子</a>
+<a href="https://www.kanakomaruyama.com/" target="_blank" rel="noopener noreferrer">長嶺加奈子</a>　モデル・女優→WNI
+<a href="https://ja.wikipedia.org/wiki/%E6%B8%A1%E8%BE%BA%E3%82%8A%E3%81%88%E3%81%93" target="_blank" rel="noopener noreferrer">渡辺りえこ</a>　WNI→サインシンガーソングライター
+<a href="" target="_blank" rel="noopener noreferrer">吉村綾子</a>
+
+</div>
+
+<div>
+おは天第２期
+応募期間：2005.12.31-2006.01.15
+応募資格：18-30歳の女性,事務所に所属していない
+応募：約２１００名　合格：１０名　倍率：２１０倍
+合格者：
+<a href="" target="_blank" rel="noopener noreferrer">中村もえこ</a>
+<a href="https://ja.wikipedia.org/wiki/%E8%8F%8A%E6%B1%A0%E7%9C%9F%E4%BB%A5" target="_blank" rel="noopener noreferrer">菊池真以💎</a>　慶應義塾大学→WNI→NHK水戸契約キャスター→東海テレビ気象キャスター→WNI→ NHK大阪→NHKニュース7
+<a href="https://ja.wikipedia.org/wiki/%E8%97%A4%E5%8E%9F%E8%8C%89%E5%A4%AE" target="_blank" rel="noopener noreferrer">藤原茉央</a>　WNI→タレント
+<a href="" target="_blank" rel="noopener noreferrer">西田絵梨香</a>
+<a href="https://ja.wikipedia.org/wiki/%E7%A6%8F%E5%B3%B6%E5%BD%A9%E4%B9%83" target="_blank" rel="noopener noreferrer">福島彩乃</a>　金沢大学→WNI→北陸放送アナウンサー→フリー
+<a href="https://ja.wikipedia.org/wiki/%E6%A8%8B%E7%94%B0%E3%81%8B%E3%81%8A%E3%82%8A" target="_blank" rel="noopener noreferrer">樋田かおり</a>　金城学院大学→WNI→青森放送→フリー→株式会社トークナビ代表取締役
+<a href="https://ja.wikipedia.org/wiki/%E6%9C%89%E5%B7%9D%E9%9B%85%E5%AD%90" target="_blank" rel="noopener noreferrer">有川雅子💎</a>　鹿児島大学→WNI→タレント→鹿児島放送制作スタッフ→WNI→フリー
+<a href="" target="_blank" rel="noopener noreferrer">馬場あやか</a>
+<a href="https://ja.wikipedia.org/wiki/%E4%BB%8A%E9%87%8E%E7%BE%8E%E9%87%8C" target="_blank" rel="noopener noreferrer">今野美里</a>　日本ハムファイターズガール→WNI→浅井企画
+<a href="" target="_blank" rel="noopener noreferrer">宮里祥子</a>
+
+</div>
+<div>
+おは天第３期
+応募期間：2006.04.01-2006.04.23 
+応募資格：18-30歳の女性,事務所に所属していない
+応募：約２６００名　合格：１０名　倍率：２６０倍
+合格者：
+<a href="https://ja.wikipedia.org/wiki/%E7%9F%B3%E6%A9%8B%E4%BD%B3%E5%A5%88" target="_blank" rel="noopener noreferrer">石橋佳奈</a>　 札幌大学→生島企画室→WNI
+<a href="" target="_blank" rel="noopener noreferrer">横谷知佳</a>
+<a href="https://ja.wikipedia.org/wiki/%E4%BC%8A%E8%97%A4%E8%88%9E_(%E3%82%A2%E3%83%8A%E3%82%A6%E3%83%B3%E3%82%B5%E3%83%BC)" target="_blank" rel="noopener noreferrer">伊藤舞</a>　お茶の水女子大学→WNI→福岡放送アナウンサー
+<a href="" target="_blank" rel="noopener noreferrer">井上晴香</a>
+<a href="https://ja.wikipedia.org/wiki/%E7%99%BD%E9%A0%88%E6%85%B6%E5%AD%90" target="_blank" rel="noopener noreferrer">白須慶子</a>　ヴァンフォーレ甲府マスコットガール→WNI→女優
+<a href="https://ja.wikipedia.org/wiki/%E6%B0%B8%E8%A6%8B%E4%BD%B3%E7%B9%94" target="_blank" rel="noopener noreferrer">永見佳織</a>　子役→椙山女学園大学→ジュビロ磐田マスコットガール→WNI→高知放送アナウンサー→静岡第一テレビアナウンサー
+<a href="https://ja.wikipedia.org/wiki/%E6%A3%AE%E5%B4%8E%E5%8F%8B%E7%B4%80" target="_blank" rel="noopener noreferrer">森崎友紀</a>　管理栄養士→料理研究家→WNI→グラビア→株式会社 UNITY MAGENTA. 代表取締役
+<a href="https://ja.wikipedia.org/wiki/%E5%B1%B1%E7%94%B0%E6%B3%B0%E8%91%89" target="_blank" rel="noopener noreferrer">山田泰葉💎</a>　WNI→ハーキュリーズ→会社員→WNI
+<a href="" target="_blank" rel="noopener noreferrer">屋宜加奈子</a>
+<a href="" target="_blank" rel="noopener noreferrer">山本いつみ</a>
+
+</div>
+<div>
+おは天第４期
+応募期間：2006.07.01-2006.07.25
+応募資格：18-30歳の女性
+応募：約１７００名　合格：１４名　倍率：１２１倍
+合格者：
+<a href="" target="_blank" rel="noopener noreferrer">岩崎可苗</a>
+<a href="" target="_blank" rel="noopener noreferrer">岡久亜由美</a>
+<a href="https://ja.wikipedia.org/wiki/%E4%BD%90%E3%80%85%E6%9C%A8%E7%B6%BE%E9%A6%99" target="_blank" rel="noopener noreferrer">佐々木綾香</a>　白百合女子大学→WNI→タレント→株式会社なないろ代表取締役
+<a href="" target="_blank" rel="noopener noreferrer">三浦絢乃</a>
+<a href="" target="_blank" rel="noopener noreferrer">小野由貴</a>
+<a href="https://ja.wikipedia.org/wiki/%E5%AE%AE%E5%B3%B6%E5%92%B2%E8%89%AF" target="_blank" rel="noopener noreferrer">宮島咲良</a>　共立女子大学→WNI→九州朝日放送アナウンサー→ナベプロ→グラビア
+<a href="" target="_blank" rel="noopener noreferrer">竹田美代子</a>
+<a href="https://ja.wikipedia.org/wiki/%E7%AB%B9%E6%9D%91%E3%82%8A%E3%82%91" target="_blank" rel="noopener noreferrer">竹村りゑ</a>　金沢大学→WNI→NHK名古屋契約キャスター→北陸放送アナウンサー→フリー
+<a href="" target="_blank" rel="noopener noreferrer">尼田真奈美</a>
+<a href="" target="_blank" rel="noopener noreferrer">権藤陽子</a>
+<a href="" target="_blank" rel="noopener noreferrer">藤本侑佑馨</a>
+<a href="https://ja.wikipedia.org/wiki/%E4%B8%89%E4%BA%95%E3%82%8A%E3%81%82" target="_blank" rel="noopener noreferrer">三井りあ</a>　グラビア→WNI
+<a href="" target="_blank" rel="noopener noreferrer">池田佳代</a>
+<a href="" target="_blank" rel="noopener noreferrer">内海愛子</a>
+
+</div>
+<div>
+おは天第５期
+応募期間：2006.11.01-2006.11.21
+応募資格：18-30歳の女性
+応募：約１８００名　合格：１４名　倍率：１２８倍
+合格者：
+<a href="" target="_blank" rel="noopener noreferrer">牧村麻美</a>
+<a href="" target="_blank" rel="noopener noreferrer">服部宏美</a>
+<a href="" target="_blank" rel="noopener noreferrer">山本百合子</a>
+<a href="https://ja.wikipedia.org/wiki/%E6%9C%A8%E5%B3%B6%E7%94%B1%E5%88%A9%E9%A6%99" target="_blank" rel="noopener noreferrer">木島由利香💎</a>　立命館大学→WNI
+<a href="https://ja.wikipedia.org/wiki/%E6%9E%97%E8%A3%95%E5%AD%90" target="_blank" rel="noopener noreferrer">林裕子</a>　モデル→WNI→フリー→クィーンズアベニュー→竹内勇人と結婚
+<a href="" target="_blank" rel="noopener noreferrer">朝本じゅん</a>
+<a href="" target="_blank" rel="noopener noreferrer">小野寺尚子</a>
+<a href="" target="_blank" rel="noopener noreferrer">後藤詩乃</a>
+<a href="" target="_blank" rel="noopener noreferrer">内田ひろみ</a>
+<a href="" target="_blank" rel="noopener noreferrer">福永麻衣子</a>
+<a href="" target="_blank" rel="noopener noreferrer">三好あかり</a>
+<a href="" target="_blank" rel="noopener noreferrer">安井衣里</a>
+<a href="" target="_blank" rel="noopener noreferrer">山田真央</a>
+<a href="https://ja.wikipedia.org/wiki/%E5%A4%A7%E8%A5%BF%E6%9A%81%E5%AD%90" target="_blank" rel="noopener noreferrer">大西暁子</a>
+
+</div>
+<div>
+おは天第６期
+応募期間：2007.03.01-2007.03.21
+応募資格：18-30歳の女性
+応募：約１６００名　合格：１４名　倍率：１１４倍
+合格者：
+<a href="https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%9C%AC%E3%81%82%E3%82%86%E7%BE%8E" target="_blank" rel="noopener noreferrer">松本あゆ美💎</a>　日本女子大学→WNI→ミス日本女子大学→セント・フォース
+<a href="https://ja.wikipedia.org/wiki/%E7%94%B0%E4%B8%AD%E3%81%BF%E3%81%AE%E3%82%8A" target="_blank" rel="noopener noreferrer">田中みのり</a>　モデル→WNI
+<a href="" target="_blank" rel="noopener noreferrer">松岡永里子</a>
+<a href="" target="_blank" rel="noopener noreferrer">山中未来恵</a>
+<a href="" target="_blank" rel="noopener noreferrer">早川実緒</a>
+<a href="https://ja.wikipedia.org/wiki/%E5%B1%B1%E4%B8%8B%E4%BD%B3%E4%BB%A3" target="_blank" rel="noopener noreferrer">山下佳代</a>　ジュニアアイドル→愛知学院大学→WNI→AV女優(<a href="https://ja.wikipedia.org/wiki/%E4%BC%8A%E6%9D%B1%E9%81%A5" target="_blank" rel="noopener noreferrer">伊東遥</a>)
+<a href="https://ja.wikipedia.org/wiki/%E4%BD%90%E8%97%A4%E5%8D%83%E6%99%B6" target="_blank" rel="noopener noreferrer">佐藤千晶</a>　成城大学→WNI→東日本放送→メ～テレ→フリーアナウンサー
+<a href="https://ja.wikipedia.org/wiki/%E4%BC%8A%E8%97%A4%E3%82%8A%E3%81%88_(%E5%A4%A9%E6%B0%97%E3%82%AD%E3%83%A3%E3%82%B9%E3%82%BF%E3%83%BC)" target="_blank" rel="noopener noreferrer">伊藤りえ</a>
+<a href="" target="_blank" rel="noopener noreferrer">今村有里</a>
+<a href="" target="_blank" rel="noopener noreferrer">笹川苑子</a>
+<a href="" target="_blank" rel="noopener noreferrer">城戸梨沙</a>
+<a href="" target="_blank" rel="noopener noreferrer">尾崎倫子</a>
+<a href="" target="_blank" rel="noopener noreferrer">下河原由起子</a>
+<a href="" target="_blank" rel="noopener noreferrer">渋谷実由生</a>
+
+</div>
+<div>
+おは天第７期
+応募期間：2007.07.02-2007.07.25
+応募資格：18-30歳の女性
+応募：約２０００名　合格：１４名　倍率：１４２倍
+合格者：
+<a href="https://ja.wikipedia.org/wiki/%E9%AB%98%E9%87%8E%E8%90%8C" target="_blank" rel="noopener noreferrer">高野萌</a>　横浜市立大学→WNI→NHK神戸契約キャスター→東日本放送→セント・フォース
+<a href="https://ja.wikipedia.org/wiki/%E8%A5%BF%E5%B7%9D%E9%87%8C%E7%BE%8E" target="_blank" rel="noopener noreferrer">西川里美</a>
+吉田真葉</a>
+<a href="https://ja.wikipedia.org/wiki/%E6%9F%9A%E5%B8%8C%E3%81%BE%E3%82%86" target="_blank" rel="noopener noreferrer">柚希まゆ</a>
+<a href="https://ja.wikipedia.org/wiki/%E5%B0%BE%E5%B4%8E%E3%81%AA%E3%81%AA%E3%81%BF" target="_blank" rel="noopener noreferrer">尾崎ななみ</a>
+<a href="https://ja.wikipedia.org/wiki/%E5%B7%9D%E9%83%A8%E7%B5%A2%E5%AD%90" target="_blank" rel="noopener noreferrer">川部絢子</a>　立教大学→WNI→テレビ岩手
+<a href="" target="_blank" rel="noopener noreferrer">坪井友里</a>
+<a href="https://ja.wikipedia.org/wiki/%E5%9C%9F%E7%94%B0%E3%81%B2%E3%82%8D%E5%AD%90" target="_blank" rel="noopener noreferrer">土田ひろ子</a>　玉川大学→WNI→女優
+<a href="" target="_blank" rel="noopener noreferrer">牛島恵</a>
+<a href="https://ja.wikipedia.org/wiki/%E9%95%B7%E5%B4%8E%E7%9C%9F%E5%8F%8B%E5%AD%90" target="_blank" rel="noopener noreferrer">長崎真友子</a>　北九州市立大学→WNI→九州朝日放送(派遣)→フリーインスパイア・ホールディングス→スタッフ・アップ→ホリプロ
+<a href="" target="_blank" rel="noopener noreferrer">寺嶋華絵</a>
+<a href="https://ja.wikipedia.org/wiki/%E6%B5%9C%E5%B4%8E%E6%85%B6%E7%BE%8E" target="_blank" rel="noopener noreferrer">浜崎慶美</a>　WNI→グラビア
+瓜屋香織</a>
+<a href="" target="_blank" rel="noopener noreferrer">横谷有紀</a>
+
+</div>
+<div>
+おは天第８期
+応募期間：2007.11.01-200711.21
+応募資格：18-30歳の女性
+応募：約１９００名　合格：１４名　倍率：１３５倍
+合格者：
+<a href="" target="_blank" rel="noopener noreferrer">樋口奈津子</a>
+<a href="https://ja.wikipedia.org/wiki/%E5%B0%8F%E9%87%8E%E6%81%B5%E7%BE%8E" target="_blank" rel="noopener noreferrer">小野英美</a>　日本大学→WNI→長野放送→スターダスト
+竹中千雅</a>
+<a href="" target="_blank" rel="noopener noreferrer">東彩加</a>
+<a href="" target="_blank" rel="noopener noreferrer">大川みなみ</a>
+<a href="" target="_blank" rel="noopener noreferrer">母袋日登見</a>
+<a href="" target="_blank" rel="noopener noreferrer">長橋彩子</a>
+<a href="" target="_blank" rel="noopener noreferrer">肘井友里</a>
+<a href="" target="_blank" rel="noopener noreferrer">笹川歩子</a>
+<a href="https://ja.wikipedia.org/wiki/%E7%A5%9E%E8%B0%B7%E7%BE%8E%E5%AF%BF%E3%80%85" target="_blank" rel="noopener noreferrer">神谷美寿々</a>　WNI→モデル→山形テレビアナウンサー→東海テレビアナウンサー→福島テレビアナウンサー
+<a href="" target="_blank" rel="noopener noreferrer">沖田愛</a>
+<a href="" target="_blank" rel="noopener noreferrer">大塚春香</a>
+<a href="https://ja.wikipedia.org/wiki/%E5%8D%97%E6%B3%A2%E7%B3%B8%E6%B1%9F" target="_blank" rel="noopener noreferrer">南波糸江</a>　立命館大学→ミス小野小町→オスカー→WNI→共同テレビ→生島企画室→ミセスジャパン
+<a href="" target="_blank" rel="noopener noreferrer">好咲有美</a>
+
+</div>
+<div>
+おは天第９期
+応募期間：2008.03.01-2008.03.25
+応募資格：18-30歳の女性
+応募：約２１００名　合格：１４名　倍率：１５０倍
+合格者：
+<a href="https://ja.wikipedia.org/wiki/%E4%BA%95%E4%B8%8A%E3%81%99%E3%81%BF%E3%82%8C" target="_blank" rel="noopener noreferrer">井上すみれ</a>　東京女子大学→ミス東京女子大学→WNI
+<a href="" target="_blank" rel="noopener noreferrer">青木麻美</a>
+<a href="https://ja.wikipedia.org/wiki/%E6%9D%B1%E3%83%A6%E3%83%AA" target="_blank" rel="noopener noreferrer">東ユリ</a>　グラビア→ワンエイトプロモーション→WNI→レースクイーン→アライブエンタテインメント
+<a href="https://ja.wikipedia.org/wiki/%E5%A4%A7%E8%B0%B7%E5%92%B2%E5%AD%90" target="_blank" rel="noopener noreferrer">大谷咲子</a>　DJ→WNI→ホーリーピーク→フリー
+<a href="" target="_blank" rel="noopener noreferrer">須見愛</a>
+<a href="" target="_blank" rel="noopener noreferrer">加藤亜衣</a>
+<a href="" target="_blank" rel="noopener noreferrer">大久保育世</a>
+<a href="" target="_blank" rel="noopener noreferrer">鈴木奈々</a>
+<a href="" target="_blank" rel="noopener noreferrer">大竹真由</a>
+<a href="" target="_blank" rel="noopener noreferrer">香山智里</a>
+<a href="https://ja.wikipedia.org/wiki/%E6%A5%AA%E6%9C%9B" target="_blank" rel="noopener noreferrer">楪望</a>　横浜国立大学→WNI→て広島ホームテレビアナウンサー→テレビ大阪契約アナウンサー→オフィスキイワード
+<a href="https://ja.wikipedia.org/wiki/%E8%A7%92%E5%B3%B6%E5%A5%88%E7%9F%A5" target="_blank" rel="noopener noreferrer">角島奈知</a>　広島文化短期大学中退→アイドル→WNI
+<a href="https://ja.wikipedia.org/wiki/%E4%B8%8A%E9%81%A0%E9%87%8E%E7%B4%97%E7%B9%94" target="_blank" rel="noopener noreferrer">上遠野紗織</a>　慶應義塾大学→会社員→千葉ロッテチアリーディング→東京アパッチダンスチーム→WNI
+<a href="" target="_blank" rel="noopener noreferrer">田中聡美</a>
+
+</div>
+<div>
+おは天第１０期
+応募期間：2008.07.01-2008.07.25(推定)
+応募資格：
+応募：２４８２名　合格：１４名　倍率：１７７．２倍
+合格者：
+<a href="https://ja.wikipedia.org/wiki/%E7%9F%B3%E7%A5%9E%E3%82%88%E3%81%86%E5%AD%90" target="_blank" rel="noopener noreferrer">石神陽子</a>　	学習院大学→WNI→ダホンガール
+<a href="https://ja.wikipedia.org/wiki/%E5%B1%B1%E5%B2%B8%E6%84%9B%E6%A2%A8" class="active" target="_blank" rel="noopener noreferrer">山岸愛梨💎</a>　文化女子大学→声優→ジェイ・クリップ→WNI
+<a href="https://ja.wikipedia.org/wiki/%E7%89%A7%E9%87%8E%E7%B5%90%E7%BE%8E" target="_blank" rel="noopener noreferrer">牧野結美</a>　同志社大学→WNI→静岡朝日テレビアナウンサー→フリーアナウンサー→サイバーエージェント広報
+<a href="https://ja.wikipedia.org/wiki/%E6%B1%9F%E5%B7%9D%E6%B8%85%E9%9F%B3" class="active" target="_blank" rel="noopener noreferrer">江川清音</a>　立命館大学→WNI
+<a href="https://ja.wikipedia.org/wiki/%E7%94%B0%E4%B8%AD%E7%BE%8E%E9%83%BD%E5%AD%90" target="_blank" rel="noopener noreferrer">田中美都子</a>　京都大学→WNI→キャスト・プラス
+<a href="https://ja.wikipedia.org/wiki/%E6%AD%A6%E8%A3%95%E7%BE%8E" target="_blank" rel="noopener noreferrer">武裕美</a>　慶應義塾大学→WNI→東海テレビ
+<a href="https://ja.wikipedia.org/wiki/%E4%BD%90%E8%97%A4%E7%BE%8E%E6%A8%B9_(%E3%82%AD%E3%83%A3%E3%82%B9%E3%82%BF%E3%83%BC)" target="_blank" rel="noopener noreferrer">佐藤美樹</a>　群馬大学→WNI→NHK前橋アナウンサー→フリーアナウンサー
+<a href="https://ja.wikipedia.org/wiki/%E6%88%90%E6%B5%B7%E4%BA%9C%E7%B4%80" target="_blank" rel="noopener noreferrer">成海亜紀</a>　シャイニングウィル→ビッグアップル→WNI
+<a href="" target="_blank" rel="noopener noreferrer">内田奈々子</a>
+<a href="" target="_blank" rel="noopener noreferrer">四俣萌美</a>
+<a href="https://ja.wikipedia.org/wiki/%E5%A0%80%E7%94%B0%E5%A5%88%E6%B4%A5%E6%B0%B4" target="_blank" rel="noopener noreferrer">堀田奈津水</a>　 ひろしまフラワーフェスティバルフラワークイーン→WNI
+<a href="" target="_blank" rel="noopener noreferrer">日浦美保</a>
+<a href="" target="_blank" rel="noopener noreferrer">平塚咲子</a>
+<a href="" target="_blank" rel="noopener noreferrer">工藤菜々絵</a>
+
+</div>
+<div>
+おは天第１１期
+応募期間：2008.11.01-2008.11.25(推定)
+応募資格：
+応募：２６１２名　合格：１４名　倍率：１８６．５倍
+合格者：
+<a href="https://ja.wikipedia.org/wiki/%E6%A4%8E%E5%90%8D%E6%A1%83%E5%AD%90" target="_blank" rel="noopener noreferrer">椎名桃子</a>　法政大学→WNI
+<a href="" target="_blank" rel="noopener noreferrer">熊本杏奈</a>
+<a href="https://www.talent-databank.co.jp/search/profile/2000088925" target="_blank" rel="noopener noreferrer">中谷真由香</a>
+<a href="https://ja.wikipedia.org/wiki/%E6%89%8B%E6%9D%9F%E7%9C%9F%E7%9F%A5%E5%AD%90" target="_blank" rel="noopener noreferrer">原田桜怜</a>　ミスヤングマガジン→WNI→SKE48→SDN48
+<a href="" target="_blank" rel="noopener noreferrer">岩田さち</a>　WNI→安田大サーカス団長と結婚
+<a href="https://ja.wikipedia.org/wiki/%E6%B8%85%E6%B0%B4%E4%BA%9C%E9%87%8C%E6%B2%99" target="_blank" rel="noopener noreferrer">清水亜里沙</a>　	中央大学→WNI→東海テレビアナウンサ→フリーアナウンサー
+<a href="" target="_blank" rel="noopener noreferrer">石井美穂子</a>
+<a href="" target="_blank" rel="noopener noreferrer">石川理津子</a>
+<a href="https://ja.wikipedia.org/wiki/%E6%A8%8B%E5%8F%A3%E9%9D%96%E5%AD%90" target="_blank" rel="noopener noreferrer">樋口靖子</a>　清泉女子大学→ミスアゼリアクイーン→WNI→FM宮崎→TBSラジオ
+<a href="https://ja.wikipedia.org/wiki/%E5%B1%B1%E5%8F%A3%E6%99%BA%E7%BE%8E_(%E3%82%BF%E3%83%AC%E3%83%B3%E3%83%88)" target="_blank" rel="noopener noreferrer">山口智美</a>　WNI→グラビア
+<a href="" target="_blank" rel="noopener noreferrer">堀江真子</a>
+<a href="" target="_blank" rel="noopener noreferrer">野田紗希</a>
+<a href="https://ja.wikipedia.org/wiki/%E6%BE%A4%E7%94%B0%E9%9B%85%E4%BB%A3" target="_blank" rel="noopener noreferrer">澤田雅代</a>
+<a href="" target="_blank" rel="noopener noreferrer">熊谷あかね</a>
+
+</div>
+<div>
+おは天第１２期
+応募期間：2009.03.01-2009.03.25
+応募資格：18-30歳の女性
+応募：２７５７名　合格：１４名　倍率：１９６．９倍
+合格者：
+<a href="https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%BE%A4%E6%9C%89%E7%B4%97" target="_blank" rel="noopener noreferrer">大澤有紗</a>　オスカー→読モ→WNI→ヴィヴィアン
+<a href="" target="_blank" rel="noopener noreferrer">宮本理沙</a>
+<a href="https://ja.wikipedia.org/wiki/%E7%AF%89%E5%B1%B1%E5%8F%AF%E5%A5%88" target="_blank" rel="noopener noreferrer">築山可奈</a>　京都女子大学→タレント→WNI
+<a href="https://ja.wikipedia.org/wiki/%E5%B1%B1%E5%B2%A1%E7%94%B1%E5%AE%9F" target="_blank" rel="noopener noreferrer">山岡由実</a>　モデル→WNI
+<a href="https://ja.wikipedia.org/wiki/%E9%8D%8B%E5%B3%B6%E3%81%AE%E3%81%9E%E3%81%BF" target="_blank" rel="noopener noreferrer">鍋島のぞみ</a>　國學院大學→WNI→NTB
+<a href="" target="_blank" rel="noopener noreferrer">皆本侑樹</a>
+<a href="https://ja.wikipedia.org/wiki/%E6%B4%A5%E5%B7%9D%E6%99%BA%E9%A6%99%E5%AD%90" target="_blank" rel="noopener noreferrer">津川智香子</a>　K-1ラウンドガール→WNI→レースクイーン
+<a href="" target="_blank" rel="noopener noreferrer">軽部明香里</a>
+<a href="" target="_blank" rel="noopener noreferrer">比嘉夏希</a>
+<a href="" target="_blank" rel="noopener noreferrer">柴田麻美</a>
+<a href="https://ja.wikipedia.org/wiki/%E6%A8%AA%E7%94%BA%E8%97%8D" target="_blank" rel="noopener noreferrer">羽田藍花</a>　広島国際大学→ひろしまケーブルテレビリポーター→会社員→WNI→フリー→上倉紀行と結婚
+<a href="https://ja.wikipedia.org/wiki/%E4%BD%90%E3%80%85%E6%9C%A8%E5%AE%9F%E5%AD%A3" target="_blank" rel="noopener noreferrer">佐々木実季</a>　	梅光学院大学女子短期大学→WNI→リポーター
+<a href="https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%87%8E%E3%81%8B%E3%81%AA%E3%81%93" target="_blank" rel="noopener noreferrer">大野かなこ</a>　女優→WNI
+<a href="" target="_blank" rel="noopener noreferrer">村山文英</a>
+
+</div>
+<div>
+応募期間：2010.11.11-2010.11.30
+応募資格：18歳以上,事務所に所属していない,学生不可
+応募：--　合格：３名　倍率：--倍
+最終候補：
+<a href="https://ja.wikipedia.org/wiki/%E4%BD%90%E4%BC%AF%E6%8B%93%E4%B9%9F" target="_blank" rel="noopener noreferrer">佐伯拓也(アニキ誕生)</a>　WNI→実業家
+<a href="https://ja.wikipedia.org/wiki/%E6%B2%B3%E6%9D%91%E3%81%95%E3%82%84%E3%81%8B" target="_blank" rel="noopener noreferrer">澤田南(南ちゃん)</a>　成城大学→WNI→タレント
+<a href="https://ja.wikipedia.org/wiki/%E6%B2%B3%E6%9D%91%E3%81%95%E3%82%84%E3%81%8B" target="_blank" rel="noopener noreferrer">河村さやか(ナチュラルレディー)</a>　椙山女学園大学→ミス日本→客室乗務員→WNI
+<a href="https://ja.wikipedia.org/wiki/%E5%A2%97%E7%94%B0%E5%84%AA%E9%A6%99%E5%AD%90" target="_blank" rel="noopener noreferrer">増田優香子</a>　 山口大学→岩手めんこいテレビアナウンサー→南日本放送→九州朝日放送→SPEEDチャンネル
+<a href="https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%86%85%E5%95%93%E8%A1%8C" target="_blank" rel="noopener noreferrer">中内啓行</a>　俳優
+<a href="https://ja.wikipedia.org/wiki/%E6%A1%9C%E4%BA%95%E6%81%B5%E9%BA%BB" target="_blank" rel="noopener noreferrer">桜井恵麻</a>　フリーアナウンサー→オフィスキュラス代表→日本福祉大学
+他３名.最終候補のお披露目は<a href="https://youtu.be/egxs6fpBkYY" target="_blank" rel="noopener noreferrer">ソラトモパーティー２０１０</a>で行われた
+合格者：佐伯拓也,澤田南,河村さやか
+
+</div>
+<div>
+応募期間：2012.11.01-2012.11.25
+応募資格：18歳以上の女性,事務所に所属していない,学生不可
+応募：--　合格：２名　倍率：--倍
+最終候補：
+<a href="https://ja.wikipedia.org/wiki/%E5%A0%80%E4%BA%95%E9%9B%85%E4%B8%96" target="_blank" rel="noopener noreferrer">堀井雅世</a>　お茶の水女子大学→WNI
+<a href="https://ja.wikipedia.org/wiki/%E7%9C%9E%E5%AE%B6%E6%B3%89" target="_blank" rel="noopener noreferrer">眞家泉💎</a>　成蹊大学→WNI→報道ステーション
+<a href="" target="_blank" rel="noopener noreferrer">柴田愛実</a>
+<a href="" target="_blank" rel="noopener noreferrer">他不明</a>
+合格者：堀井雅世,眞家泉
+
+</div>
+<div>
+応募期間：2014.01.06-2014.02.16
+応募資格：18歳以上,事務所に所属していない,学生不可
+応募：--　合格：２名　倍率：--倍
+最終候補：
+<a href="https://ja.wikipedia.org/wiki/%E6%9D%BE%E9%9B%AA%E5%BD%A9%E8%8A%B1" class="active" target="_blank" rel="noopener noreferrer">松雪彩花(リトルダンサー)</a>　フェリス女学院大学→WNI
+<a href="https://ja.wikipedia.org/wiki/%E5%8A%A0%E8%97%A4%E7%91%A0%E7%BE%8E" target="_blank" rel="noopener noreferrer">加藤瑠美(ウェザードール Type_V)</a>　モデル→会社員
+<a href="" target="_blank" rel="noopener noreferrer">廣井那佳子(よさこい娘。)</a>　高知大学→リポーター→社長
+<a href="" target="_blank" rel="noopener noreferrer">初瀬優(マジカルレディー)</a>
+<a href="" target="_blank" rel="noopener noreferrer">山崎友里江(世界に一つだけの花)</a>
+<a href="https://ja.wikipedia.org/wiki/%E8%97%A4%E5%B2%A1%E8%8C%9C" target="_blank" rel="noopener noreferrer">藤岡茜(茜色の君へ)</a>　龍谷大学→会社員→WNI
+合格者：松雪彩花,藤岡茜
+備考：廣井の双子の姉は以前堀江貴文との交際報道があった.廣井自身も堀江貴文プロデュースのテリヤキ株式会社代表取締役に就任した経歴を持つ
+
+</div>
+<div>
+応募期間：2015.05.18-2015.07.17
+応募資格：18歳以上の女性,事務所に所属していない,学生不可
+応募：--　合格：２名　倍率：--倍
+最終候補：
+<a href="" target="_blank" rel="noopener noreferrer">三國真生(辞退)</a>
+<a href="" target="_blank" rel="noopener noreferrer">森山理映</a>
+<a href="" target="_blank" rel="noopener noreferrer">遠野菜月</a>
+<a href="" target="_blank" rel="noopener noreferrer">成田沙耶加</a>
+<a href="" target="_blank" rel="noopener noreferrer">木村美和子</a>
+<a href="https://ja.wikipedia.org/wiki/%E9%AB%98%E5%B1%B1%E5%A5%88%E3%80%85" class="active" target="_blank" rel="noopener noreferrer">高山奈々</a>　長岡美少女図鑑→国際こども・福祉カレッジ→日本きものシステム協同組合ドリームエンジェル→WNI
+<a href="https://ja.wikipedia.org/wiki/%E7%99%BD%E4%BA%95%E3%82%86%E3%81%8B%E3%82%8A" class="active" target="_blank" rel="noopener noreferrer">白井ゆかり</a>　日本大学→WNI
+一般投票：08.01-08.07 
+合格者：高山奈々,白井ゆかり
+
+</div>
+<div>
+応募期間：2016.05.02-2016.07.24
+応募資格：18歳以上,事務所に所属していない,学生不可
+応募：約２０００　合格：２名　倍率：１０００倍
+最終候補：
+<a href="https://web.archive.org/web/20180408063915/https://www.nhk.or.jp/yamagata/caster/suwa_r.html" target="_blank" rel="noopener noreferrer">諏訪里枝</a>　→NHK山形リポーター
+<a href="https://ja.wikipedia.org/wiki/%E9%AB%98%E5%AE%89%E5%A5%88%E7%B7%92%E5%AD%90" target="_blank" rel="noopener noreferrer">角田奈緒子💎</a>　大阪教育大学→橿原市観光親善大使→会社員→WNI→ウェザーマップ
+<a href="" target="_blank" rel="noopener noreferrer">空井真由美(空井美友,元PIP)</a>　アイドル
+<a href="https://ja.wikipedia.org/wiki/%E9%88%B4%E6%9C%A8%E9%87%8C%E5%A5%88" target="_blank" rel="noopener noreferrer">鈴木里奈</a>　会社員→WNI
+<a href="" target="_blank" rel="noopener noreferrer">弘中沙也加</a>
+<a href="https://ameblo.jp/hayat515/entry-12325925563.html" target="_blank" rel="noopener noreferrer">道関明奈</a>　→なでしこラジオ
+合格者：鈴木里奈,角田奈緒子
+備考：<a href="https://youtu.be/ze6G75WFKl8?t=245" target="_blank" rel="noopener noreferrer">そら博2016</a>で最終候補者のお披露目が行われた.一般投票はこのオーディションが最後
+
+</div>
+<div>
+応募期間：2018.06.21-2018.07.25
+応募：--　合格：２名　倍率：公式発表はないが<a href="https://ameblo.jp/hiroshi-omori/entry-12412548065.html" target="_blank" rel="noopener noreferrer">大森ヒロシ</a>や<a href="https://ja.wikipedia.org/wiki/%E7%9F%B3%E6%A9%8B%E7%9F%A5%E5%8D%9A" target="_blank" rel="noopener noreferrer">元キックボクサー</a>が倍率に言及してる
+合格者：
+<a href="https://ja.wikipedia.org/wiki/%E6%AA%9C%E5%B1%B1%E6%B2%99%E8%80%B6" target="_blank" rel="noopener noreferrer">檜山沙耶</a>　立教大学→会社員→WNI→irodori合同会社→西岡良仁と結婚
+<a href="https://ja.wikipedia.org/wiki/%E9%A7%92%E6%9C%A8%E7%B5%90%E8%A1%A3" class="active" target="_blank" rel="noopener noreferrer">駒木結衣</a>　津田塾大学→WNI
+
+</div>
+<div>
+応募期間：2019.10.30-2019.12.13
+応募資格：18歳以上,学生不可
+応募：--　合格：２名　倍率：--倍
+合格者：
+<a href="https://ja.wikipedia.org/wiki/%E6%AD%A6%E8%97%A4%E5%BD%A9%E8%8A%BD" target="_blank" rel="noopener noreferrer">武藤彩芽</a>　藤女子大学→日本ハムファイターズガール→モデル→WNI→セント・フォース
+<a href="https://ja.wikipedia.org/wiki/%E5%86%85%E7%94%B0%E4%BE%91%E5%B8%8C" target="_blank" rel="noopener noreferrer">内田侑希</a>　上智大学→ミスソフィア→会社員→WNI→文化服装学院→ノースプロダクション
+
+</div>
+<div>
+応募期間：2021.07.16-2021.08.30
+応募資格：18歳以上,学生不可
+応募：--　合格：２名　倍率：--倍
+合格者：
+<a href="https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%B3%B6%E7%92%83%E9%9F%B3" target="_blank" rel="noopener noreferrer">大島璃音</a>　青山学院大学→お天気リポーター→WNI
+<a href="https://ja.wikipedia.org/wiki/%E6%88%B8%E5%8C%97%E7%BE%8E%E6%9C%88" class="active" target="_blank" rel="noopener noreferrer">戸北美月</a>　同志社大学→WNI
+
+</div>
+<div>
+応募期間：2022.04.12-2022.05.19
+応募資格：18歳以上,学生不可
+応募：--　合格：１名　倍率：--倍
+合格者：
+<a href="https://ja.wikipedia.org/wiki/%E5%B0%8F%E6%9E%97%E6%9D%8E%E8%A1%A3%E5%A5%88" class="active" target="_blank" rel="noopener noreferrer">小林李衣奈</a>　甲南大学→会社員→WNI
+
+</div>
+<div>
+応募期間：2022.12.05-2023.01.10
+応募資格：18歳以上,学生不可
+応募：--　合格：２名　倍率：--倍
+合格者：
+<a href="https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%B7%9D%E5%8D%83%E5%A5%88" class="active" target="_blank" rel="noopener noreferrer">小川千奈</a>　岩手医科大学→ミスさんさ踊り→ミス・ジャパングランプリ→看護師→WNI
+<a href="https://ja.wikipedia.org/wiki/%E9%AD%9A%E4%BD%8F%E8%8C%89%E7%94%B1" class="active" target="_blank" rel="noopener noreferrer">魚住茉由</a>　金城学院大学→会社員→WNI
+
+</div>
+<div>
+応募期間：2023.06.23-2023.07.28
+応募資格：18歳以上,学生不可
+応募：--　合格：２名　倍率：--倍
+合格者：
+<a href="https://ja.wikipedia.org/wiki/%E9%9D%92%E5%8E%9F%E6%A1%83%E9%A6%99" class="active" target="_blank" rel="noopener noreferrer">青原桃香</a>　安城七夕親善大使→WNI
+<a href="https://ja.wikipedia.org/wiki/%E5%B2%A1%E6%9C%AC%E7%B5%90%E5%AD%90%E3%83%AA%E3%82%B5" class="active" target="_blank" rel="noopener noreferrer">岡本結子リサ</a>　青山学院大学→WNI
+
+</div>
+<div>
+応募期間：2025.01.03-2025.02.01
+応募資格：18歳以上,学生不可
+応募：--　合格：２名　倍率：--倍
+合格者：
+<a href="https://ja.wikipedia.org/wiki/%E7%94%B0%E8%BE%BA%E7%9C%9F%E5%8D%97%E8%91%89" class="active" target="_blank" rel="noopener noreferrer">田辺真南葉</a>　アイドル→学生キャスター→福井テレビアナウンサー→WNI
+<a href="https://ja.wikipedia.org/w/index.php?title=%E6%9D%BE%E6%9C%AC%E7%9C%9F%E5%A4%AE&oldid=105951115" target=_blank rel="noopener noreferrer" target="_blank" rel="noopener noreferrer"><span class="active" target="_blank" rel="noopener noreferrer">松本真央</span></a>　モデル・女優→WNI
+</div>
+<div>
+💎は希少…気象予報士.<span class="active">太字</span>は現役
+
+</div>
+
+
+<h4>SHOWROOM×DAM 日本最大級デビュープロジェクト ～世界への扉～</h4>
+<div>
+白井がキャスターデビュー前に参加していたオーディション
+<a href="https://ameblo.jp/nagano001/" target="_blank" rel="noopener noreferrer">YUKARI 【ユカリ】 ・ デビューへの道！！</a>は当時の白井ゆかり応援ブログ
+
+このプロジェクトからは実際にガールズユニットがメジャーデビューを果たしているが
+その後の顛末は<a href="https://ameblo.jp/busmaster/" target="_blank" rel="noopener noreferrer">スタッフブログ</a>に記述がある
+</div>
+
+</body>
+</html>
