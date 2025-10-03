@@ -355,18 +355,19 @@
       Plotly.react(graphDiv, graphDiv.data, graphDiv.layout);
       updateLegendByXrange(graphDiv);
     }
-    // 初期化
-    initPlot();
-    // 1分ごとに自動更新
-    setInterval(() => {
-      const now = Date.now();
-      let end = new Date(graphDiv.layout.xaxis.range[1]).getTime();
-      if (end < now) {
-        Plotly.relayout(graphDiv, { "xaxis.range": [now - XRANGE, now] });
-        safeFetchAndAppend(end, now);
-      }
-    }, 60 * 1000);
-
+    document.addEventListener('DOMContentLoaded', function() {
+      // 初期化
+      initPlot();
+      // 1分ごとに自動更新
+      setInterval(() => {
+        const now = Date.now();
+        let end = new Date(graphDiv.layout.xaxis.range[1]).getTime();
+        if (end < now) {
+          Plotly.relayout(graphDiv, { "xaxis.range": [now - XRANGE, now] });
+          safeFetchAndAppend(end, now);
+        }
+      }, 60 * 1000);
+    });
   </script>
 </body>
 
