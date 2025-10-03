@@ -521,656 +521,657 @@
   </nav>
   <button id="back" onclick="location.href='./'">戻る</button>
   <script>
-    const PAGE_SIZE = 100;
-    const pageInputTop = document.getElementById('pageInputTop');
-    const pageInputBottom = document.getElementById('pageInputBottom');
-    const searchInput = document.getElementById('searchInput');
-    const searchInput2 = document.getElementById('searchInput2');
-    const since = document.getElementById('since');
-    const until = document.getElementById('until');
-    const minTime = document.getElementById('minTime');
-    const maxTime = document.getElementById('maxTime');
-    const minView = document.getElementById('minView');
-    const maxView = document.getElementById('maxView');
-    const minLike = document.getElementById('minLike');
-    const maxLike = document.getElementById('maxLike');
-    const minComment = document.getElementById('minComment');
-    const maxComment = document.getElementById('maxComment');
-    const sort = document.getElementById('sort');
-    const autoPlay = document.getElementById('autoPlay');
-    const normal = document.getElementById('normal');
-    const live = document.getElementById('live');
-    const short = document.getElementById('short');
-    const is_thumbnail = document.getElementById('is_thumbnail');
-    const tbody = document.querySelector('#videoTable tbody');
-    const regex = document.getElementById('regex');
-    const regex2 = document.getElementById('regex2');
-    const loading = document.getElementById('loading');
-    const thumbnail_col = document.getElementById('thumbnail_col');
-    thumbnail_col.style.display = "none";
-    let videos = [];
-    let currentPage = 1;
-    let jumpPage = 1;
-    let totalPages = 1;
-    let currentIndex = 0;
-    const popupBg = document.getElementById('popupBg');
-    const popup = document.getElementById('popup');
-    //    const iframe = document.getElementById('ytIframe');
-    const closeBtn = document.getElementById('closeBtn');
-    const prevVideo = document.getElementById("prevVideo");
-    const nextVideo = document.getElementById("nextVideo");
-    const prevAuto = document.getElementById("prevAuto");
-    const nextAuto = document.getElementById("nextAuto");
-    let player;
-    let isPlayerReady = false;
-    let vidList = [];
+    document.addEventListener('DOMContentLoaded', function () {
+      const PAGE_SIZE = 100;
+      const pageInputTop = document.getElementById('pageInputTop');
+      const pageInputBottom = document.getElementById('pageInputBottom');
+      const searchInput = document.getElementById('searchInput');
+      const searchInput2 = document.getElementById('searchInput2');
+      const since = document.getElementById('since');
+      const until = document.getElementById('until');
+      const minTime = document.getElementById('minTime');
+      const maxTime = document.getElementById('maxTime');
+      const minView = document.getElementById('minView');
+      const maxView = document.getElementById('maxView');
+      const minLike = document.getElementById('minLike');
+      const maxLike = document.getElementById('maxLike');
+      const minComment = document.getElementById('minComment');
+      const maxComment = document.getElementById('maxComment');
+      const sort = document.getElementById('sort');
+      const autoPlay = document.getElementById('autoPlay');
+      const normal = document.getElementById('normal');
+      const live = document.getElementById('live');
+      const short = document.getElementById('short');
+      const is_thumbnail = document.getElementById('is_thumbnail');
+      const tbody = document.querySelector('#videoTable tbody');
+      const regex = document.getElementById('regex');
+      const regex2 = document.getElementById('regex2');
+      const loading = document.getElementById('loading');
+      const thumbnail_col = document.getElementById('thumbnail_col');
+      thumbnail_col.style.display = "none";
+      let videos = [];
+      let currentPage = 1;
+      let jumpPage = 1;
+      let totalPages = 1;
+      let currentIndex = 0;
+      const popupBg = document.getElementById('popupBg');
+      const popup = document.getElementById('popup');
+      //    const iframe = document.getElementById('ytIframe');
+      const closeBtn = document.getElementById('closeBtn');
+      const prevVideo = document.getElementById("prevVideo");
+      const nextVideo = document.getElementById("nextVideo");
+      const prevAuto = document.getElementById("prevAuto");
+      const nextAuto = document.getElementById("nextAuto");
+      let player;
+      let isPlayerReady = false;
+      let vidList = [];
 
 
 
-    toTimeStr = t => new Date(t * 1e3).toISOString().substr(t < 3600 ? 14 : 11, t < 3600 ? 5 : 8)
-    function formatTime(ms) {
-      const date = new Date(ms + 9 * 60 * 60 * 1000);
-      const h = String(date.getUTCHours()).padStart(2, "0");
-      const m = String(date.getUTCMinutes()).padStart(2, "0");
-      return `${h}:${m}`;
-    }
-    function formatYMDHM(ms) {
-      const date = new Date(ms);
-      const y = date.getFullYear();
-      const m = String(date.getMonth() + 1).padStart(2, "0"); // 月は0始まり
-      const d = String(date.getDate()).padStart(2, "0");
-      const h = String(date.getHours()).padStart(2, "0");
-      const min = String(date.getMinutes()).padStart(2, "0");
-      return `${y}-${m}-${d} ${h}:${min}`;
-    }
-    function scrollToElmName(elmName) {
-      document.getElementById(elmName).scrollIntoView({ behavior: "smooth" });
-    }
-    function setInput(el, value) {
-      if (el.type === "checkbox") {
-        el.checked = value;
-        localStorage.setItem(el.id, el.checked);
-      } else if (el.tagName === "SELECT") {
-        el.value = value;
-        localStorage.setItem(el.id, el.value);
+      toTimeStr = t => new Date(t * 1e3).toISOString().substr(t < 3600 ? 14 : 11, t < 3600 ? 5 : 8)
+      function formatTime(ms) {
+        const date = new Date(ms + 9 * 60 * 60 * 1000);
+        const h = String(date.getUTCHours()).padStart(2, "0");
+        const m = String(date.getUTCMinutes()).padStart(2, "0");
+        return `${h}:${m}`;
       }
-    }
-    function loadInput(el) {
-      const stored = localStorage.getItem(el.id);
-      if (stored !== null) {
+      function formatYMDHM(ms) {
+        const date = new Date(ms);
+        const y = date.getFullYear();
+        const m = String(date.getMonth() + 1).padStart(2, "0"); // 月は0始まり
+        const d = String(date.getDate()).padStart(2, "0");
+        const h = String(date.getHours()).padStart(2, "0");
+        const min = String(date.getMinutes()).padStart(2, "0");
+        return `${y}-${m}-${d} ${h}:${min}`;
+      }
+      function scrollToElmName(elmName) {
+        document.getElementById(elmName).scrollIntoView({ behavior: "smooth" });
+      }
+      function setInput(el, value) {
         if (el.type === "checkbox") {
-          el.checked = stored === "true";
+          el.checked = value;
+          localStorage.setItem(el.id, el.checked);
         } else if (el.tagName === "SELECT") {
-          el.value = stored;
+          el.value = value;
+          localStorage.setItem(el.id, el.value);
         }
       }
-    }
-
-    function renderPage(page, totalCount) {
-      tbody.innerHTML = '';
-      const data = videos;
-      if (totalPages === 0) totalPages = 1;
-      if (page < 1) page = 1;
-      if (page > totalPages) page = totalPages;
-      currentPage = page;
-
-      const start = 0;
-      const end = Math.min(start + PAGE_SIZE, data.length);
-      for (let i = start; i < end; i++) {
-        let [videoId, date, title, kind, viewCount, duration, actualStartTime, actualEndTime, viewers] = data[i];
-        videoId = DOMPurify.sanitize(videoId);
-        date = DOMPurify.sanitize(date);
-        title = DOMPurify.sanitize(title);
-        kind = DOMPurify.sanitize(kind);
-        viewCount = DOMPurify.sanitize(viewCount);
-        duration = DOMPurify.sanitize(duration);
-        actualStartTime = DOMPurify.sanitize(actualStartTime);
-        actualEndTime = DOMPurify.sanitize(actualEndTime);
-        viewers = DOMPurify.sanitize(viewers);
-        const tr = document.createElement('tr');
-        //日付
-        const dateTd = document.createElement('td');
-        dateTd.textContent = date == 0 ? "" : formatYMDHM(Number(date));
-        tr.appendChild(dateTd);
-        //視聴回数
-        const viewCountTd = document.createElement('td');
-        viewCountTd.textContent = viewCount == 0 ? "" : Number(viewCount || 0).toLocaleString('ja-JP');
-        tr.appendChild(viewCountTd);
-        //再生時間
-        const durationTd = document.createElement('td');
-        durationTd.textContent = duration == 0 ? "" : toTimeStr(Number(duration || 0));
-        tr.appendChild(durationTd);
-        //種別
-        const kindTd = document.createElement('td');
-        kindTd.addEventListener('click', () => openPopupYtAtIndex(i));
-        kindTd.setAttribute('data-vid', videoId);
-        kindTd.style.cursor = 'pointer';
-        if ((kind & 2) > 0) {
-          kindTd.textContent = "🍰";
-          kindTd.setAttribute('data-kind', "short");
-        } else if ((kind & 8) > 0) {
-          kindTd.textContent = "🔵";
-        } else if ((kind & 16) > 0) {
-          kindTd.textContent = "🔴";
-        } else if ((kind & 32) > 0) {
-          kindTd.textContent = "⚪";
-        } else {
-          kindTd.textContent = "🎞️";
+      function loadInput(el) {
+        const stored = localStorage.getItem(el.id);
+        if (stored !== null) {
+          if (el.type === "checkbox") {
+            el.checked = stored === "true";
+          } else if (el.tagName === "SELECT") {
+            el.value = stored;
+          }
         }
-        tr.appendChild(kindTd);
-        //開始時刻
-        const actualStartTimeTd = document.createElement('td');
-        actualStartTimeTd.textContent = actualStartTime == 0 ? "" : formatTime(Number(actualStartTime || 0));
-        tr.appendChild(actualStartTimeTd);
-        //同時接続数
-        const viewersTd = document.createElement('td');
-        viewersTd.textContent = viewers == 0 ? "" : Number(viewers || 0).toLocaleString('ja-JP');
-        tr.appendChild(viewersTd);
-        //サムネ
-        const imgTd = document.createElement('td');
-        imgTd.style.display = "none";
-        if (is_thumbnail.checked) {
-          imgTd.style.display = "table-cell";
-          thumbnail_col.style.display = "table-cell";
-          const img = document.createElement('img');
-          img.src = `https://i.ytimg.com/vi/${videoId}/default.jpg`;
-          img.style.maxWidth = "100%";
-          img.style.maxHeight = "100%";
-          img.style.objectFit = "contain";
-          img.setAttribute('data-vid', videoId);
-          img.style.cursor = 'pointer';
-          img.addEventListener('click', () => showPopupImg(img));
-          imgTd.appendChild(img);
-        } else {
-          thumbnail_col.style.display = "none";
-        }
-        tr.appendChild(imgTd);
-        const titleTd = document.createElement('td');
-        const a = document.createElement('a');
-        a.href = `https://www.youtube.com/watch?v=${videoId}`;
-        a.target = '_blank';
-        a.rel = 'noopener noreferrer';
-        a.textContent = title;
-        titleTd.appendChild(a);
-        tr.appendChild(titleTd);
-
-        tbody.appendChild(tr);
       }
+
+      function renderPage(page, totalCount) {
+        tbody.innerHTML = '';
+        const data = videos;
+        if (totalPages === 0) totalPages = 1;
+        if (page < 1) page = 1;
+        if (page > totalPages) page = totalPages;
+        currentPage = page;
+
+        const start = 0;
+        const end = Math.min(start + PAGE_SIZE, data.length);
+        for (let i = start; i < end; i++) {
+          let [videoId, date, title, kind, viewCount, duration, actualStartTime, actualEndTime, viewers] = data[i];
+          videoId = DOMPurify.sanitize(videoId);
+          date = DOMPurify.sanitize(date);
+          title = DOMPurify.sanitize(title);
+          kind = DOMPurify.sanitize(kind);
+          viewCount = DOMPurify.sanitize(viewCount);
+          duration = DOMPurify.sanitize(duration);
+          actualStartTime = DOMPurify.sanitize(actualStartTime);
+          actualEndTime = DOMPurify.sanitize(actualEndTime);
+          viewers = DOMPurify.sanitize(viewers);
+          const tr = document.createElement('tr');
+          //日付
+          const dateTd = document.createElement('td');
+          dateTd.textContent = date == 0 ? "" : formatYMDHM(Number(date));
+          tr.appendChild(dateTd);
+          //視聴回数
+          const viewCountTd = document.createElement('td');
+          viewCountTd.textContent = viewCount == 0 ? "" : Number(viewCount || 0).toLocaleString('ja-JP');
+          tr.appendChild(viewCountTd);
+          //再生時間
+          const durationTd = document.createElement('td');
+          durationTd.textContent = duration == 0 ? "" : toTimeStr(Number(duration || 0));
+          tr.appendChild(durationTd);
+          //種別
+          const kindTd = document.createElement('td');
+          kindTd.addEventListener('click', () => openPopupYtAtIndex(i));
+          kindTd.setAttribute('data-vid', videoId);
+          kindTd.style.cursor = 'pointer';
+          if ((kind & 2) > 0) {
+            kindTd.textContent = "🍰";
+            kindTd.setAttribute('data-kind', "short");
+          } else if ((kind & 8) > 0) {
+            kindTd.textContent = "🔵";
+          } else if ((kind & 16) > 0) {
+            kindTd.textContent = "🔴";
+          } else if ((kind & 32) > 0) {
+            kindTd.textContent = "⚪";
+          } else {
+            kindTd.textContent = "🎞️";
+          }
+          tr.appendChild(kindTd);
+          //開始時刻
+          const actualStartTimeTd = document.createElement('td');
+          actualStartTimeTd.textContent = actualStartTime == 0 ? "" : formatTime(Number(actualStartTime || 0));
+          tr.appendChild(actualStartTimeTd);
+          //同時接続数
+          const viewersTd = document.createElement('td');
+          viewersTd.textContent = viewers == 0 ? "" : Number(viewers || 0).toLocaleString('ja-JP');
+          tr.appendChild(viewersTd);
+          //サムネ
+          const imgTd = document.createElement('td');
+          imgTd.style.display = "none";
+          if (is_thumbnail.checked) {
+            imgTd.style.display = "table-cell";
+            thumbnail_col.style.display = "table-cell";
+            const img = document.createElement('img');
+            img.src = `https://i.ytimg.com/vi/${videoId}/default.jpg`;
+            img.style.maxWidth = "100%";
+            img.style.maxHeight = "100%";
+            img.style.objectFit = "contain";
+            img.setAttribute('data-vid', videoId);
+            img.style.cursor = 'pointer';
+            img.addEventListener('click', () => showPopupImg(img));
+            imgTd.appendChild(img);
+          } else {
+            thumbnail_col.style.display = "none";
+          }
+          tr.appendChild(imgTd);
+          const titleTd = document.createElement('td');
+          const a = document.createElement('a');
+          a.href = `https://www.youtube.com/watch?v=${videoId}`;
+          a.target = '_blank';
+          a.rel = 'noopener noreferrer';
+          a.textContent = title;
+          titleTd.appendChild(a);
+          tr.appendChild(titleTd);
+
+          tbody.appendChild(tr);
+        }
+
+        ['Top', 'Bottom'].forEach(pos => {
+          document.getElementById(`pageInfo${pos}`).textContent = `${currentPage} / ${totalPages} (${totalCount}件)`;
+          document.getElementById(`pageInput${pos}`).value = currentPage; // フォームの値を更新
+          document.getElementById(`prevBtn${pos}`).disabled = currentPage === 1;
+          document.getElementById(`nextBtn${pos}`).disabled = currentPage === totalPages;
+          document.getElementById(`firstBtn${pos}`).disabled = currentPage === 1;
+          document.getElementById(`lastBtn${pos}`).disabled = currentPage === totalPages;
+        });
+        //      scrollToElmName("paginationTop")
+      }
+      const fetchBoth = async (url, method) => {
+        const normalizedMethod = method.toUpperCase();
+        if (normalizedMethod === 'GET') {
+          const res = await fetch(url.toString(), {
+            method: 'GET'
+          });
+          return res;
+        } else if (normalizedMethod === 'POST') {
+          const data = {};
+          url.searchParams.forEach((value, key) => {
+            data[key] = value;
+          });
+          const res = await fetch(url.origin + url.pathname, {
+            method: 'POST',
+            headers: {
+              'Content-Type': 'application/json',
+            },
+            body: JSON.stringify(data),
+          });
+          return res;
+        } else {
+          throw new Error('Unsupported method. Use "GET" or "POST".');
+        }
+      };
+
+      async function loadData() {
+        loading.textContent = "読み込み中..."
+        loading.style.display = 'block';
+        const tbody = document.querySelector('#videoTable tbody');
+        tbody.innerHTML = '';
+        page = currentPage;
+
+        try {
+          const keywords = searchInput.value.trim();
+          const desc = searchInput2.value.trim();
+          const regex_checked = regex.checked ? 1 : 0;
+          const regex2_checked = regex2.checked ? 1 : 0;
+          let kind = normal.checked ? 1 : 0;
+          kind += live.checked ? 4 : 0;
+          kind += short.checked ? 2 : 0;
+          if (kind == 0) {
+            setInput(normal, true);
+            setInput(live, true);
+            setInput(short, true);
+            kind = 1 + 2 + 4;
+          }
+
+          const url = new URL("https://boxpush.d4df816be9225fab.workers.dev/video");
+          url.searchParams.append('keywords', keywords);
+          url.searchParams.append('desc', desc);
+          url.searchParams.append('regex', regex_checked);
+          url.searchParams.append('regex2', regex2_checked);
+          url.searchParams.append('since', since.value);
+          url.searchParams.append('until', until.value);
+          url.searchParams.append('minTime', minTime.value);
+          url.searchParams.append('maxTime', maxTime.value);
+          url.searchParams.append('minView', minView.value);
+          url.searchParams.append('maxView', maxView.value);
+          url.searchParams.append('minLike', minLike.value);
+          url.searchParams.append('maxLike', maxLike.value);
+          url.searchParams.append('minComment', minComment.value);
+          url.searchParams.append('maxComment', maxComment.value);
+          url.searchParams.append('kind', kind);
+          url.searchParams.append('sort', sort.value);
+          url.searchParams.append('autoPlay', autoPlay.value);
+          url.searchParams.append('page', page);
+          const res = await fetchBoth(url, "POST");
+          if (!res.ok) throw new Error('取得に失敗しました');
+          const text = await res.json();
+          result = text.result;
+          totalCount = text.total_count;
+          videos = result.trim() ? result.split('\n').map(line => line.split('\t')) : [];
+          if (text.vids != "") {
+            vidList = text.vids.map(([vid, kind]) => ({ vid, kind }));
+          } else {
+            vidList = videos.map(([vid, kind]) => ({ vid, kind }));
+          }
+          loading.style.display = 'none';
+          document.getElementById('videoTable').style.display = '';
+          document.getElementById('paginationTop').style.display = '';
+          document.getElementById('paginationBottom').style.display = '';
+          totalPages = Math.ceil(totalCount / PAGE_SIZE);
+          renderPage(page, totalCount);
+        } catch (e) {
+          loading.textContent = e;
+        }
+      }
+
+      function goPage(newPage) {
+        let pageNum = parseInt(newPage, 10);
+        // 入力値が数値でない場合は1に設定
+        if (isNaN(pageNum)) {
+          pageNum = 1;
+        }
+        // 1より小さい場合は1に補正
+        if (pageNum < 1) {
+          pageNum = 1;
+        }
+        // 総ページ数より大きい場合は総ページ数に補正
+        if (pageNum > totalPages) {
+          pageNum = totalPages;
+        }
+        jumpPage = pageNum;
+        applyFilter();
+      }
+
+      function applyFilter() {
+        currentPage = jumpPage;
+        jumpPage = 1;
+        loadData();
+      }
+
+      searchInput.addEventListener('keydown', function (e) {
+        if (e.key === 'Enter') {
+          e.preventDefault();
+          searchBtn.click();
+        }
+      });
+      regex.addEventListener('change', function (e) {
+        if (this.checked) {
+          searchInput.placeholder = "正規表現でタイトル検索";
+        } else {
+          searchInput.placeholder = "スペース区切りでタイトルのAND検索";
+        }
+      });
+      regex2.addEventListener('change', function (e) {
+        if (this.checked) {
+          searchInput2.placeholder = "正規表現で説明検索";
+        } else {
+          searchInput2.placeholder = "スペース区切りで説明のAND検索";
+        }
+      });
+
+
+      const searchBtn = document.getElementById('searchBtn');
+      searchBtn.addEventListener('click', applyFilter);
+      const inputs = document.querySelectorAll(".searchField");
+      inputs.forEach(input => {
+        input.addEventListener("keydown", function (event) {
+          if (event.key === "Enter") {
+            event.preventDefault(); // フォーム送信を止める
+            searchBtn.click();         // ボタンのクリックを実行
+          }
+        });
+      });
+
+
+      document.getElementById('clearBtn').addEventListener('click', () => {
+        searchInput.value = '';
+        searchInput2.value = '';
+        pageInfoTop.textContent = '-/-';
+        pageInfoBottom.textContent = '-/-';
+        pageInputTop.value = '1';
+        pageInputBottom.value = '1';
+        since.value = '';
+        until.value = '';
+        minTime.value = '';
+        maxTime.value = '';
+        minView.value = '';
+        maxView.value = '';
+        minLike.value = '';
+        maxLike.value = '';
+        minComment.value = '';
+        maxComment.value = '';
+        setInput(normal, true);
+        setInput(live, true);
+        setInput(short, true);
+        setInput(is_thumbnail, false)
+        setInput(sort, "0");
+        setInput(autoPlay, "0")
+        regex.checked = false;
+        regex2.checked = false;
+        currentPage = 1;
+        loadData();
+      });
 
       ['Top', 'Bottom'].forEach(pos => {
-        document.getElementById(`pageInfo${pos}`).textContent = `${currentPage} / ${totalPages} (${totalCount}件)`;
-        document.getElementById(`pageInput${pos}`).value = currentPage; // フォームの値を更新
-        document.getElementById(`prevBtn${pos}`).disabled = currentPage === 1;
-        document.getElementById(`nextBtn${pos}`).disabled = currentPage === totalPages;
-        document.getElementById(`firstBtn${pos}`).disabled = currentPage === 1;
-        document.getElementById(`lastBtn${pos}`).disabled = currentPage === totalPages;
-      });
-      //      scrollToElmName("paginationTop")
-    }
-    const fetchBoth = async (url, method) => {
-      const normalizedMethod = method.toUpperCase();
-      if (normalizedMethod === 'GET') {
-        const res = await fetch(url.toString(), {
-          method: 'GET'
-        });
-        return res;
-      } else if (normalizedMethod === 'POST') {
-        const data = {};
-        url.searchParams.forEach((value, key) => {
-          data[key] = value;
-        });
-        const res = await fetch(url.origin + url.pathname, {
-          method: 'POST',
-          headers: {
-            'Content-Type': 'application/json',
-          },
-          body: JSON.stringify(data),
-        });
-        return res;
-      } else {
-        throw new Error('Unsupported method. Use "GET" or "POST".');
-      }
-    };
+        document.getElementById(`prevBtn${pos}`).addEventListener('click', () => goPage(currentPage - 1));
+        document.getElementById(`nextBtn${pos}`).addEventListener('click', () => goPage(currentPage + 1));
+        document.getElementById(`firstBtn${pos}`).addEventListener('click', () => goPage(1));
+        document.getElementById(`lastBtn${pos}`).addEventListener('click', () => goPage(totalPages));
 
-    async function loadData() {
-      loading.textContent = "読み込み中..."
-      loading.style.display = 'block';
-      const tbody = document.querySelector('#videoTable tbody');
-      tbody.innerHTML = '';
-      page = currentPage;
+        // ジャンプ機能のイベントリスナー
+        const jumpBtn = document.getElementById(`jumpBtn${pos}`);
+        const pageInput = document.getElementById(`pageInput${pos}`);
 
-      try {
-        const keywords = searchInput.value.trim();
-        const desc = searchInput2.value.trim();
-        const regex_checked = regex.checked ? 1 : 0;
-        const regex2_checked = regex2.checked ? 1 : 0;
-        let kind = normal.checked ? 1 : 0;
-        kind += live.checked ? 4 : 0;
-        kind += short.checked ? 2 : 0;
-        if (kind == 0) {
-          setInput(normal, true);
-          setInput(live, true);
-          setInput(short, true);
-          kind = 1 + 2 + 4;
-        }
-
-        const url = new URL("https://boxpush.d4df816be9225fab.workers.dev/video");
-        url.searchParams.append('keywords', keywords);
-        url.searchParams.append('desc', desc);
-        url.searchParams.append('regex', regex_checked);
-        url.searchParams.append('regex2', regex2_checked);
-        url.searchParams.append('since', since.value);
-        url.searchParams.append('until', until.value);
-        url.searchParams.append('minTime', minTime.value);
-        url.searchParams.append('maxTime', maxTime.value);
-        url.searchParams.append('minView', minView.value);
-        url.searchParams.append('maxView', maxView.value);
-        url.searchParams.append('minLike', minLike.value);
-        url.searchParams.append('maxLike', maxLike.value);
-        url.searchParams.append('minComment', minComment.value);
-        url.searchParams.append('maxComment', maxComment.value);
-        url.searchParams.append('kind', kind);
-        url.searchParams.append('sort', sort.value);
-        url.searchParams.append('autoPlay', autoPlay.value);
-        url.searchParams.append('page', page);
-        const res = await fetchBoth(url, "POST");
-        if (!res.ok) throw new Error('取得に失敗しました');
-        const text = await res.json();
-        result = text.result;
-        totalCount = text.total_count;
-        videos = result.trim() ? result.split('\n').map(line => line.split('\t')) : [];
-        if (text.vids != "") {
-          vidList = text.vids.map(([vid, kind]) => ({ vid, kind }));
-        } else {
-          vidList = videos.map(([vid, kind]) => ({ vid, kind }));
-        }
-        loading.style.display = 'none';
-        document.getElementById('videoTable').style.display = '';
-        document.getElementById('paginationTop').style.display = '';
-        document.getElementById('paginationBottom').style.display = '';
-        totalPages = Math.ceil(totalCount / PAGE_SIZE);
-        renderPage(page, totalCount);
-      } catch (e) {
-        loading.textContent = e;
-      }
-    }
-
-    function goPage(newPage) {
-      let pageNum = parseInt(newPage, 10);
-      // 入力値が数値でない場合は1に設定
-      if (isNaN(pageNum)) {
-        pageNum = 1;
-      }
-      // 1より小さい場合は1に補正
-      if (pageNum < 1) {
-        pageNum = 1;
-      }
-      // 総ページ数より大きい場合は総ページ数に補正
-      if (pageNum > totalPages) {
-        pageNum = totalPages;
-      }
-      jumpPage = pageNum;
-      applyFilter();
-    }
-
-    function applyFilter() {
-      currentPage = jumpPage;
-      jumpPage = 1;
-      loadData();
-    }
-
-    searchInput.addEventListener('keydown', function (e) {
-      if (e.key === 'Enter') {
-        e.preventDefault();
-        searchBtn.click();
-      }
-    });
-    regex.addEventListener('change', function (e) {
-      if (this.checked) {
-        searchInput.placeholder = "正規表現でタイトル検索";
-      } else {
-        searchInput.placeholder = "スペース区切りでタイトルのAND検索";
-      }
-    });
-    regex2.addEventListener('change', function (e) {
-      if (this.checked) {
-        searchInput2.placeholder = "正規表現で説明検索";
-      } else {
-        searchInput2.placeholder = "スペース区切りで説明のAND検索";
-      }
-    });
-
-
-    const searchBtn = document.getElementById('searchBtn');
-    searchBtn.addEventListener('click', applyFilter);
-    const inputs = document.querySelectorAll(".searchField");
-    inputs.forEach(input => {
-      input.addEventListener("keydown", function (event) {
-        if (event.key === "Enter") {
-          event.preventDefault(); // フォーム送信を止める
-          searchBtn.click();         // ボタンのクリックを実行
-        }
-      });
-    });
-
-
-    document.getElementById('clearBtn').addEventListener('click', () => {
-      searchInput.value = '';
-      searchInput2.value = '';
-      pageInfoTop.textContent = '-/-';
-      pageInfoBottom.textContent = '-/-';
-      pageInputTop.value = '1';
-      pageInputBottom.value = '1';
-      since.value = '';
-      until.value = '';
-      minTime.value = '';
-      maxTime.value = '';
-      minView.value = '';
-      maxView.value = '';
-      minLike.value = '';
-      maxLike.value = '';
-      minComment.value = '';
-      maxComment.value = '';
-      setInput(normal, true);
-      setInput(live, true);
-      setInput(short, true);
-      setInput(is_thumbnail, false)
-      setInput(sort, "0");
-      setInput(autoPlay, "0")
-      regex.checked = false;
-      regex2.checked = false;
-      currentPage = 1;
-      loadData();
-    });
-
-    ['Top', 'Bottom'].forEach(pos => {
-      document.getElementById(`prevBtn${pos}`).addEventListener('click', () => goPage(currentPage - 1));
-      document.getElementById(`nextBtn${pos}`).addEventListener('click', () => goPage(currentPage + 1));
-      document.getElementById(`firstBtn${pos}`).addEventListener('click', () => goPage(1));
-      document.getElementById(`lastBtn${pos}`).addEventListener('click', () => goPage(totalPages));
-
-      // ジャンプ機能のイベントリスナー
-      const jumpBtn = document.getElementById(`jumpBtn${pos}`);
-      const pageInput = document.getElementById(`pageInput${pos}`);
-
-      jumpBtn.addEventListener('click', () => {
-        goPage(pageInput.value);
-      });
-      pageInput.addEventListener('keydown', (e) => {
-        if (e.key === 'Enter') {
+        jumpBtn.addEventListener('click', () => {
           goPage(pageInput.value);
-        }
+        });
+        pageInput.addEventListener('keydown', (e) => {
+          if (e.key === 'Enter') {
+            goPage(pageInput.value);
+          }
+        });
       });
-    });
-    window.addEventListener("load", () => {
-      loadInput(is_thumbnail);
-      loadInput(normal);
-      loadInput(live);
-      loadInput(short);
-      loadInput(sort);
-      loadInput(autoPlay);
-      // ページ読み込み時に初期ワードで検索
-      applyFilter();
-    });
-    normal.addEventListener("change", () => {
-      localStorage.setItem("normal", normal.checked);
-    });
-    live.addEventListener("change", () => {
-      localStorage.setItem("live", live.checked);
-    });
-    short.addEventListener("change", () => {
-      localStorage.setItem("short", short.checked);
-    });
-    is_thumbnail.addEventListener("change", () => {
-      localStorage.setItem("is_thumbnail", is_thumbnail.checked);
-    });
-    sort.addEventListener("change", () => {
-      localStorage.setItem("sort", sort.value);
-    });
-    autoPlay.addEventListener("change", () => {
-      localStorage.setItem("autoPlay", autoPlay.value);
-    });
-    function showPopupImg(imgElement) {
-      const videoId = imgElement.getAttribute("data-vid");
-      const modal = document.createElement('div');
-      modal.style.position = "fixed";
-      modal.style.top = 0;
-      modal.style.left = 0;
-      modal.style.width = "100%";
-      modal.style.height = "100%";
-      modal.style.backgroundColor = "rgba(0,0,0,0.8)";
-      modal.style.display = "flex";
-      modal.style.alignItems = "center";
-      modal.style.justifyContent = "center";
-      modal.style.overflow = "auto";
-      modal.style.zIndex = 1000;
-      modal.id = "popupImgModal";
+      window.addEventListener("load", () => {
+        loadInput(is_thumbnail);
+        loadInput(normal);
+        loadInput(live);
+        loadInput(short);
+        loadInput(sort);
+        loadInput(autoPlay);
+        // ページ読み込み時に初期ワードで検索
+        applyFilter();
+      });
+      normal.addEventListener("change", () => {
+        localStorage.setItem("normal", normal.checked);
+      });
+      live.addEventListener("change", () => {
+        localStorage.setItem("live", live.checked);
+      });
+      short.addEventListener("change", () => {
+        localStorage.setItem("short", short.checked);
+      });
+      is_thumbnail.addEventListener("change", () => {
+        localStorage.setItem("is_thumbnail", is_thumbnail.checked);
+      });
+      sort.addEventListener("change", () => {
+        localStorage.setItem("sort", sort.value);
+      });
+      autoPlay.addEventListener("change", () => {
+        localStorage.setItem("autoPlay", autoPlay.value);
+      });
+      function showPopupImg(imgElement) {
+        const videoId = imgElement.getAttribute("data-vid");
+        const modal = document.createElement('div');
+        modal.style.position = "fixed";
+        modal.style.top = 0;
+        modal.style.left = 0;
+        modal.style.width = "100%";
+        modal.style.height = "100%";
+        modal.style.backgroundColor = "rgba(0,0,0,0.8)";
+        modal.style.display = "flex";
+        modal.style.alignItems = "center";
+        modal.style.justifyContent = "center";
+        modal.style.overflow = "auto";
+        modal.style.zIndex = 1000;
+        modal.id = "popupImgModal";
 
-      const popupImg = document.createElement('img');
-      popupImg.style.objectFit = "contain";
-      popupImg.style.cursor = "pointer";
-      popupImg.style.display = "block";
-      modal.appendChild(popupImg);
-      document.body.appendChild(modal);
-      const urls = [
-        `https://img.youtube.com/vi/${videoId}/maxresdefault.jpg`,
-        `https://img.youtube.com/vi/${videoId}/sddefault.jpg`,
-        `https://img.youtube.com/vi/${videoId}/hqdefault.jpg`,
-        `https://img.youtube.com/vi/${videoId}/mqdefault.jpg`,
-      ];
-      let index = 0;
-      function tryNext() {
-        if (index >= urls.length) return;
-        const testImg = new Image();
-        testImg.onload = () => {
-          if (testImg.naturalWidth > 90 && testImg.naturalHeight > 90) {
-            popupImg.src = urls[index];
-            adjustSize();
-          } else {
+        const popupImg = document.createElement('img');
+        popupImg.style.objectFit = "contain";
+        popupImg.style.cursor = "pointer";
+        popupImg.style.display = "block";
+        modal.appendChild(popupImg);
+        document.body.appendChild(modal);
+        const urls = [
+          `https://img.youtube.com/vi/${videoId}/maxresdefault.jpg`,
+          `https://img.youtube.com/vi/${videoId}/sddefault.jpg`,
+          `https://img.youtube.com/vi/${videoId}/hqdefault.jpg`,
+          `https://img.youtube.com/vi/${videoId}/mqdefault.jpg`,
+        ];
+        let index = 0;
+        function tryNext() {
+          if (index >= urls.length) return;
+          const testImg = new Image();
+          testImg.onload = () => {
+            if (testImg.naturalWidth > 90 && testImg.naturalHeight > 90) {
+              popupImg.src = urls[index];
+              adjustSize();
+            } else {
+              index++;
+              tryNext();
+            }
+          };
+          testImg.onerror = () => {
             index++;
             tryNext();
+          };
+          testImg.src = urls[index];
+        }
+        tryNext();
+        function adjustSize() {
+          const vw = window.innerWidth;
+          const vh = window.innerHeight;
+          popupImg.style.maxWidth = vw + "px";
+          popupImg.style.maxHeight = vh + "px";
+        }
+        function keydown(e) {
+          if (e.key === "Escape") {
+            closePopupImg();
           }
-        };
-        testImg.onerror = () => {
-          index++;
-          tryNext();
-        };
-        testImg.src = urls[index];
-      }
-      tryNext();
-      function adjustSize() {
-        const vw = window.innerWidth;
-        const vh = window.innerHeight;
-        popupImg.style.maxWidth = vw + "px";
-        popupImg.style.maxHeight = vh + "px";
-      }
-      function keydown(e) {
-        if (e.key === "Escape") {
+        }
+        function closePopupImg() {
+          const modal = document.getElementById("popupImgModal");
+          if (modal) {
+            window.removeEventListener('resize', adjustSize);
+            document.removeEventListener('keydown', keydown);
+            document.body.removeChild(modal);
+          }
+        }
+        window.addEventListener('resize', adjustSize);
+        modal.addEventListener('click', () => {
           closePopupImg();
-        }
+        });
+        document.addEventListener('keydown', keydown);
       }
-      function closePopupImg() {
-        const modal = document.getElementById("popupImgModal");
-        if (modal) {
-          window.removeEventListener('resize', adjustSize);
-          document.removeEventListener('keydown', keydown);
-          document.body.removeChild(modal);
-        }
-      }
-      window.addEventListener('resize', adjustSize);
-      modal.addEventListener('click', () => {
-        closePopupImg();
-      });
-      document.addEventListener('keydown', keydown);
-    }
-    function setAutoColor() {
-      switch (autoPlay.value) {
-        case "0":
-          prevAuto.style.color = 'rgba(255, 255, 255, 1)';
-          nextAuto.style.color = 'rgba(255, 255, 255, 1)';
-          break;
-        case "1":
-          prevAuto.style.color = 'rgba(255, 255, 255, 1)';
-          nextAuto.style.color = 'rgba(0, 255, 0, 1)';
-          break;
-        case "2":
-          prevAuto.style.color = 'rgba(0, 255, 0, 1)';
-          nextAuto.style.color = 'rgba(255, 255, 255, 1)';
-          break;
-        case "3":
-          prevAuto.style.color = 'rgba(0, 255, 0, 1)';
-          nextAuto.style.color = 'rgba(0, 255, 0, 1)';
-          break;
-      }
-    }
-    function openPopupYtAtIndex(index) {
-      if (!isPlayerReady) return;
-      if (index < 0 || index >= videos.length) return;
-      //vidListのindexに変換
-      const [videoId, , , kindRaw] = videos[index];
-      index = vidList.findIndex(entry => entry.vid === videoId);
-      if (index < 0) return;
-      popup.style.display = 'block';
-      popupBg.style.display = 'block';
-      setAutoColor();
-      document.getElementById('popupNav').style.display = 'flex';
-      playVideo(index);
-    }
-    function playVideo(index) {
-      currentIndex = index;
-      videoId = vidList[index].vid;
-      kindRaw = vidList[index].kind;
-      const kind = ((kindRaw & 2) > 0) ? "short" : "normal";
-      // 縦横判定
-      if (kind === "short") {
-        popup.classList.remove("landscape");
-        popup.classList.add("portrait");
-      } else {
-        popup.classList.remove("portrait");
-        popup.classList.add("landscape");
-      }
-      player.loadVideoById(videoId);
-      player.playVideo();
-    }
-
-    function closePopupYt() {
-      if (popup.style.display != 'none') {
-        player.stopVideo();
-        popup.style.display = 'none';
-        popupBg.style.display = 'none';
-        document.getElementById('popupNav').style.display = 'none';
-      }
-    }
-    popupBg.addEventListener('click', closePopupYt);
-    closeBtn.addEventListener('click', closePopupYt);
-    document.addEventListener('keydown', (e) => {
-      if (e.key === "Escape") {
-        closePopupYt();
-      }
-    });
-    prevVideo.addEventListener('click', () => {
-      if (currentIndex > 0) playVideo(currentIndex - 1);
-      else playVideo(vidList.length - 1)
-    });
-    nextVideo.addEventListener('click', () => {
-      if (currentIndex < vidList.length - 1) playVideo(currentIndex + 1);
-      else playVideo(0);
-    });
-    prevAuto.addEventListener('click', () => {
-      switch (autoPlay.value) {
-        case "0":
-          autoPlay.value = "2";
-          break;
-        case "1":
-          autoPlay.value = "3";
-          break;
-        case "2":
-          autoPlay.value = "0";
-          break;
-        case "3":
-          autoPlay.value = "1";
-          break;
-      }
-      setAutoColor();
-    });
-    nextAuto.addEventListener('click', () => {
-      switch (autoPlay.value) {
-        case "0":
-          autoPlay.value = "1";
-          break;
-        case "1":
-          autoPlay.value = "0";
-          break;
-        case "2":
-          autoPlay.value = "3";
-          break;
-        case "3":
-          autoPlay.value = "2";
-          break;
-      }
-      setAutoColor();
-    });
-
-    function onYouTubeIframeAPIReady() {
-      player = new YT.Player('player', {
-        playerVars: {
-          playsinline: 1,
-          autoplay: 0,
-          controls: 1,
-          modestbranding: 1
-        },
-        events: {
-          onReady: () => { isPlayerReady = true; },
-          onStateChange: onPlayerStateChange,
-          onError: onPlayerError
-        }
-      });
-    }
-    function onPlayerStateChange(event) {
-      if (event.data === YT.PlayerState.ENDED) {
+      function setAutoColor() {
         switch (autoPlay.value) {
+          case "0":
+            prevAuto.style.color = 'rgba(255, 255, 255, 1)';
+            nextAuto.style.color = 'rgba(255, 255, 255, 1)';
+            break;
           case "1":
-            if (currentIndex < vidList.length - 1) playVideo(currentIndex + 1);
-            else playVideo(0)
+            prevAuto.style.color = 'rgba(255, 255, 255, 1)';
+            nextAuto.style.color = 'rgba(0, 255, 0, 1)';
             break;
           case "2":
-            if (currentIndex > 0) playVideo(currentIndex - 1);
-            else playVideo(vidList.length - 1)
+            prevAuto.style.color = 'rgba(0, 255, 0, 1)';
+            nextAuto.style.color = 'rgba(255, 255, 255, 1)';
             break;
           case "3":
-            playVideo(currentIndex);
-            break;
-          default:
-            //closePopupYt();
+            prevAuto.style.color = 'rgba(0, 255, 0, 1)';
+            nextAuto.style.color = 'rgba(0, 255, 0, 1)';
             break;
         }
       }
-    }
-    function onPlayerError(event) {
-      if (event.data === 100 || event.data === 101 || event.data === 150) {
-        // 100: 動画が存在しない / 非公開 / 削除済み
-        // 101,150: 埋め込み許可されていない
-        onPlayerStateChange({ data: YT.PlayerState.ENDED });
+      function openPopupYtAtIndex(index) {
+        if (!isPlayerReady) return;
+        if (index < 0 || index >= videos.length) return;
+        //vidListのindexに変換
+        const [videoId, , , kindRaw] = videos[index];
+        index = vidList.findIndex(entry => entry.vid === videoId);
+        if (index < 0) return;
+        popup.style.display = 'block';
+        popupBg.style.display = 'block';
+        setAutoColor();
+        document.getElementById('popupNav').style.display = 'flex';
+        playVideo(index);
       }
-    }
-    document.addEventListener('DOMContentLoaded', () => {
-      const infoIcon = document.getElementById('infoIcon');
-      const speechBubble = document.getElementById('speechBubble');
+      function playVideo(index) {
+        currentIndex = index;
+        videoId = vidList[index].vid;
+        kindRaw = vidList[index].kind;
+        const kind = ((kindRaw & 2) > 0) ? "short" : "normal";
+        // 縦横判定
+        if (kind === "short") {
+          popup.classList.remove("landscape");
+          popup.classList.add("portrait");
+        } else {
+          popup.classList.remove("portrait");
+          popup.classList.add("landscape");
+        }
+        player.loadVideoById(videoId);
+        player.playVideo();
+      }
 
-      infoIcon.addEventListener('click', (event) => {
-        event.stopPropagation();
-        speechBubble.classList.toggle('active');
+      function closePopupYt() {
+        if (popup.style.display != 'none') {
+          player.stopVideo();
+          popup.style.display = 'none';
+          popupBg.style.display = 'none';
+          document.getElementById('popupNav').style.display = 'none';
+        }
+      }
+      popupBg.addEventListener('click', closePopupYt);
+      closeBtn.addEventListener('click', closePopupYt);
+      document.addEventListener('keydown', (e) => {
+        if (e.key === "Escape") {
+          closePopupYt();
+        }
+      });
+      prevVideo.addEventListener('click', () => {
+        if (currentIndex > 0) playVideo(currentIndex - 1);
+        else playVideo(vidList.length - 1)
+      });
+      nextVideo.addEventListener('click', () => {
+        if (currentIndex < vidList.length - 1) playVideo(currentIndex + 1);
+        else playVideo(0);
+      });
+      prevAuto.addEventListener('click', () => {
+        switch (autoPlay.value) {
+          case "0":
+            autoPlay.value = "2";
+            break;
+          case "1":
+            autoPlay.value = "3";
+            break;
+          case "2":
+            autoPlay.value = "0";
+            break;
+          case "3":
+            autoPlay.value = "1";
+            break;
+        }
+        setAutoColor();
+      });
+      nextAuto.addEventListener('click', () => {
+        switch (autoPlay.value) {
+          case "0":
+            autoPlay.value = "1";
+            break;
+          case "1":
+            autoPlay.value = "0";
+            break;
+          case "2":
+            autoPlay.value = "3";
+            break;
+          case "3":
+            autoPlay.value = "2";
+            break;
+        }
+        setAutoColor();
       });
 
-      document.addEventListener('click', (event) => {
-        if (!infoIcon.contains(event.target) && !speechBubble.contains(event.target)) {
-          if (speechBubble.classList.contains('active')) {
-            speechBubble.classList.remove('active');
+      function onYouTubeIframeAPIReady() {
+        player = new YT.Player('player', {
+          playerVars: {
+            playsinline: 1,
+            autoplay: 0,
+            controls: 1,
+            modestbranding: 1
+          },
+          events: {
+            onReady: () => { isPlayerReady = true; },
+            onStateChange: onPlayerStateChange,
+            onError: onPlayerError
+          }
+        });
+      }
+      function onPlayerStateChange(event) {
+        if (event.data === YT.PlayerState.ENDED) {
+          switch (autoPlay.value) {
+            case "1":
+              if (currentIndex < vidList.length - 1) playVideo(currentIndex + 1);
+              else playVideo(0)
+              break;
+            case "2":
+              if (currentIndex > 0) playVideo(currentIndex - 1);
+              else playVideo(vidList.length - 1)
+              break;
+            case "3":
+              playVideo(currentIndex);
+              break;
+            default:
+              //closePopupYt();
+              break;
           }
         }
+      }
+      function onPlayerError(event) {
+        if (event.data === 100 || event.data === 101 || event.data === 150) {
+          // 100: 動画が存在しない / 非公開 / 削除済み
+          // 101,150: 埋め込み許可されていない
+          onPlayerStateChange({ data: YT.PlayerState.ENDED });
+        }
+      }
+      document.addEventListener('DOMContentLoaded', () => {
+        const infoIcon = document.getElementById('infoIcon');
+        const speechBubble = document.getElementById('speechBubble');
+
+        infoIcon.addEventListener('click', (event) => {
+          event.stopPropagation();
+          speechBubble.classList.toggle('active');
+        });
+
+        document.addEventListener('click', (event) => {
+          if (!infoIcon.contains(event.target) && !speechBubble.contains(event.target)) {
+            if (speechBubble.classList.contains('active')) {
+              speechBubble.classList.remove('active');
+            }
+          }
+        });
       });
     });
-
   </script>
 </body>
 
