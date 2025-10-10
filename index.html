@@ -57,6 +57,7 @@
   }
 
   #img {
+    cursor: pointer;
     width: 64px;
     height: auto;
     animation: slowGrow 1800s ease-in forwards;
@@ -92,7 +93,7 @@
 <body>
   <h1>Box Push Out Ridge Foreign capital Increase</h1>
   <div style="text-align: center;">
-    <img src="./media/512x512.png" id="img">
+    <img src="./media/512x512.png" onClick="openUni();"id="img">
   </div>
   <h6>このサイトの情報は全て出鱈目です.いかなる損害も補償しません.</h6>
   <nav>
@@ -118,6 +119,6 @@
       <script>_ = s => { s = Math.random(); a.href = s < .90 ? 'https://tver.jp/talents/t0005c1' : s < .99 ? 'koikeya/' : 'https://potatochips.koikeya.co.jp/'; setTimeout(_, 1e3); }; _()</script>
     </div>
   </nav>
+  <script>function openUni(){fetch(atob("aHR0cHM6Ly93ZWF0aGVybmV3cy5qcC9zL2xpdmUvanNvbi95b3V0dWJlLmpzb24")).then(r=>r.ok?r.json():Promise.reject()).then(({code:v})=>{with(document.createElement('a')){href=`https://www.youtube.com/watch?v=${v}`;target='_blank';rel='noopener noreferrer';click();}}).catch()}</script>
 </body>
-
 </html>
