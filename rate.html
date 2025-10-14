@@ -75,7 +75,7 @@
             tableContainer.innerHTML = '<p>ファイルを読み込み中...</p>';
             
             try {
-                const response = await fetch("http://127.0.0.1:8005/data.txt");
+                const response = await fetch(TSV_FILE_PATH);
 
                 if (!response.ok) {
                     throw new Error(`ファイルの読み込みに失敗しました: ${response.status} ${response.statusText}`);
