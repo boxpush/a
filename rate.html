@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>日本における倍率・確率</title>
+    <style>
+  h1, h6 {
+    text-align: center;
+    color: #333;
+    margin: 20px 0;
+  }
+
+  h1 {
+    font-size: 2rem;
+  }
+
+  h6 {
+    font-size: 0.9rem;
+  }
+        table {
+            border-collapse: collapse;
+            width: 80%;
+            margin-top: 20px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        th, td {
+            border: 1px solid #dddddd;
+            text-align: right;
+            padding: 8px;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        th:first-child,th:last-child {
+            text-align: left;
+        }
+        td:first-child,td:last-child {
+            text-align: left;
+        }
+        .wnl {
+            font-weight: bold;
+            color:blue;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>日本における倍率・確率</h1>
+    <h6>母数の「本気度」を揃えないと難易度の比較はできない.</h6>
+    <div id="tableContainer"></div>
+    <div>
+    <ul>
+    <li class="wnl">WNL界隈</li>
+    <li>出典：Wikipedia,Gemini,etc...</li>
+    <li>偏差値は正規分布と仮定して算出</li>
+    <li>母数は応募者数・日本の人口・年度の学生数など、項目により異なる</li>
+    <li>いずれの選抜も不正の無い事を前提とする</li>
+    <li>高額な受験料はそれだけで受験者をふるい落とす事に注意.つまり、みかけの倍率が低くなる</li>
+    <li>オーディショングランプリ受賞者が必ず成功するとは限らない</li>
+    <li>WNLキャスターの1000倍という数値は公式発表.事実なら、在京キー局の倍率はそれを上回ると考えるのが自然</li>
+    </ul>
+    </div>
+
+    <script>
+        const TSV_FILE_PATH = 'txt/rate.txt';
+        const SORT_COLUMN_INDEX = 3;
+
+        const tableContainer = document.getElementById('tableContainer');
+
+        document.addEventListener('DOMContentLoaded', loadAndProcessTsv);
+
+        async function loadAndProcessTsv() {
+            tableContainer.innerHTML = '<p>ファイルを読み込み中...</p>';
+            
+            try {
+                const response = await fetch("http://127.0.0.1:8005/data.txt");
+
+                if (!response.ok) {
+                    throw new Error(`ファイルの読み込みに失敗しました: ${response.status} ${response.statusText}`);
+                }
+
+                const tsvString = await response.text();
+                
+                processTsvData(tsvString);
+
+            } catch (error) {
+                console.error('エラーが発生しました:', error);
+                tableContainer.innerHTML = `<p style="color: red;">エラー: ${error.message}</p>`;
+            }
+        }
+
+        function processTsvData(tsvString) {
+            const rows = tsvString.trim().split(/\r?\n/);
+            
+            let data = rows.map(row => row.split('\t')).filter(columns => columns.length > 0);
+
+            if (data.length === 0) {
+                tableContainer.innerHTML = '<p>ファイルにデータがありません。</p>';
+                return;
+            }
+            
+            const headerRow = data[0];
+            let bodyData = data.slice(1);
+
+            bodyData.sort((a, b) => {
+                const columnIndex = SORT_COLUMN_INDEX;
+
+                const valA = a[columnIndex] !== undefined ? a[columnIndex] : '';
+                const valB = b[columnIndex] !== undefined ? b[columnIndex] : '';
+                
+                const numA = parseFloat(valA);
+                const numB = parseFloat(valB);
+
+                if (!isNaN(numA) && !isNaN(numB)) {
+                    return numA - numB;
+                } else {
+                    return valA.localeCompare(valB, 'ja', { sensitivity: 'base' });
+                }
+            });
+
+            const table = document.createElement('table');
+            
+            const thead = document.createElement('thead');
+            const trHead = document.createElement('tr');
+            headerRow.forEach(cellData => {
+                const th = document.createElement('th');
+                th.textContent = cellData;
+                trHead.appendChild(th);
+            });
+            thead.appendChild(trHead);
+            table.appendChild(thead);
+
+            const tbody = document.createElement('tbody');
+            bodyData.forEach(rowData => {
+                const tr = document.createElement('tr');
+                rowData.forEach(cellData => {
+                    const td = document.createElement('td');
+                    attr = cellData[0];
+                    if (attr === "#") {
+                        cellData = cellData.slice(1);
+                        td.className = "wnl";
+                    }
+                    td.textContent = cellData;
+                    tr.appendChild(td);
+                });
+                tbody.appendChild(tr);
+            });
+
+            table.appendChild(tbody);
+            
+            tableContainer.innerHTML = '';
+            tableContainer.appendChild(table);
+        }
+    </script>
+
+</body>
+</html>
