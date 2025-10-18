@@ -43,10 +43,27 @@
             font-weight: bold;
             color:blue;
         }
+    #back {
+      position: fixed;
+      top: 2px;
+      left: 2px;
+      z-index: 9999;
+      padding: 10px 15px;
+      font-size: 16px;
+      border-radius: 6px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    }
+
+    @media (max-width: 600px) {
+      #back {
+        font-size: 18px;
+        padding: 12px 18px;
+      }
+    }
     </style>
 </head>
 <body>
-
+    <button id="back" onclick="location.href='./'">戻る</button>
     <h1>日本における倍率・確率</h1>
     <h6>母数の「本気度」を揃えないと難易度の比較はできない.</h6>
     <div id="tableContainer"></div>
@@ -64,95 +81,178 @@
     </div>
 
     <script>
-        const TSV_FILE_PATH = 'txt/w_rate.txt';
-        const SORT_COLUMN_INDEX = 3;
+const TSV_FILE_PATH = 'txt/w_rate.txt';
+// 初期ソートの列インデックスを定義
+const INITIAL_SORT_COLUMN_INDEX = 3; 
 
-        const tableContainer = document.getElementById('tableContainer');
+const tableContainer = document.getElementById('tableContainer');
 
-        document.addEventListener('DOMContentLoaded', loadAndProcessTsv);
+// グローバル変数でデータとソート状態を保持
+let allData = []; // ヘッダー行とデータ行すべて
+let currentSortColumn = INITIAL_SORT_COLUMN_INDEX;
+let isAscending = true; // 初期状態は昇順
 
-        async function loadAndProcessTsv() {
-            tableContainer.innerHTML = '<p>ファイルを読み込み中...</p>';
-            
-            try {
-                const response = await fetch(TSV_FILE_PATH);
+document.addEventListener('DOMContentLoaded', loadAndProcessTsv);
 
-                if (!response.ok) {
-                    throw new Error(`ファイルの読み込みに失敗しました: ${response.status} ${response.statusText}`);
-                }
+/**
+ * TSVファイルを読み込み、データを処理する
+ */
+async function loadAndProcessTsv() {
+    tableContainer.innerHTML = '<p>ファイルを読み込み中...</p>';
+    
+    try {
+        const response = await fetch(TSV_FILE_PATH);
 
-                const tsvString = await response.text();
-                
-                processTsvData(tsvString);
-
-            } catch (error) {
-                console.error('エラーが発生しました:', error);
-                tableContainer.innerHTML = `<p style="color: red;">エラー: ${error.message}</p>`;
-            }
+        if (!response.ok) {
+            throw new Error(`ファイルの読み込みに失敗しました: ${response.status} ${response.statusText}`);
         }
 
-        function processTsvData(tsvString) {
-            const rows = tsvString.trim().split(/\r?\n/);
-            
-            let data = rows.map(row => row.split('\t')).filter(columns => columns.length > 0);
+        const tsvString = await response.text();
+        
+        processTsvData(tsvString);
 
-            if (data.length === 0) {
-                tableContainer.innerHTML = '<p>ファイルにデータがありません。</p>';
-                return;
+    } catch (error) {
+        console.error('エラーが発生しました:', error);
+        tableContainer.innerHTML = `<p style="color: red;">エラー: ${error.message}</p>`;
+    }
+}
+
+/**
+ * TSV文字列をパースし、初期ソートとテーブル描画を行う
+ * @param {string} tsvString - TSV形式の文字列
+ */
+function processTsvData(tsvString) {
+    const rows = tsvString.trim().split(/\r?\n/);
+    
+    allData = rows.map(row => row.split('\t')).filter(columns => columns.length > 0);
+
+    if (allData.length === 0) {
+        tableContainer.innerHTML = '<p>ファイルにデータがありません。</p>';
+        return;
+    }
+    
+    // 初期ソートと描画を実行
+    sortAndRenderTable(currentSortColumn, isAscending);
+}
+
+/**
+ * 指定された列と方向でデータをソートし、テーブルを描画する
+ * @param {number} columnIndex - ソートする列のインデックス
+ * @param {boolean} ascending - 昇順の場合は true、降順の場合は false
+ */
+function sortAndRenderTable(columnIndex, ascending) {
+    if (allData.length < 2) return;
+
+    const headerRow = allData[0];
+    let bodyData = allData.slice(1);
+
+    bodyData.sort((a, b) => {
+        const valA = a[columnIndex] !== undefined ? a[columnIndex] : '';
+        const valB = b[columnIndex] !== undefined ? b[columnIndex] : '';
+        
+        // #を無視して比較対象の文字列を取得
+        const cleanValA = valA.startsWith('#') ? valA.slice(1) : valA;
+        const cleanValB = valB.startsWith('#') ? valB.slice(1) : valB;
+        
+        const numA = parseFloat(cleanValA);
+        const numB = parseFloat(cleanValB);
+        let comparison = 0;
+
+        if (!isNaN(numA) && !isNaN(numB)) {
+            // 数値比較
+            comparison = numA - numB;
+        } else {
+            // 文字列比較
+            comparison = cleanValA.localeCompare(cleanValB, 'ja', { sensitivity: 'base' });
+        }
+        
+        return ascending ? comparison : -comparison; // 昇順/降順を適用
+    });
+
+    // ソートされたデータ（ヘッダー + ソート済みボディ）でテーブルを描画
+    createTable([headerRow, ...bodyData], columnIndex, ascending);
+    
+    // 現在のソート状態を更新
+    currentSortColumn = columnIndex;
+    isAscending = ascending;
+}
+
+/**
+ * ソート状態に基づいてテーブルを構築し、DOMに挿入する
+ * @param {Array<Array<string>>} data - テーブルのデータ（ヘッダー行を含む）
+ * @param {number} sortColumn - 現在ソートされている列のインデックス
+ * @param {boolean} ascending - 現在のソート方向
+ */
+function createTable(data, sortColumn, ascending) {
+    const table = document.createElement('table');
+    const headerRow = data[0];
+    const bodyData = data.slice(1);
+    
+    const thead = document.createElement('thead');
+    const trHead = document.createElement('tr');
+    
+    // ヘッダー行を生成
+    headerRow.forEach((cellData, index) => {
+        const th = document.createElement('th');
+        th.textContent = cellData;
+        
+        // クリックイベントリスナーを追加
+        th.addEventListener('click', () => handleHeaderClick(index));
+        
+        // ソートインジケータ（矢印）を追加
+        if (index === sortColumn) {
+            th.textContent += ascending ? ' ▲' : ' ▼';
+        }
+        
+        trHead.appendChild(th);
+    });
+    
+    thead.appendChild(trHead);
+    table.appendChild(thead);
+
+    const tbody = document.createElement('tbody');
+    // データ行を生成
+    bodyData.forEach(rowData => {
+        const tr = document.createElement('tr');
+        rowData.forEach(cellData => {
+            const td = document.createElement('td');
+            let displayData = cellData;
+            
+            // # が付いているセルに対する処理
+            if (cellData.startsWith("#")) {
+                displayData = cellData.slice(1);
+                td.className = "wnl";
             }
             
-            const headerRow = data[0];
-            let bodyData = data.slice(1);
+            td.textContent = displayData;
+            tr.appendChild(td);
+        });
+        tbody.appendChild(tr);
+    });
 
-            bodyData.sort((a, b) => {
-                const columnIndex = SORT_COLUMN_INDEX;
+    table.appendChild(tbody);
+    
+    tableContainer.innerHTML = '';
+    tableContainer.appendChild(table);
+}
 
-                const valA = a[columnIndex] !== undefined ? a[columnIndex] : '';
-                const valB = b[columnIndex] !== undefined ? b[columnIndex] : '';
-                
-                const numA = parseFloat(valA);
-                const numB = parseFloat(valB);
+/**
+ * ヘッダーがクリックされたときの処理
+ * @param {number} columnIndex - クリックされた列のインデックス
+ */
+function handleHeaderClick(columnIndex) {
+    let newIsAscending = isAscending;
 
-                if (!isNaN(numA) && !isNaN(numB)) {
-                    return numA - numB;
-                } else {
-                    return valA.localeCompare(valB, 'ja', { sensitivity: 'base' });
-                }
-            });
-
-            const table = document.createElement('table');
-            
-            const thead = document.createElement('thead');
-            const trHead = document.createElement('tr');
-            headerRow.forEach(cellData => {
-                const th = document.createElement('th');
-                th.textContent = cellData;
-                trHead.appendChild(th);
-            });
-            thead.appendChild(trHead);
-            table.appendChild(thead);
-
-            const tbody = document.createElement('tbody');
-            bodyData.forEach(rowData => {
-                const tr = document.createElement('tr');
-                rowData.forEach(cellData => {
-                    const td = document.createElement('td');
-                    attr = cellData[0];
-                    if (attr === "#") {
-                        cellData = cellData.slice(1);
-                        td.className = "wnl";
-                    }
-                    td.textContent = cellData;
-                    tr.appendChild(td);
-                });
-                tbody.appendChild(tr);
-            });
-
-            table.appendChild(tbody);
-            
-            tableContainer.innerHTML = '';
-            tableContainer.appendChild(table);
-        }
+    if (columnIndex === currentSortColumn) {
+        // 同じ列がクリックされた場合はソート方向を反転
+        newIsAscending = !isAscending;
+    } else {
+        // 異なる列がクリックされた場合は、その列で昇順ソートを開始
+        newIsAscending = true; 
+    }
+    
+    sortAndRenderTable(columnIndex, newIsAscending);
+}
     </script>
 
 </body>
