@@ -1,185 +1,291 @@
 [
-    {
-        "name": "須田 浩子",
-        "bio": "元出役 100カメ出演",
-        "links": {
-          "instagram": [],
-          "twitter": [],
-          "threads": [],
-          "tiktok": [],
-          "youtube": ["KBwRlcqnGfI"]
-        }
-      },
-      {
-        "name": "畠山 清佳",
-        "bio": "元出役",
-        "links": {
-          "instagram": [],
-          "twitter": [],
-          "threads": [],
-          "tiktok": [],
-          "youtube": ["62a9sYD7d-E","zJDGe4xUpFQ"]
-        }
-      },
-      {
-        "name": "永井 友理",
-        "bio": "ながい ゆり、1973年〈昭和48年〉12月10日 気象予報士",
-        "links": {
-          "instagram": [],
-          "twitter": ["youlichumi"],
-          "threads": [],
-          "tiktok": [],
-          "wikipedia":["永井友理"]
-        }
-      },
-      {
-        "name": "木島由利香",
-        "bio": "きしま ゆりか、1985年〈昭和60年〉7月27日 気象予報士 元出役",
-        "links": {
-          "instagram": [],
-          "twitter": ["kissy727"],
-          "threads": [],
-          "tiktok": [],
-          "wikipedia": ["木島由利香"]
-        }
-      },
-      {
-        "name": "加藤夕貴",
-        "bio": "100カメ出演",
-        "links": {
-          "instagram": [],
-          "twitter": [],
-          "threads": [],
-          "tiktok": [],
-          "etc":["web.archive.org/web/20240909170106/https://smps-weather.auone.jp/about/amayami/index.html"]
-        }
-      },
-      {
-        "name": "立石",
-        "bio": "100カメ出演",
-        "links": {
-          "instagram": [],
-          "twitter": ["TateisHisashi"],
-          "threads": [],
-          "tiktok": []
-        }
-      },
-      {
-        "name": "村上ひかる",
-        "bio": "",
-        "links": {
-          "instagram": [],
-          "twitter": ["hikarun_wni"],
-          "threads": [],
-          "tiktok": [],
-          "youtube": ["1ViLYD-tzOI"]
-        }
-      },
-      {
-        "name": "磯谷 英志",
-        "bio": "",
-        "links": {
-          "instagram": ["isoya"],
-          "twitter": ["ahirunrun0203"],
-          "threads": ["isoya"],
-          "tiktok": [],
-          "youtube": ["yqSJ6pnwWe8"],
-          "facebook": ["eishi.i.fukuhara"]
-        }
-      },
-      {
-        "name": "柴崎 真",
-        "bio": "",
-        "links": {
-          "instagram": ["makotoshibasaki"],
-          "twitter": ["shibasaki1088"],
-          "threads": ["makotoshibasaki"],
-          "tiktok": []
-        }
-      },
-      {
-        "name": "野口 晶太",
-        "bio": "",
-        "links": {
-          "instagram": [],
-          "twitter": ["1_n"],
-          "threads": [],
-          "tiktok": []
-        }
-      },
-      {
-        "name": "根来 武志",
-        "bio": "ねごろ たけし、1980年〈昭和55年〉11月1日 元出役",
-        "links": {
-          "instagram": ["takeshi_negoro"],
-          "twitter": ["negoro21"],
-          "threads": ["takeshi_negoro"],
-          "tiktok": []
-        }
-      },
-      {
-        "name": "福嶋 貫太郎",
-        "bio": "ふくしま かんたろう、1982年〈昭和57年〉8月17日 元出役",
-        "links": {
-          "instagram": ["kantaro24"],
-          "twitter": ["kantaro_f"],
-          "threads": ["kantaro24"],
-          "tiktok": []
-        }
-      },
-      {
-        "name": "丹羽 祐久",
-        "bio": "にわ ひろひさ、1978年〈昭和53年〉3月29日 気象予報士 100カメ出演",
-        "links": {
-          "instagram": [],
-          "twitter": ["NIWAmerica"],
-          "threads": [],
-          "tiktok": [],
-          "wikipedia":["丹羽祐久"],
-          "facebook":["hirohisa.niwa"]
-        }
-      },
-      {
-        "name": "立野 象一",
-        "bio": "",
-        "links": {
-          "instagram": ["tateno.s"],
-          "twitter": [],
-          "threads": ["tateno.s"],
-          "tiktok": []
-        }
-      },
-      {
-        "name": "村田 泰謁",
-        "bio": "むらた ひろゆき、1970年〈昭和45年〉10月23日 1999年入社 元出役",
-        "links": {
-          "instagram": ["muratahiroyukip"],
-          "twitter": ["muratatw"],
-          "threads": ["muratahiroyukip"],
-          "tiktok": ["murapweathernews"]
-        }
-      },
-      {
-      "name": "西 祐一郎",
-      "bio": "1966年生まれ 1992年入社",
-      "links": {
-        "instagram": [],
-        "twitter": ["yuh24"],
-        "threads": [],
-        "tiktok": []
-      }
-    },
-    {
-      "name": "石橋 知博",
-      "bio": "いしばし ともひろ、1975年〈昭和50年〉3月28日 2000年入社 元キックボクサー",
-      "links": {
-        "instagram": ["bashi3"],
-        "twitter": [
-          "bashi3"
-        ],
-        "threads": ["bashi3"],
-        "tiktok": ["bashi3tik"],
-        "wikipedia": ["石橋知博"]
-      }
+  {
+    "name": "須田 浩子",
+    "bio": "元出役 100カメ出演",
+    "links": {
+      "instagram": [],
+      "twitter": [],
+      "threads": [],
+      "tiktok": [],
+      "youtube": [
+        "KBwRlcqnGfI"
+      ]
     }
-  ]
+  },
+  {
+    "name": "畠山 清佳 2006年入社",
+    "bio": "元出役",
+    "links": {
+      "instagram": [],
+      "twitter": [],
+      "threads": [],
+      "tiktok": [],
+      "youtube": [
+        "62a9sYD7d-E",
+        "zJDGe4xUpFQ"
+      ]
+    }
+  },
+  {
+    "name": "永井 友理",
+    "bio": "ながい ゆり、1973年〈昭和48年〉12月10日 1999年入社 気象予報士",
+    "links": {
+      "instagram": ["youli2011"],
+      "twitter": [
+        "youlichumi"
+      ],
+      "threads": [],
+      "tiktok": [],
+      "facebook": [
+        "yuri.nagai1"
+      ],
+      "wikipedia": [
+        "永井友理"
+      ]
+    }
+  },
+  {
+    "name": "木島 由利香",
+    "bio": "きしま ゆりか、1985年〈昭和60年〉7月27日 気象予報士 元出役",
+    "links": {
+      "instagram": [],
+      "twitter": [
+        "kissy727"
+      ],
+      "threads": [],
+      "tiktok": [],
+      "wikipedia": [
+        "木島由利香"
+      ]
+    }
+  },
+  {
+    "name": "加藤 夕貴",
+    "bio": "100カメ出演",
+    "links": {
+      "instagram": [],
+      "twitter": [],
+      "threads": [],
+      "tiktok": [],
+      "etc": [
+        "web.archive.org/web/20240909170106/https://smps-weather.auone.jp/about/amayami/index.html"
+      ]
+    }
+  },
+  {
+    "name": "立石",
+    "bio": "100カメ出演",
+    "links": {
+      "instagram": [],
+      "twitter": [
+        "TateisHisashi"
+      ],
+      "threads": [],
+      "tiktok": []
+    }
+  },
+  {
+    "name": "村上ひかる",
+    "bio": "",
+    "links": {
+      "instagram": [],
+      "twitter": [
+        "hikarun_wni"
+      ],
+      "threads": [],
+      "tiktok": [],
+      "youtube": [
+        "1ViLYD-tzOI"
+      ]
+    }
+  },
+  {
+    "name": "磯谷 英志 2000年入社",
+    "bio": "",
+    "links": {
+      "instagram": [
+        "isoya"
+      ],
+      "twitter": [
+        "ahirunrun0203"
+      ],
+      "threads": [
+        "isoya"
+      ],
+      "tiktok": [],
+      "youtube": [
+        "yqSJ6pnwWe8"
+      ],
+      "facebook": [
+        "eishi.i.fukuhara"
+      ]
+    }
+  },
+  {
+    "name": "柴崎 真",
+    "bio": "",
+    "links": {
+      "instagram": [
+        "makotoshibasaki"
+      ],
+      "twitter": [
+        "shibasaki1088"
+      ],
+      "threads": [
+        "makotoshibasaki"
+      ],
+      "tiktok": []
+    }
+  },
+  {
+    "name": "野口 晶太",
+    "bio": "",
+    "links": {
+      "instagram": [],
+      "twitter": [
+        "1_n"
+      ],
+      "threads": [],
+      "tiktok": []
+    }
+  },
+  {
+    "name": "根来 武志",
+    "bio": "ねごろ たけし、1980年〈昭和55年〉11月1日 元出役",
+    "links": {
+      "instagram": [
+        "takeshi_negoro"
+      ],
+      "twitter": [
+        "negoro21"
+      ],
+      "threads": [
+        "takeshi_negoro"
+      ],
+      "tiktok": []
+    }
+  },
+  {
+    "name": "福嶋 貫太郎",
+    "bio": "ふくしま かんたろう、1982年〈昭和57年〉8月17日 元出役",
+    "links": {
+      "instagram": [
+        "kantaro24"
+      ],
+      "twitter": [
+        "kantaro_f"
+      ],
+      "threads": [
+        "kantaro24"
+      ],
+      "youtube": [
+        "Ru1UgSqgqS0"
+      ],
+      "tiktok": []
+    }
+  },
+  {
+    "name": "丹羽 祐久",
+    "bio": "にわ ひろひさ、1978年〈昭和53年〉3月29日 2002年入社 気象予報士 100カメ出演",
+    "links": {
+      "instagram": [],
+      "twitter": [
+        "NIWAmerica"
+      ],
+      "threads": [],
+      "tiktok": [],
+      "wikipedia": [
+        "丹羽祐久"
+      ],
+      "facebook": [
+        "hirohisa.niwa"
+      ]
+    }
+  },
+  {
+    "name": "立野 象一",
+    "bio": "",
+    "links": {
+      "instagram": [
+        "tateno.s"
+      ],
+      "twitter": [],
+      "threads": [
+        "tateno.s"
+      ],
+      "tiktok": []
+    }
+  },
+  {
+    "name": "村田 泰謁",
+    "bio": "むらた ひろゆき、1970年〈昭和45年〉10月23日 1999年入社 元出役",
+    "links": {
+      "instagram": [
+        "muratahiroyukip"
+      ],
+      "twitter": [
+        "muratatw"
+      ],
+      "threads": [
+        "muratahiroyukip"
+      ],
+      "tiktok": [
+        "murapweathernews"
+      ]
+    }
+  },
+  {
+    "name": "西 祐一郎",
+    "bio": "1966年生まれ 1992年入社",
+    "links": {
+      "instagram": [],
+      "twitter": [
+        "yuh24"
+      ],
+      "threads": [],
+      "tiktok": []
+    }
+  },
+  {
+    "name": "吉武 正憲",
+    "bio": "よしたけ まさのり、1972年〈昭和47年〉10月14日 1996年入社",
+    "links": {
+    }
+  },
+  {
+    "name": "森田 清輝",
+    "bio": "もりた きよてる、1956年〈昭和31年〉4月6日 1986年入社 ジャンボ森田,元取締役",
+    "links": {
+    }
+  },
+  {
+    "name": "石橋 知博",
+    "bio": "いしばし ともひろ、1975年〈昭和50年〉3月28日 2000年入社 元キックボクサー",
+    "links": {
+      "instagram": [
+        "bashi3"
+      ],
+      "twitter": [
+        "bashi3"
+      ],
+      "threads": [
+        "bashi3"
+      ],
+      "tiktok": [
+        "bashi3tik"
+      ],
+      "wikipedia": [
+        "石橋知博"
+      ]
+    }
+  },
+  {
+    "name": "草開 千仁",
+    "bio": "くさびらき ちひと、1965年〈昭和40年〉3月18日 1987年入社",
+    "links": {
+    }
+  }
+
+
+
+]
