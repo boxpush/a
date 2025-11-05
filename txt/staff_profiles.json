@@ -79,12 +79,15 @@
     "name": "立石",
     "bio": "100カメ出演",
     "links": {
-      "instagram": [],
+      "instagram": ["hisa_tate"],
       "twitter": [
         "TateisHisashi"
       ],
       "threads": [],
-      "tiktok": []
+      "tiktok": [],
+      "youtube": [
+        "IJAYCN4XHgs"
+      ]
     }
   },
   {
@@ -266,7 +269,7 @@
   },
   {
     "name": "森田 清輝",
-    "bio": "もりた きよてる、1956年〈昭和31年〉4月6日 1986年入社 ジャンボ森田,元取締役",
+    "bio": "もりた きよてる、1956年〈昭和31年〉4月6日 1986年入社 ジャンボ森田",
     "links": {
       "youtube": [
         "o3HVIJRq_Rc"
