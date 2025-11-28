@@ -60,9 +60,10 @@
   <button id="back" onclick="location.href='./'">戻る</button>
   <div style="margin-bottom: 40px;"></div>
   <a href="#template">テンプレ(暫定)</a><br><br>
-  <a href="#ana">個スレ一覧</a><br><br>
-  <a href="#past_live">(実況スレ)過去ログ一覧</a><br><br>
-  <a href="#past_caster">(キャスター総合スレ)過去ログ一覧</a><br><br>
+  <a href="#ng">専ブラのNG機能を使いこなそう(正規表現サンプル)</a><br><br>
+  <a href="#past_live">(実況スレ)現行スレ・過去ログ一覧</a><br><br>
+  <a href="#past_caster">(キャスター総合スレ)現行スレ・過去ログ一覧</a><br><br>
+  <a href="#ana">キャスター個スレ一覧</a><br><br>
   <a href="#shelter">【避難所】5ちゃんねる総合避難所スレッド</a><br><br>
 <br>
   <h1 id="template">テンプレ(暫定)</h1>
@@ -630,62 +631,87 @@ NHKでは、地上の気温に氷点下を使い、上空の気温の場合は�
 テンプレとスレ確定のためのレスは以上です
 </pre>
   </div>
+<div>
+<h1 id="ng">専ブラのNG機能を使いこなそう(正規表現サンプル)</h1>
+<h3 style="color:red;">※正規表現をうっかり間違えると出来の悪い専ブラはフリーズするぞ！おどろいたね！</h3>
+<br/>
+<div>「◯◯」を含むレスをNGにするなら、単にこう書く：<br/>
+<pre class="pre-box">
+無職野郎
+</pre></div>
+<br/>
+<div>|で繋げれば、どれか一つでも含むレスをNGにできる：<br/>
+<pre class="pre-box">
+無職野郎|おどろいたね！気をつけろよ！
+</pre></div>
+<br/>
+<div>200文字以上の長文レスをNG：<br/>
+<pre class="pre-box">
+[\s\S]{200,}
+</pre></div>
+<br/>
+<div>改行せず100文字以上書いてるレスをNG：<br/>
+<pre class="pre-box">
+.{100,}
+</pre></div>
+<br/>
+<div>全部まとめてNGにしたいなら|で繋げればいい：<br/>
+<pre class="pre-box">
+無職野郎|おどろいたね！気をつけろよ！|[\s\S]{200,}|.{100,}
+</pre></div>
+<br/>
+<br/>
+<br/>
+<div>絵文字だけのレス：<br/>
+<pre class="pre-box">
+^[\p{ExtPict}\s]+$
+</pre></div>
+<br/>
+<div>先頭が絵文字で始まるレス：<br/>
+<pre class="pre-box">
+^[\p{ExtPict}\s]+
+</pre></div>
+<br/>
+<div>先頭が絵文字で始まってカタカナだけで終わるレス：<br/>
+<pre class="pre-box">
+^[\p{ExtPict}\s]+[ァ-ヴｦ-ﾟ]+$
+</pre></div>
+<br/>
+<div>アスキーアート.完璧ではないが大体弾く：<br/>
+<pre class="pre-box">
+[／‌᷅ὢヽ]
+</pre></div>
+<br/>
+<div>imgur.comのリンク(２個以上）だけのレス：<br/>
+<pre class="pre-box">
+^(https?://(i\.)?imgur\.com/\S+\s*){2,}$
+</pre></div>
+<br/>
+<div>funakamome.comのリンク(２個以上）だけのレス：<br/>
+<pre class="pre-box">
+^(https?://funakamome\.com/\S+\s*){2,}$
+</pre></div>
+<br/>
+<div>上記を組み合わせれば大体は事足りると思う<br/>
+有害なレスは同じワードばかり使う傾向にあるのでNGにするのも容易だ<br/>
+いや全部のレスが有害だ！と思うならこうする：<br/>
+<pre class="pre-box">
+[\s\S]*
+</pre></div>
+<br/>
+
+
+
+
+
+</div>
   <div>
-    <h1 id="ana">個スレ一覧</h1>
-    <h3>乱立しすぎ</h3>
-<div><a href="https://medaka.5ch.net/test/read.cgi/ana/1757647963/" target="_blank" rel="noopener noreferrer">【おさや(笑)】檜山沙耶 Part 77【おにし(苦笑)】</a></div><!---->
-<div><a href="https://medaka.5ch.net/test/read.cgi/ana/1751489486/" target="_blank" rel="noopener noreferrer">【ウェザーニュース】田辺真南葉 Part 1</a></div><!---->
-<div><a href="https://medaka.5ch.net/test/read.cgi/ana/1737896552/" target="_blank" rel="noopener noreferrer">【ウェザーニュース】魚住茉由 Part5【まゆちゃん】</a></div><!---->
-<div><a href="https://medaka.5ch.net/test/read.cgi/ana/1710291190/" target="_blank" rel="noopener noreferrer">【ウェザーニュース】魚住茉由 Part 4【まゆちゃん】</a></div><!---->
-<div><a href="https://medaka.5ch.net/test/read.cgi/ana/1743089070/" target="_blank" rel="noopener noreferrer">【ウェザーニュース】戸北美月　Part23【みーちゃん】</a></div><!---->
-<div><a href="https://medaka.5ch.net/test/read.cgi/ana/1732075408/" target="_blank" rel="noopener noreferrer">【ウェザーニュース】戸北美月　Part22【みーちゃん】</a></div><!---->
-<div><a href="https://medaka.5ch.net/test/read.cgi/ana/1731820722/" target="_blank" rel="noopener noreferrer">【ウェザーニュース】戸北美月　Part22【みーちゃん】</a></div><!---->
-<div><a href="https://medaka.5ch.net/test/read.cgi/ana/1753169771/" target="_blank" rel="noopener noreferrer">【元ウェザーニュース】内田侑希 Part10【ゆっきー】</a></div><!---->
-<div><a href="https://medaka.5ch.net/test/read.cgi/ana/1749164034/" target="_blank" rel="noopener noreferrer">【ウェザーニュース】青原桃香 Part 9 【ももぴん】</a></div><!---->
-<div><a href="https://medaka.5ch.net/test/read.cgi/ana/1751485610/" target="_blank" rel="noopener noreferrer">【ウェザーニュース】田辺真南葉 Part 1</a></div><!---->
-<div><a href="https://medaka.5ch.net/test/read.cgi/ana/1719534392/" target="_blank" rel="noopener noreferrer">【ウェザーニュース】江川清音 Part3【さーやん】</a></div><!---->
-<div><a href="https://medaka.5ch.net/test/read.cgi/ana/1731722206/" target="_blank" rel="noopener noreferrer">【ウェザーニュース】山岸愛梨 Part 4【あいりん】</a></div><!---->
-<div><a href="https://medaka.5ch.net/test/read.cgi/ana/1738711171/" target="_blank" rel="noopener noreferrer">【ウェザーニュース】小林李衣奈 Part8【りーちゃん】</a></div><!---->
-<div><a href="https://medaka.5ch.net/test/read.cgi/ana/1749835875/" target="_blank" rel="noopener noreferrer">【ウェザーニュース】駒木結衣 vol.33【ゆいちゃん】</a></div><!---->
-<div><a href="https://medaka.5ch.net/test/read.cgi/ana/1743350113/" target="_blank" rel="noopener noreferrer">【ウェザーニュース】小川千奈　Part7</a></div><!---->
-<div><a href="https://medaka.5ch.net/test/read.cgi/ana/1752970240/" target="_blank" rel="noopener noreferrer">【元ウェザーニュース】大島璃音 Part34【のんちゃん(苦笑)】</a></div><!---->
-<div><a href="https://medaka.5ch.net/test/read.cgi/ana/1710252825/" target="_blank" rel="noopener noreferrer">【ウェザーニューズ】白井ゆかり Part4【ゆかりん】</a></div><!---->
-<div><a href="https://medaka.5ch.net/test/read.cgi/ana/1742046487/" target="_blank" rel="noopener noreferrer">【元ウェザーニュース】大島璃音 Part32【のんちゃん】</a></div><!---->
-<div><a href="https://medaka.5ch.net/test/read.cgi/ana/1757912650/" target="_blank" rel="noopener noreferrer">ウェザーニュースキャスター総合スレ Part 4</a></div><!---->
-<div><a href="https://medaka.5ch.net/test/read.cgi/ana/1758164398/" target="_blank" rel="noopener noreferrer">【ウェザーニューズ】細川栞 Part.2【報ステ】</a></div><!---->
-<div><a href="https://medaka.5ch.net/test/read.cgi/ana/1710278968/" target="_blank" rel="noopener noreferrer">【セントフォース】武藤彩芽 Part 9【元ウェザーニュース】</a></div><!---->
-<div><a href="https://medaka.5ch.net/test/read.cgi/ana/1710375884/" target="_blank" rel="noopener noreferrer">【気象予報士】ウェザーマップ 高安奈緒子さん Part6【なおこーん】</a></div><!---->
-<div><a href="https://medaka.5ch.net/test/read.cgi/ana/1719797418/" target="_blank" rel="noopener noreferrer">【ウェザーニュース】細川栞 Part.1【報ステ】</a></div><!---->
-<div><a href="https://medaka.5ch.net/test/read.cgi/ana/1707927989/" target="_blank" rel="noopener noreferrer">【ウェザーニュース】青原桃香 Part 3</a></div><!---->
-<div><a href="https://medaka.5ch.net/test/read.cgi/ana/1751473268/" target="_blank" rel="noopener noreferrer">【ウェザーニュース】松本真央 Part 1</a></div><!---->
-<div><a href="https://medaka.5ch.net/test/read.cgi/ana/1710248064/" target="_blank" rel="noopener noreferrer">【ウェザーニュース】岡本結子リサ Part 3【嫁になってくれ！】</a></div><!---->
-<div><a href="https://medaka.5ch.net/test/read.cgi/ana/1710250234/" target="_blank" rel="noopener noreferrer">【ウェザーニュース】駒木結衣 vol.27【ゆいちゃん、ちょいエロ可】</a></div><!---->
-<div><a href="https://medaka.5ch.net/test/read.cgi/ana/1710243913/" target="_blank" rel="noopener noreferrer">【ウェザーニュース】山口剛央 Part 5【ぐっさん】</a></div><!---->
-<div><a href="https://medaka.5ch.net/test/read.cgi/ana/1732844589/" target="_blank" rel="noopener noreferrer">【ウェザーニュース】駒木結衣 vol.33【ゆいちゃん】</a></div><!---->
-<div><a href="https://medaka.5ch.net/test/read.cgi/ana/1749493652/" target="_blank" rel="noopener noreferrer">ウェザーニュースキャスター総合スレPart3</a></div><!---->
-<div><a href="https://medaka.5ch.net/test/read.cgi/ana/1757719074/" target="_blank" rel="noopener noreferrer">【元ウェザーニュース】大島璃音 Part35【のんちゃん】</a></div><!---->
-<div><a href="https://medaka.5ch.net/test/read.cgi/ana/1732932432/" target="_blank" rel="noopener noreferrer">【元ウェザーニュース】檜山沙耶 Part 40【さやっち】</a></div><!---->
-<div><a href="https://medaka.5ch.net/test/read.cgi/ana/1717825507/" target="_blank" rel="noopener noreferrer">【ウェザーニュース】高山奈々 Part5【777】</a></div><!---->
-<div><a href="https://medaka.5ch.net/test/read.cgi/ana/1733109610/" target="_blank" rel="noopener noreferrer">【ウェザーニュース】岡本結子リサ Part4</a></div><!---->
-<div><a href="https://medaka.5ch.net/test/read.cgi/ana/1710376033/" target="_blank" rel="noopener noreferrer">【ウェザーニュース】眞家泉 Part4【報ステ】</a></div><!---->
-<div><a href="https://medaka.5ch.net/test/read.cgi/ana/1738200165/" target="_blank" rel="noopener noreferrer">【ウェザーニュース】青原桃香 Part 8 【ももぴん】【信じられる】</a></div><!---->
-<div><a href="https://medaka.5ch.net/test/read.cgi/ana/1738483693/" target="_blank" rel="noopener noreferrer">【ウェザーニュース】小林李衣奈 Part.8【りーちゃん】</a></div><!---->
-<div><a href="https://medaka.5ch.net/test/read.cgi/ana/1732157014/" target="_blank" rel="noopener noreferrer">【ウェザーニュース】松雪彩花 Part3【あやち】</a></div><!---->
-<div><a href="https://medaka.5ch.net/test/read.cgi/ana/1741180116/" target="_blank" rel="noopener noreferrer">【ウェザーニュース】戸北美月　Part23【みーちゃん】</a></div><!---->
-<div><a href="https://medaka.5ch.net/test/read.cgi/ana/1731805200/" target="_blank" rel="noopener noreferrer">【ウェザーニュース】山岸愛梨 Part 4【あいりん】</a></div><!---->
-<div><a href="https://medaka.5ch.net/test/read.cgi/ana/1752018268/" target="_blank" rel="noopener noreferrer">【おさや(笑)】檜山沙耶 Part 74【さやっち(苦笑)】</a></div><!---->
-<div><a href="https://medaka.5ch.net/test/read.cgi/ana/1740417696/" target="_blank" rel="noopener noreferrer">【元ウェザーニュース】内田侑希 Part10【ゆっきー】</a></div><!---->
-<div><a href="https://medaka.5ch.net/test/read.cgi/ana/1732932656/" target="_blank" rel="noopener noreferrer">【元ウェザーニュース】檜山沙耶 Part 40【さやっち】</a></div><!---->
-<div><a href="https://medaka.5ch.net/test/read.cgi/ana/1732148842/" target="_blank" rel="noopener noreferrer">【ウェザーニュース】松雪彩花 Part3【あやち】</a></div><!---->
-<div><a href="https://medaka.5ch.net/test/read.cgi/ana/1710467214/" target="_blank" rel="noopener noreferrer">【ウェザーニュース】川畑玲</a></div><!---->
-<div><a href="https://medaka.5ch.net/test/read.cgi/ana/1733109262/" target="_blank" rel="noopener noreferrer">【元ウェザーニュース】内田侑希 Part10【ゆっきー】</a></div><!---->
-<div><a href="https://medaka.5ch.net/test/read.cgi/ana/1712748933/" target="_blank" rel="noopener noreferrer">【ウェザーニュース】大島璃音 Part25【ハイエース】</a></div><!---->
-  </div>
-  <div>
-    <h1 id="past_live">(実況スレ)過去ログ一覧</h1>
+    <h1 id="past_live">(実況スレ)現行スレ・過去ログ一覧</h1>
 <!--<div><a href="#" target="_blank" rel="noopener noreferrer">#</a></div><!---->
 <!--<div><a href="#" target="_blank" rel="noopener noreferrer">#</a></div><!---->
-<!--<div><a href="https://mao.5ch.net/test/read.cgi/endless/1763274019/" target="_blank" rel="noopener noreferrer">【WNI】ウェザ一ニュ一スLiVE 実況 Part 705</a></div><!---->
+<div><a href="https://mao.5ch.net/test/read.cgi/endless/1764062012/" target="_blank" rel="noopener noreferrer">【WNI】ウェザ一ニュ一スLiVE 実況 Part 707</a></div><!---->
+<div><a href="https://mao.5ch.net/test/read.cgi/endless/1763693708/" target="_blank" rel="noopener noreferrer">【WNI】ウェザ一ニュ一スLiVE 実況 Part 706</a></div><!---->
+<div><a href="https://mao.5ch.net/test/read.cgi/endless/1763274019/" target="_blank" rel="noopener noreferrer">【WNI】ウェザ一ニュ一スLiVE 実況 Part 705</a></div><!---->
 <div><a href="https://mao.5ch.net/test/read.cgi/endless/1762902012/" target="_blank" rel="noopener noreferrer">【WNI】ウェザ一ニュ一スLiVE 実況 Part 704</a></div><!---->
 <div><a href="https://mao.5ch.net/test/read.cgi/endless/1762660795/" target="_blank" rel="noopener noreferrer">【WNI】ウェザ一ニュ一スLiVE 実況 Part 703</a></div><!---->
 <div><a href="https://mao.5ch.net/test/read.cgi/endless/1762345470/" target="_blank" rel="noopener noreferrer">【WNI】ウェザ一ニュ一スLiVE 実況 Part 702</a></div><!---->
@@ -1560,10 +1586,11 @@ NHKでは、地上の気温に氷点下を使い、上空の気温の場合は�
 <div><a href="https://kako.5ch.net/test/read.cgi/livebs2/1324115523/" target="_blank" rel="noopener noreferrer">BS910chウェザーニュースSOLiVE実況(24)</a></div>
 </div>
 <div>
-    <h1 id="past_caster">(キャスター総合スレ)過去ログ一覧</h1>
+    <h1 id="past_caster">(キャスター総合スレ)現行スレ・過去ログ一覧</h1>
 <!--<div><a href="#" target="_blank" rel="noopener noreferrer">#</a></div><!---->
-<!--<div><a href="#" target="_blank" rel="noopener noreferrer">#</a></div><!---->
-<!--<div><a href="https://itest.5ch.net/medaka/test/read.cgi/ana/1749493652/" target="_blank" rel="noopener noreferrer">ウェザーニュースキャスター総合スレPart3 </a></div>-->
+<div><a href="https://medaka.5ch.net/test/read.cgi/ana/1757912650/" target="_blank" rel="noopener noreferrer">ウェザーニュースキャスター総合スレ Part 4</a></div><!---->
+<div><a href="https://itest.5ch.net/medaka/test/read.cgi/ana/1749607261" target="_blank" rel="noopener noreferrer">ウェザーニュースキャスター総合スレ Part3</a></div><!---->
+<div><a href="https://itest.5ch.net/medaka/test/read.cgi/ana/1749493652/" target="_blank" rel="noopener noreferrer">ウェザーニュースキャスター総合スレPart3(125)(IP有)</a></div>
 <div><a href="https://itest.5ch.net/medaka/test/read.cgi/ana/1743859871/" target="_blank" rel="noopener noreferrer">ウェザーニュースキャスター総合スレPart2</a></div>
 <div><a href="https://itest.5ch.net/medaka/test/read.cgi/ana/1712705407/" target="_blank" rel="noopener noreferrer">ウェザーニュースキャスター総合スレ</a></div>
 <div><a href="https://itest.5ch.net/medaka/test/read.cgi/ana/1559394025/" target="_blank" rel="noopener noreferrer">WNLiVE&旧SOLiVE24&旧おは天出演者総合スレ Part49(291) </a></div>
@@ -1616,9 +1643,60 @@ NHKでは、地上の気温に氷点下を使い、上空の気温の場合は�
 <div><a href="https://kako.5ch.net/test/read.cgi/ana/1254698630/" target="_blank" rel="noopener noreferrer">SOLiVE24キャスターPart2</a></div>
 <div><a href="https://kako.5ch.net/test/read.cgi/ana/1244559036/" target="_blank" rel="noopener noreferrer">SOLiVE24キャスター</a></div>
 </div>
+  <div>
+    <h1 id="ana">キャスター個スレ一覧</h1>
+    <h3>2025.11.28更新</h3>
+<div><a href='https://medaka.5ch.net/test/read.cgi/ana/1761112250/' target='_blank' rel='noopener noreferrer'>【ウェザーニュース】山岸愛梨 Part 5【あいりん】</a></div>
+<div><a href='https://medaka.5ch.net/test/read.cgi/ana/1761112416/' target='_blank' rel='noopener noreferrer'>【ウェザーニュース】山岸愛梨 Part 5【あいりん】</a></div>
+<div><a href='https://medaka.5ch.net/test/read.cgi/ana/1731722206/' target='_blank' rel='noopener noreferrer'>【ウェザーニュース】山岸愛梨 Part 4【あいりん】</a></div>
+<div><a href='https://medaka.5ch.net/test/read.cgi/ana/1719534392/' target='_blank' rel='noopener noreferrer'>【ウェザーニュース】江川清音 Part3【さーやん】</a></div>
+<div><a href='https://medaka.5ch.net/test/read.cgi/ana/1732157014/' target='_blank' rel='noopener noreferrer'>【ウェザーニュース】松雪彩花 Part3【あやち】</a></div>
+<div><a href='https://medaka.5ch.net/test/read.cgi/ana/1732148842/' target='_blank' rel='noopener noreferrer'>【ウェザーニュース】松雪彩花 Part3【あやち】</a></div>
+<div><a href='https://medaka.5ch.net/test/read.cgi/ana/1710252825/' target='_blank' rel='noopener noreferrer'>【ウェザーニューズ】白井ゆかり Part4【ゆかりん】</a></div>
+<div><a href='https://medaka.5ch.net/test/read.cgi/ana/1717825507/' target='_blank' rel='noopener noreferrer'>【ウェザーニュース】高山奈々 Part5【777】</a></div>
+<div><a href='https://medaka.5ch.net/test/read.cgi/ana/1749835875/' target='_blank' rel='noopener noreferrer'>【ウェザーニュース】駒木結衣 vol.33【ゆいちゃん】</a></div>
+<div><a href='https://medaka.5ch.net/test/read.cgi/ana/1732844589/' target='_blank' rel='noopener noreferrer'>【ウェザーニュース】駒木結衣 vol.33【ゆいちゃん】</a></div>
+<div><a href='https://medaka.5ch.net/test/read.cgi/ana/1710250234/' target='_blank' rel='noopener noreferrer'>【ウェザーニュース】駒木結衣 vol.27【ゆいちゃん、ちょいエロ可】</a></div>
+<div><a href='https://medaka.5ch.net/test/read.cgi/ana/1743089070/' target='_blank' rel='noopener noreferrer'>【ウェザーニュース】戸北美月　Part23【みーちゃん】</a></div>
+<div><a href='https://medaka.5ch.net/test/read.cgi/ana/1741180116/' target='_blank' rel='noopener noreferrer'>【ウェザーニュース】戸北美月　Part23【みーちゃん】</a></div>
+<div><a href='https://medaka.5ch.net/test/read.cgi/ana/1731820722/' target='_blank' rel='noopener noreferrer'>【ウェザーニュース】戸北美月　Part22【みーちゃん】</a></div>
+<div><a href='https://medaka.5ch.net/test/read.cgi/ana/1732075408/' target='_blank' rel='noopener noreferrer'>【ウェザーニュース】戸北美月　Part22【みーちゃん】</a></div>
+<div><a href='https://medaka.5ch.net/test/read.cgi/ana/1710467214/' target='_blank' rel='noopener noreferrer'>【ウェザーニュース】川畑玲</a></div>
+<div><a href='https://medaka.5ch.net/test/read.cgi/ana/1761193773/' target='_blank' rel='noopener noreferrer'>【ウェザーニュース】小林李衣奈 Part9【りーちゃん】</a></div>
+<div><a href='https://medaka.5ch.net/test/read.cgi/ana/1738483693/' target='_blank' rel='noopener noreferrer'>【ウェザーニュース】小林李衣奈 Part.8【りーちゃん】</a></div>
+<div><a href='https://medaka.5ch.net/test/read.cgi/ana/1737896552/' target='_blank' rel='noopener noreferrer'>【ウェザーニュース】魚住茉由 Part5【まゆちゃん】</a></div>
+<div><a href='https://medaka.5ch.net/test/read.cgi/ana/1710291190/' target='_blank' rel='noopener noreferrer'>【ウェザーニュース】魚住茉由 Part 4【まゆちゃん】</a></div>
+<div><a href='https://medaka.5ch.net/test/read.cgi/ana/1763358324/' target='_blank' rel='noopener noreferrer'>【ウェザーニュース】小川千奈　Part8</a></div>
+<div><a href='https://medaka.5ch.net/test/read.cgi/ana/1749164034/' target='_blank' rel='noopener noreferrer'>【ウェザーニュース】青原桃香 Part 9 【ももぴん】</a></div>
+<div><a href='https://medaka.5ch.net/test/read.cgi/ana/1738200165/' target='_blank' rel='noopener noreferrer'>【ウェザーニュース】青原桃香 Part 8 【ももぴん】【信じられる】</a></div>
+<div><a href='https://medaka.5ch.net/test/read.cgi/ana/1707927989/' target='_blank' rel='noopener noreferrer'>【ウェザーニュース】青原桃香 Part 3</a></div>
+<div><a href='https://medaka.5ch.net/test/read.cgi/ana/1733109610/' target='_blank' rel='noopener noreferrer'>【ウェザーニュース】岡本結子リサ Part4</a></div>
+<div><a href='https://medaka.5ch.net/test/read.cgi/ana/1758489426/' target='_blank' rel='noopener noreferrer'>【ウェザーニュース】岡本結子リサ Part 4</a></div>
+<div><a href='https://medaka.5ch.net/test/read.cgi/ana/1751489486/' target='_blank' rel='noopener noreferrer'>【ウェザーニュース】田辺真南葉 Part 1</a></div>
+<div><a href='https://medaka.5ch.net/test/read.cgi/ana/1751485610/' target='_blank' rel='noopener noreferrer'>【ウェザーニュース】田辺真南葉 Part 1</a></div>
+<div><a href='https://medaka.5ch.net/test/read.cgi/ana/1751473268/' target='_blank' rel='noopener noreferrer'>【ウェザーニュース】松本真央 Part 1</a></div>
+<div><a href='https://medaka.5ch.net/test/read.cgi/ana/1710278968/' target='_blank' rel='noopener noreferrer'>【セントフォース】武藤彩芽 Part 9【元ウェザーニュース】</a></div>
+<div><a href='https://medaka.5ch.net/test/read.cgi/ana/1710375884/' target='_blank' rel='noopener noreferrer'>【気象予報士】ウェザーマップ 高安奈緒子さん Part6【なおこーん】</a></div>
+<div><a href='https://medaka.5ch.net/test/read.cgi/ana/1753169771/' target='_blank' rel='noopener noreferrer'>【元ウェザーニュース】内田侑希 Part10【ゆっきー】</a></div>
+<div><a href='https://medaka.5ch.net/test/read.cgi/ana/1733109262/' target='_blank' rel='noopener noreferrer'>【元ウェザーニュース】内田侑希 Part10【ゆっきー】</a></div>
+<div><a href='https://medaka.5ch.net/test/read.cgi/ana/1740417696/' target='_blank' rel='noopener noreferrer'>【元ウェザーニュース】内田侑希 Part10【ゆっきー】</a></div>
+<div><a href='https://medaka.5ch.net/test/read.cgi/ana/1763897621/' target='_blank' rel='noopener noreferrer'>【おさや(笑)】檜山沙耶 Part 80【おにし(苦笑)】</a></div>
+<div><a href='https://medaka.5ch.net/test/read.cgi/ana/1763897428/' target='_blank' rel='noopener noreferrer'>【おさや(笑)】檜山沙耶 Part 80【おにし(苦笑)】</a></div>
+<div><a href='https://medaka.5ch.net/test/read.cgi/ana/1763936718/' target='_blank' rel='noopener noreferrer'>【おさや(笑)】檜山沙耶 Part 80【おにし(苦笑)】</a></div>
+<div><a href='https://medaka.5ch.net/test/read.cgi/ana/1732932432/' target='_blank' rel='noopener noreferrer'>【元ウェザーニュース】檜山沙耶 Part 40【さやっち】</a></div>
+<div><a href='https://medaka.5ch.net/test/read.cgi/ana/1752018268/' target='_blank' rel='noopener noreferrer'>【おさや(笑)】檜山沙耶 Part 74【さやっち(苦笑)】</a></div>
+<div><a href='https://medaka.5ch.net/test/read.cgi/ana/1732932656/' target='_blank' rel='noopener noreferrer'>【元ウェザーニュース】檜山沙耶 Part 40【さやっち】</a></div>
+<div><a href='https://medaka.5ch.net/test/read.cgi/ana/1710376033/' target='_blank' rel='noopener noreferrer'>【ウェザーニュース】眞家泉 Part4【報ステ】</a></div>
+<div><a href='https://medaka.5ch.net/test/read.cgi/ana/1757719074/' target='_blank' rel='noopener noreferrer'>【元ウェザーニュース】大島璃音 Part35【のんちゃん】</a></div>
+<div><a href='https://medaka.5ch.net/test/read.cgi/ana/1712748933/' target='_blank' rel='noopener noreferrer'>【ウェザーニュース】大島璃音 Part25【ハイエース】</a></div>
+<div><a href='https://medaka.5ch.net/test/read.cgi/ana/1762035822/' target='_blank' rel='noopener noreferrer'>【のんこ(笑)】大島璃音 Part 36【のんちゃん(苦笑)】</a></div>
+  </div>
 <div>
     <h1 id="shelter">【避難所】5ちゃんねる総合避難所スレッド</h1>
     <h3>2nn.jpにある避難所</h3>
+<div><a href="https://www.2nn.jp/test/read.cgi/refuge/1763466861/" target="_blank" rel="noopener noreferrer">【避難所】5ちゃんねる総合避難所スレッド Part.191(実質193)</a>※重複する程の盛況ぶりはCloudflareダウンの影響</div>
+<div><a href="https://www.2nn.jp/test/read.cgi/refuge/1763466855/" target="_blank" rel="noopener noreferrer">【避難所】5ちゃんねる総合避難所スレッド Part.191(実質192)</a></div>
+<div><a href="https://www.2nn.jp/test/read.cgi/refuge/1763466852/" target="_blank" rel="noopener noreferrer">【避難所】5ちゃんねる総合避難所スレッド Part.191</a></div>
 <div><a href="https://www.2nn.jp/test/read.cgi/refuge/1759507418/" target="_blank" rel="noopener noreferrer">【避難所】5ちゃんねる総合避難所スレッド Part.190</a></div>
 </div>
 <br/><br/><br/><br/>
