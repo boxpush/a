@@ -692,8 +692,18 @@ NHKでは、地上の気温に氷点下を使い、上空の気温の場合は�
 ^(https?://funakamome\.com/\S+\s*){2,}$
 </pre></div>
 <br/>
+<div>６桁以上の金額(先頭に「￥」か、末尾に「円」が付く）を含むレス：<br/>
+<pre class="pre-box">
+\u00A5(\d{6,}|\d{1,3}(,\d{3}){1,})|(\d{6,}|\d{1,3}(,\d{3}){1,})円
+</pre></div>
+<br/>
+<div>imgur.comと金額を組み合わせれば、ブランド特定厨をNGにできる：<br/>
+<pre class="pre-box">
+^(https?://(i\.)?imgur\.com/\S+\s*){2,}(\u00A5(\d{6,}|\d{1,3}(,\d{3}){1,})|(\d{6,}|\d{1,3}(,\d{3}){1,})円)$
+</pre></div>
+<br/>
 <div>上記を組み合わせれば大体は事足りると思う<br/>
-有害なレスは同じワードばかり使う傾向にあるのでNGにするのも容易だ<br/>
+有害なレスは同じワードを使いたがるのでNGにするのは容易だ<br/>
 いや全部のレスが有害だ！と思うならこうする：<br/>
 <pre class="pre-box">
 [\s\S]*
@@ -708,7 +718,7 @@ NHKでは、地上の気温に氷点下を使い、上空の気温の場合は�
   <div>
     <h1 id="past_live">(実況スレ)現行スレ・過去ログ一覧</h1>
 <!--<div><a href="#" target="_blank" rel="noopener noreferrer">#</a></div><!---->
-<!--<div><a href="#" target="_blank" rel="noopener noreferrer">#</a></div><!---->
+<div><a href="https://mao.5ch.net/test/read.cgi/endless/1764402205/" target="_blank" rel="noopener noreferrer">【WNI】ウェザ一ニュ一スLiVE 実況 Part 708</a></div><!---->
 <div><a href="https://mao.5ch.net/test/read.cgi/endless/1764062012/" target="_blank" rel="noopener noreferrer">【WNI】ウェザ一ニュ一スLiVE 実況 Part 707</a></div><!---->
 <div><a href="https://mao.5ch.net/test/read.cgi/endless/1763693708/" target="_blank" rel="noopener noreferrer">【WNI】ウェザ一ニュ一スLiVE 実況 Part 706</a></div><!---->
 <div><a href="https://mao.5ch.net/test/read.cgi/endless/1763274019/" target="_blank" rel="noopener noreferrer">【WNI】ウェザ一ニュ一スLiVE 実況 Part 705</a></div><!---->
