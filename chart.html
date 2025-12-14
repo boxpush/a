@@ -17,7 +17,7 @@
      MIT License
      https://github.com/plotly/plotly.js
 -->
-  <script src="https://cdn.plot.ly/plotly-2.35.2.min.js" onerror="alert('ページの読込に失敗しました.リロードしてみてください');" defer></script>
+  <script src="https://cdn.plot.ly/plotly-2.35.2.min.js" charset="utf-8" onerror="alert('ページの読込に失敗しました.リロードしてみてください');" defer></script>
   <!-- plotly.js locale 日本語（plotly-locale-ja-latest）
      (c) 2025 Plotly, Inc.
      Code released under the MIT License
@@ -84,7 +84,8 @@
       x: 1,
       xanchor: "left",
       y: 0.95,          // 1 より大きい値で外側へ
-      yanchor: "top"
+      yanchor: "top",
+      itemsizing: "constant"
     }
     /**
      * 範囲リストに追加する
