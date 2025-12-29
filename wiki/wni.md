@@ -39,7 +39,7 @@
 
 ## 現在所属していない、元から所属していない、所属未確認
 [角田奈緒子](https://ja.wikipedia.org/wiki/%E9%AB%98%E5%AE%89%E5%A5%88%E7%B7%92%E5%AD%90)　→ウェザーマップ
-[眞家泉](https://ja.wikipedia.org/wiki/%E7%9C%9E%E5%AE%B6%E6%B3%89)
+[眞家泉](https://ja.wikipedia.org/wiki/%E7%9C%9E%E5%AE%B6%E6%B3%89)　→ヨガインストラクター？
 [菊池真以](https://ja.wikipedia.org/wiki/%E8%8F%8A%E6%B1%A0%E7%9C%9F%E4%BB%A5)　→ウェザーマップ
 [今田佐和子](https://ja.wikipedia.org/wiki/%E4%BB%8A%E7%94%B0%E4%BD%90%E5%92%8C%E5%AD%90)　[SOLiVE出演](https://www.youtube.com/watch?v=Df96_Rujmv4)
 [有川雅子](https://ja.wikipedia.org/wiki/%E6%9C%89%E5%B7%9D%E9%9B%85%E5%AD%90)
