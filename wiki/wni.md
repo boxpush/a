@@ -498,6 +498,9 @@
 [上智大学ミスソフィア・ミスターソフィア2017候補者決定！](https://youtu.be/Umw-ne7wO2E)
 [【ミスソフィアコンテスト候補者2017】](https://youtu.be/8IIPDCZkuLg)
 
+・石橋博良
+[第70回　株式会社ウェザーニューズ 石橋博良](https://www.dreamgate.gr.jp/contents/case/interview/36111)
+
 ## ライブ配信の限定公開URL
 24時間ノンストップでライブ配信されていた
 [直近](https://www.youtube.com/watch?v=73lwcdpK2aA)
