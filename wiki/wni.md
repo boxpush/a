@@ -504,7 +504,7 @@
 [アイドルING!!! 【Road to TIF2018】 2018年07月05日20時](https://www.youtube.com/watch?v=0KLT6oZoPrY)
 [田辺真南葉 制服アワード準グランプリ受賞記念！直撃インタビュー！！](https://www.youtube.com/watch?v=EmKx4aHKw6M)
 [【アイドルING!!!通信】#22 活動終了について ノーカット版](https://www.youtube.com/watch?v=fHr0ezLAlGg)
-[ブラウンブレザーコーデ🐰🎀](https://www.instagram.com/manaha_ha_/)
+[ブラウンブレザーコーデ🐰🎀](https://www.instagram.com/p/B-G3nZfnpJW/)
 [ライトグレーブレザーコーデ🐰🎀](https://www.instagram.com/p/B9Dp3K8HdQl/)
 [新作ケーブルニットベスト&新作リボン🐰🎀](https://www.instagram.com/p/B8k02ssHY7k/)
 [北陸新幹線開業に向けた新アクティビティ！敦賀真鯛の釣りと食体験 日本財団 海と日本PROJECT in ふくい 2023 #018 ](https://www.youtube.com/watch?v=2heSgiOjI2k)
