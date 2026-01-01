@@ -478,7 +478,7 @@
 [福吉貴文 fukuyoshi.takafumi](https://www.instagram.com/fukuyoshi.takafumi/)　利用開始日：2021年07月.テレビ愛媛時代～
 [田辺真南葉 manahatanabe](https://www.instagram.com/manahatanabe/)　利用開始日：2025年06月.ウェザーニューズ時代
 [田辺真南葉 manaha_tanabe_](https://www.instagram.com/manaha_tanabe_/)　利用開始日：2023年09月.福井テレビ時代
-[田辺真南葉 manaha_tanabe](https://www.instagram.com/manaha_tanabe/)　(非公開)利用開始日：2015年07月.アイドル時代　[Instagrammer News](https://instagrammernews.com/user/1911824217")
+[田辺真南葉 manaha_tanabe](https://www.instagram.com/manaha_tanabe/)　(非公開)利用開始日：2015年07月.アイドル時代　[Instagrammer News](https://instagrammernews.com/user/1911824217)
 [田辺真南葉 manahatanabe_](https://www.instagram.com/manahatanabe_/)　(利用解除or削除)利用開始日:2013年10月　2025年07月の時点では非公開ながら存在していた
 
 ・白井ゆかり
