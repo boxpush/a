@@ -262,7 +262,7 @@
 [成海亜紀](https://ja.wikipedia.org/wiki/%E6%88%90%E6%B5%B7%E4%BA%9C%E7%B4%80)　シャイニングウィル→ビッグアップル→WNI
 [内田奈々子]()
 [四俣萌美]()
-[堀田奈津水](https://ja.wikipedia.org/wiki/%E5%A0%80%E7%94%B0%E5%A5%88%E6%B4%A5%E6%B0%B4)　 ひろしまフラワーフェスティバルフラワークイーン→WNI
+[堀田奈津水](https://ja.wikipedia.org/wiki/%E5%A0%80%E7%94%B0%E5%A5%88%E6%B4%A5%E6%B0%B4)　[SOLiVE出演](https://www.youtube.com/watch?v=z16QYWgWcUo)　 ひろしまフラワーフェスティバルフラワークイーン→WNI→モデル
 [日浦美保]()
 [平塚咲子]()
 [工藤菜々絵]()
@@ -497,6 +497,21 @@
 [第35回 本物のチョコレート作り体験会 / 寿司・酢飯屋 / 酢飯屋 - 文京区水道、江戸川橋にある寿司、カフェ、ギャラリーの複合店](https://www.sumeshiya.com/sushi/2017/02/34.html)
 [上智大学ミスソフィア・ミスターソフィア2017候補者決定！](https://youtu.be/Umw-ne7wO2E)
 [【ミスソフィアコンテスト候補者2017】](https://youtu.be/8IIPDCZkuLg)
+
+
+・田辺真南葉
+[16歳のオーディション](https://www.youtube.com/watch?v=24SBJNVktpA)
+[アイドルING!!! 【Road to TIF2018】 2018年07月05日20時](https://www.youtube.com/watch?v=0KLT6oZoPrY)
+[田辺真南葉 制服アワード準グランプリ受賞記念！直撃インタビュー！！](https://www.youtube.com/watch?v=EmKx4aHKw6M)
+[【アイドルING!!!通信】#22 活動終了について ノーカット版](https://www.youtube.com/watch?v=fHr0ezLAlGg)
+[ブラウンブレザーコーデ🐰🎀](https://www.instagram.com/manaha_ha_/)
+[ライトグレーブレザーコーデ🐰🎀](https://www.instagram.com/p/B9Dp3K8HdQl/)
+[新作ケーブルニットベスト&新作リボン🐰🎀](https://www.instagram.com/p/B8k02ssHY7k/)
+[北陸新幹線開業に向けた新アクティビティ！敦賀真鯛の釣りと食体験 日本財団 海と日本PROJECT in ふくい 2023 #018 ](https://www.youtube.com/watch?v=2heSgiOjI2k)
+[福井テレビイヤイヤちゃん【公式】](https://x.com/fukui_tv/status/1877626385918763126)
+[人里離れた場所に「忍者」養成所が…　令和に受け継がれた秘伝の術(2023年8月11日)](https://www.youtube.com/watch?v=TfYkRpqID5c)
+[ 【歯ぎしり】ストレスが引き金に…自覚症状ないまま身体の不調につながるおそれ　専門医にメカニズムや改善方法を聞いた【健康のタネ】（2024.5.13放送） ](https://www.youtube.com/watch?v=3AEl3jOleCs)
+
 
 ・石橋博良
 [第70回　株式会社ウェザーニューズ 石橋博良](https://www.dreamgate.gr.jp/contents/case/interview/36111)
