@@ -1,8 +1,133 @@
 [
   {
     "id": "yamagishi",
-    "name": "山岸愛梨",
-    "joinedAt": "20200401",
+    "name": "山岸 愛梨",
+    "joinedAt": "20090428",
     "retiredAt": ""
+  },
+  {
+    "id": "egawa",
+    "name": "江川 清音",
+    "joinedAt": "20111224",
+    "retiredAt": ""
+  },
+  {
+    "id": "matsuyuki",
+    "name": "松雪 彩花",
+    "joinedAt": "20140407",
+    "retiredAt": ""
+  },
+  {
+    "id": "shirai",
+    "name": "白井 ゆかり",
+    "joinedAt": "20150907",
+    "retiredAt": ""
+  },
+  {
+    "id": "takayama",
+    "name": "高山 奈々",
+    "joinedAt": "20150919",
+    "retiredAt": ""
+  },
+  {
+    "id": "komaki",
+    "name": "駒木 結衣",
+    "joinedAt": "20181018",
+    "retiredAt": ""
+  },
+  {
+    "id": "tokita",
+    "name": "戸北 美月",
+    "joinedAt": "20211202",
+    "retiredAt": ""
+  },
+  {
+    "id": "kawabata",
+    "name": "川畑 玲",
+    "joinedAt": "20220420",
+    "retiredAt": ""
+  },
+  {
+    "id": "kobayashi",
+    "name": "小林 李衣奈",
+    "joinedAt": "20220831",
+    "retiredAt": ""
+  },
+  {
+    "id": "ogawa",
+    "name": "小川 千奈",
+    "joinedAt": "20230427",
+    "retiredAt": ""
+  },
+  {
+    "id": "uozumi",
+    "name": "魚住 茉由",
+    "joinedAt": "20230427",
+    "retiredAt": ""
+  },
+  {
+    "id": "aohara",
+    "name": "青原 桃香",
+    "joinedAt": "20231021",
+    "retiredAt": ""
+  },
+  {
+    "id": "okamoto",
+    "name": "岡本 結子 リサ",
+    "joinedAt": "20231021",
+    "retiredAt": ""
+  },
+  {
+    "id": "fukuyoshi",
+    "name": "福吉 貴文",
+    "joinedAt": "20240807",
+    "retiredAt": ""
+  },
+  {
+    "id": "tanabe",
+    "name": "田辺 真南葉",
+    "joinedAt": "20250702",
+    "retiredAt": ""
+  },
+  {
+    "id": "matsumoto",
+    "name": "松本 真央",
+    "joinedAt": "20250702",
+    "retiredAt": ""
+  },
+  {
+    "id": "kakuta",
+    "name": "角田 奈緒子",
+    "joinedAt": "",
+    "retiredAt": "20220329"
+  },
+  {
+    "id": "",
+    "name": "武藤 彩芽",
+    "joinedAt": "",
+    "retiredAt": "20220330"
+  },
+  {
+    "id": "uchida",
+    "name": "内田 侑希",
+    "joinedAt": "",
+    "retiredAt": "20230331"
+  },
+  {
+    "id": "hiyama",
+    "name": "檜山 沙耶",
+    "joinedAt": "",
+    "retiredAt": "20240330"
+  },
+  {
+    "id": "maie",
+    "name": "眞家 泉",
+    "joinedAt": "",
+    "retiredAt": "20210327"
+  },  {
+    "id": "oshima",
+    "name": "大島 璃音",
+    "joinedAt": "",
+    "retiredAt": "20241223"
   }
-]
+
