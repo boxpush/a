@@ -803,7 +803,7 @@
 [55周年とおっきなパフェとヨガイベント！](https://web.archive.org/web/20250320013801/https://www.fukui-tv.co.jp/?post_type=announcer_relay&p=181414&pn=1&aid=171226)
 [あけおめとキラキラと春高バレー！](https://web.archive.org/web/20250327044116/https://www.fukui-tv.co.jp/?post_type=announcer_relay&p=183930&aid=171226&pn=1)
 [レインコートとキラキラと年度末](https://web.archive.org/web/20250307081856/https://www.fukui-tv.co.jp/?post_type=announcer_relay&p=185304&pn=1&aid=171226)
-[3年目と新番組と花粉症！](https://web.archive.org/web/20250512020242/https://www.fukui-tv.co.jp/?page_id=152708&aid=171226)
+[3年目と新番組と花粉症！](https://web.archive.org/web/20250410194545/https://www.fukui-tv.co.jp/?post_type=announcer_relay&p=186123&aid=171226&pn=1)
 [ロケと取材とグルテンフリー！](https://web.archive.org/web/20250507032203/https://www.fukui-tv.co.jp/?post_type=announcer_relay&p=186992&pn=1&aid=171226)
 
 
