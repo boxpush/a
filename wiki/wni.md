@@ -25,7 +25,7 @@
 [宇野沢達也](https://ja.wikipedia.org/wiki/%E5%AE%87%E9%87%8E%E6%B2%A2%E9%81%94%E4%B9%9F)
 [芳野達郎]()
 [本田竜也]()
-[山口剛央](https://ja.wikipedia.org/wiki/%E5%B1%B1%E5%8F%A3%E5%89%9B%E5%A4%AE)
+[山口剛央](https://ja.wikipedia.org/wiki/%E5%B1%B1%E5%8F%A3%E5%89%9B%E5%A4%AE)1973年01月生まれ
 [飯島栄一]()
 [永井友理](https://ja.wikipedia.org/wiki/%E6%B0%B8%E4%BA%95%E5%8F%8B%E7%90%86)
 [丹羽祐久](https://ja.wikipedia.org/wiki/%E4%B8%B9%E7%BE%BD%E7%A5%90%E4%B9%85)
