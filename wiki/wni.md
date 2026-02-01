@@ -522,7 +522,7 @@
 
 ### 松雪彩花
 ※デビュー以前の情報は発見できず
-[猫化するあやち【松雪彩花/ウェザーニュース切り抜き】](https://www.youtube.com/watch?v=Sc0bPfd5fNM)
+[今週のSOLiVE24迷場面名場面（2017年5月14日）](https://www.youtube.com/watch?v=zYDqUGQ6p60)
 
 ### 白井ゆかり
 
