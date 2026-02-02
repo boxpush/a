@@ -575,6 +575,8 @@
 [【ミスソフィアコンテスト候補者2017】](https://youtu.be/8IIPDCZkuLg)
 
 ### 武藤彩芽
+[日本タレント名鑑](https://www.vip-times.co.jp/?talent_id=W24-0060)
+
 * 2016
 [宇宙ダンス(ファイターズガール・武藤彩芽さん&安冨優菜さん中心バージョン）](https://www.youtube.com/watch?v=DsujzHpPINk)
 [20160818 ファイターズガール トークショー 武藤彩芽さん篇](https://www.youtube.com/watch?v=CgZrXHx59xY)
