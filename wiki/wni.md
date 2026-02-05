@@ -34,6 +34,7 @@
 [吉良真由子](https://www.spt.metro.tokyo.lg.jp/tosei/hodohappyo/press/2022/10/24/14.html)　筑波大学大学院→2014年入社
 [廣瀬美由紀](https://jp.weathernews.com/detail13)　　1993年入社
 [草田あゆみ]()　筑波大学→WNI
+[奥村咲良]()
 
 ## 役員
 [安部大介](https://ja.wikipedia.org/wiki/%E5%AE%89%E9%83%A8%E5%A4%A7%E4%BB%8B)　取締役
