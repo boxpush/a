@@ -525,6 +525,7 @@
 
 ### 松雪彩花
 ※デビュー以前の情報は発見できず
+
 [今週のSOLiVE24迷場面名場面（2017年5月14日）](https://www.youtube.com/watch?v=zYDqUGQ6p60)
 
 ### 白井ゆかり
@@ -560,6 +561,23 @@
 [ほんまにええとこ関西観光展 in 横浜](http://motopion.seesaa.net/article/413681823.html)
 * 2016
 [奈良と山形のおいしいもの盛りだくさん　県庁前でにぎわい回廊](https://sankei-nara-iga.jp/news/archives/9423)
+
+### 檜山沙耶
+※デビュー以前の情報は発見できず
+* 2019
+[【名場面迷場面】2019年のさやっちワールド38選【檜山沙耶】](https://web.archive.org/web/20230420064105/https://www.youtube.com/watch?v=RtXLGhPFU1M)
+* 2020
+[【名場面迷場面】2020年のさやっちワールド38選【檜山沙耶】](https://web.archive.org/web/20210106213559/https://www.youtube.com/watch?v=dEmWurDdHG8)
+* 2021
+[檜山沙耶キャスター平成まとめ動画【迷場面】](https://web.archive.org/web/20220522061439/https://www.youtube.com/watch?v=vr7gkj-Oons)
+[緊急地震速報にプロの切り替えで対応する檜山沙耶キャスター](https://web.archive.org/web/20240214153429/https://www.youtube.com/watch?v=oSe5exLXrz4) ※視聴可能 この時点で31,799,713回再生
+[Japan's 'weather queen' goes viral after a bizarre gaffe during her evening bulletin - and her reaction is priceless](https://www.dailymail.co.uk/tvshowbiz/article-10244569/Saya-Hiyama-Japanese-weather-queen-goes-viral-morning-gaffe.html)
+[【名場面迷場面】2021年のさやっちワールド38選【檜山沙耶】](https://web.archive.org/web/20230420064454/https://www.youtube.com/watch?v=ftftFSfwFZk) ※視聴可能
+* 2022
+[檜山沙耶キャスター 2022年の迷場面38選](https://web.archive.org/web/20230331093149mp_/https://www.youtube.com/watch?v=fXOUeTIQ6qk) ※視聴可能
+* 2023
+[【#ひろがるホロライブDAY1】hololive SUPER EXPO 2023 フリーステージ](https://youtu.be/SAYjyQPDR68?t=2050)
+
 
 ### 駒木結衣
 * 2017
@@ -684,7 +702,7 @@
 [【日本大会予選審査】【ミス岩手 vs ミス秋田】リベンジか返り討ちか　小川千奈と進藤ほのかとのオンライン再戦 因縁の対戦がついに決着【2020Miss Japanファイナリスト】](https://www.youtube.com/watch?v=YdRGBCqH3bw)
 [【ミス岩手 vs ミス秋田】進藤ほのか リベンジなるか　因縁の相手小川千奈とのオンライントーナメント　再戦で誓う絶対に負けたくない思いを語る【2020Miss Japanファイナリスト】](https://www.youtube.com/watch?v=OxeW86DixL0)
 
-## 魚住茉由
+### 魚住茉由
 * 2022
 [最旬名古屋グルメガイド19選 | 名古屋エレ派のおすすめコメント付き！](https://www.25ans.jp/lifestyle/gourmet/g40701745/nagoyagourmet-220804-vc/)
 
