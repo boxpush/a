@@ -564,6 +564,9 @@
 
 ### 檜山沙耶
 ※デビュー以前の情報は発見できず
+
+* 2018
+[沙耶デビュー！](https://ameblo.jp/hiroshi-omori/entry-12412548065.html)
 * 2019
 [【名場面迷場面】2019年のさやっちワールド38選【檜山沙耶】](https://web.archive.org/web/20230420064105/https://www.youtube.com/watch?v=RtXLGhPFU1M)
 * 2020
