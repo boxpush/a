@@ -45,7 +45,11 @@ All information on this site is inaccurate. We assume no responsibility for any 
 
 ## 番組表
 
-表に記載されているのは出演予定です.実際の出演とは一致しない場合があります
+～2025/12/03 番組アーカイブのタイトルから自動抽出
+2025/12/04～ 番組表から自動抽出
+
+自動抽出に失敗した場合のみ手動でデータ修正を行っています
+
 
 # 情報更新間隔
 
