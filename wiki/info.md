@@ -1,6 +1,7 @@
 # About This Site
 
 All information on this site is inaccurate. We assume no responsibility for any damages incurred.
+(このサイトの情報は全て出鱈目です.いかなる損害も補償しません)
 
 # Usage
 
@@ -41,6 +42,10 @@ All information on this site is inaccurate. We assume no responsibility for any 
 ∞ボタン　リスト末尾まで再生すると先頭から再生します
 
 ループボタンを２つともオンにすると同じ動画の再生を繰り返します
+
+## 番組表
+
+表に記載されているのは出演予定です.実際の出演とは一致しない場合があります
 
 # 情報更新間隔
 
