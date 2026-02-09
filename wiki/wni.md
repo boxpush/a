@@ -517,15 +517,18 @@
 
 
 ### 江川清音
+
+* 2008
 [江川清音　18歳](https://www.youtube.com/watch?v=hK_kpSrBQkI)
 [本日の Update](https://ameblo.jp/weathernews/entry-10167870903.html)
+* 2011
 [２０１１　なみはや戦](https://www.youtube.com/watch?v=FcX_8AZFI-I)
 [■ 競技会データ ](https://kyougi.jdsf.or.jp/2011/110903/R110903_02.html#Jmp029)
 [【試合結果】全日本学生競技ダンス選手権大会（冬全）～ラテン～](https://ameblo.jp/waseda-ballroomdance/entry-11098319107.html)
 
 ### 松雪彩花
 ※デビュー以前の情報は発見できず
-
+* 2017
 [今週のSOLiVE24迷場面名場面（2017年5月14日）](https://www.youtube.com/watch?v=zYDqUGQ6p60)
 
 ### 白井ゆかり
@@ -606,6 +609,24 @@
 [20160818 ファイターズガール トークショー 武藤彩芽さん篇](https://www.youtube.com/watch?v=CgZrXHx59xY)
 * 2018
 [可愛すぎるチアガールからモデルへ…“サツコレが見つけた原石”武藤あやめ、芸能界入り決意の理由＆夢を語る＜モデルプレスインタビュー＞](https://mdpr.jp/interview/detail/1757191)
+
+### 大島璃音
+* 2019
+[午前7:57 · 2019年4月10日](https://x.com/ONEMORNING_1/status/1115750681434963968)
+[午前8:07 · 2019年4月24日](https://x.com/ONEMORNING_1/status/1120826553951084544)
+[午前8:04 · 2019年5月8日](https://x.com/ONEMORNING_1/status/1125899109037043712)
+[午前7:51 · 2019年5月22日](https://x.com/ONEMORNING_1/status/1130969353963225088)
+[午前9:38 · 2019年6月5日](https://x.com/ONEMORNING_1/status/1136069722238095360)
+[午前8:02 · 2019年6月19日](https://x.com/ONEMORNING_1/status/1141119118696833024)
+[午前8:32 · 2019年7月3日](https://x.com/ONEMORNING_1/status/1146199943087980544)
+[午前8:10 · 2019年7月17日](https://x.com/ONEMORNING_1/status/1151267949744836610)
+[午前7:54 · 2019年7月31日](https://x.com/ONEMORNING_1/status/1156337414412963840)
+[午前8:44 · 2019年8月14日](https://x.com/ONEMORNING_1/status/1161423251286851584)
+[午前8:42 · 2019年8月28日](https://x.com/ONEMORNING_1/status/1166496169746288641)
+[午前8:36 · 2019年9月11日](https://x.com/ONEMORNING_1/status/1171568250313854976)
+[午前8:41 · 2019年9月25日](https://x.com/ONEMORNING_1/status/1176642726621663234)
+* 2022
+[ダンゴムシに解説していただきました→私、ダンゴムシじゃないです](https://www.youtube.com/watch?v=tzLGA1-QWfU) 2200万再生
 
 ### 戸北美月
 * 2021
