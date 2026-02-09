@@ -34,6 +34,7 @@ All information on this site is inaccurate. We assume no responsibility for any 
 ## 動画プレーヤー
 
 動画のサムネをクリックすると動画プレーヤーがポップアップします
+(動画検索のみサムネではなく種別をクリック)
 
 ←ボタン　前の（新しい）動画へ移動します
 →ボタン　次の（古い）動画へ移動します
