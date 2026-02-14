@@ -26,14 +26,14 @@
 [宇野沢達也](https://ja.wikipedia.org/wiki/%E5%AE%87%E9%87%8E%E6%B2%A2%E9%81%94%E4%B9%9F)
 [芳野達郎]()
 [本田竜也]()
-[山口剛央](https://ja.wikipedia.org/wiki/%E5%B1%B1%E5%8F%A3%E5%89%9B%E5%A4%AE)1973年01月生まれ
+[山口剛央](https://ja.wikipedia.org/wiki/%E5%B1%B1%E5%8F%A3%E5%89%9B%E5%A4%AE)　1973年01月生まれ
 [飯島栄一]()
 [永井友理](https://ja.wikipedia.org/wiki/%E6%B0%B8%E4%BA%95%E5%8F%8B%E7%90%86)
 [丹羽祐久](https://ja.wikipedia.org/wiki/%E4%B8%B9%E7%BE%BD%E7%A5%90%E4%B9%85)
 [村上ひかる]()
 [野口晶太]()
 [吉良真由子](https://www.spt.metro.tokyo.lg.jp/tosei/hodohappyo/press/2022/10/24/14.html)　筑波大学大学院→2014年入社
-[廣瀬美由紀](https://jp.weathernews.com/detail13)　　1993年入社
+[廣瀬美由紀](https://jp.weathernews.com/detail13)　1993年入社
 [草田あゆみ]()　筑波大学→WNI
 [奥村咲良]()
 
@@ -76,13 +76,22 @@
 [諸岡雅美]()　→気象防災アドバイザー
 [山下裕也]()
 
-# 気象予報士を擁する他社
+# 気象予報士を擁する企業
+
 ## [日本気象協会(tenki.jp)](https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%B0%97%E8%B1%A1%E5%8D%94%E4%BC%9A)
 [気象予報士ほか一覧](https://www.jwa.or.jp/professional/)　[YouTube](https://www.youtube.com/channel/UCu5EZb44VEGdVUMhAZ6cDqQ)
+
 ## [ウェザーマップ](https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A7%E3%82%B6%E3%83%BC%E3%83%9E%E3%83%83%E3%83%97)
 [気象予報士一覧](https://caster.weathermap.co.jp/)　[YouTube](https://www.youtube.com/channel/UCr6ODVX9v2sOshoHOqL50SA)　[YouTube](https://www.youtube.com/channel/UC083TryhU0r1Xgrjwc2FAHg)　[YouTube](https://www.youtube.com/channel/UC81LCWrDPoUSBOYo1b4uTNg)
+
 ## [オフィス気象キャスター](https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%95%E3%82%A3%E3%82%B9%E6%B0%97%E8%B1%A1%E3%82%AD%E3%83%A3%E3%82%B9%E3%82%BF%E3%83%BC)
 [気象予報士一覧](https://www.office-weather.jp/caster/)　[YouTube](https://www.youtube.com/channel/UCzXAIUHJcywd-pqUO5g9nJg)
+
+## [ウェザーニューズ](https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A7%E3%82%B6%E3%83%BC%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%BA)
+[YouTube](https://www.youtube.com/channel/UCNsidkYpIAQ4QaufptQBPHQ)　[YouTube](https://www.youtube.com/channel/UCmlA2BKb276qVW4nXrbsqhw)
+
+
+
 
 # オーディションとオーボシャンの歴史
 
@@ -483,6 +492,13 @@
 [角田奈緒子](https://x.com/search?q=(from%3Anaokoon1122)%20until%3A2016-8-13&src=typed_query&f=media)
 一般投票やそれ以前の活動の様子を垣間見る事ができる
 
+・旧垢
+[田辺真南葉 【ミスサークル2021】](https://x.com/circle2021_0044)
+[田辺真南葉](https://x.com/manahaballet)
+[田辺真南葉](https://x.com/00000007___0)
+[松本真央](https://x.com/mao_matsumoto_)
+
+
 ## インスタグラム
 [福吉貴文 fukuyoshi.takafumi](https://www.instagram.com/fukuyoshi.takafumi/)　利用開始日：2021年07月.テレビ愛媛時代～
 [松本真央 mao__matsumoto](https://www.instagram.com/mao__matsumoto/)　利用開始日：2025年06月.ウェザーニューズ時代
@@ -491,6 +507,12 @@
 [田辺真南葉 manaha_tanabe_](https://www.instagram.com/manaha_tanabe_/)　利用開始日：2023年09月.福井テレビ時代
 [田辺真南葉 manaha_tanabe](https://www.instagram.com/manaha_tanabe/)　(非公開)利用開始日：2015年07月.アイドル時代　[Instagrammer News](https://instagrammernews.com/user/1911824217)
 [田辺真南葉 manahatanabe_](https://www.instagram.com/manahatanabe_/)　(利用解除or削除)利用開始日:2013年10月　2025年07月の時点では非公開ながら存在していた
+[田辺真南葉 manaha_ha_](https://www.instagram.com/manaha_ha_)　※おそらくミスコン用
+[小林李衣奈](https://www.instagram.com/mskonan20_no6/)　ミスコン
+
+
+## Treads
+[松本真央 matsumoto_mao1](https://www.threads.com/@matsumoto_mao1)　女優・モデル時代
 
 ## Facebook
 [福吉貴文](https://www.facebook.com/100016607048445/)
@@ -612,19 +634,19 @@
 
 ### 大島璃音
 * 2019
-[午前7:57 · 2019年4月10日](https://x.com/ONEMORNING_1/status/1115750681434963968)
-[午前8:07 · 2019年4月24日](https://x.com/ONEMORNING_1/status/1120826553951084544)
-[午前8:04 · 2019年5月8日](https://x.com/ONEMORNING_1/status/1125899109037043712)
-[午前7:51 · 2019年5月22日](https://x.com/ONEMORNING_1/status/1130969353963225088)
-[午前9:38 · 2019年6月5日](https://x.com/ONEMORNING_1/status/1136069722238095360)
-[午前8:02 · 2019年6月19日](https://x.com/ONEMORNING_1/status/1141119118696833024)
-[午前8:32 · 2019年7月3日](https://x.com/ONEMORNING_1/status/1146199943087980544)
-[午前8:10 · 2019年7月17日](https://x.com/ONEMORNING_1/status/1151267949744836610)
-[午前7:54 · 2019年7月31日](https://x.com/ONEMORNING_1/status/1156337414412963840)
-[午前8:44 · 2019年8月14日](https://x.com/ONEMORNING_1/status/1161423251286851584)
-[午前8:42 · 2019年8月28日](https://x.com/ONEMORNING_1/status/1166496169746288641)
-[午前8:36 · 2019年9月11日](https://x.com/ONEMORNING_1/status/1171568250313854976)
-[午前8:41 · 2019年9月25日](https://x.com/ONEMORNING_1/status/1176642726621663234)
+[Twitter 午前7:57 · 2019年4月10日](https://x.com/ONEMORNING_1/status/1115750681434963968)
+[Twitter 午前8:07 · 2019年4月24日](https://x.com/ONEMORNING_1/status/1120826553951084544)
+[Twitter 午前8:04 · 2019年5月8日](https://x.com/ONEMORNING_1/status/1125899109037043712)
+[Twitter 午前7:51 · 2019年5月22日](https://x.com/ONEMORNING_1/status/1130969353963225088)
+[Twitter 午前9:38 · 2019年6月5日](https://x.com/ONEMORNING_1/status/1136069722238095360)
+[Twitter 午前8:02 · 2019年6月19日](https://x.com/ONEMORNING_1/status/1141119118696833024)
+[Twitter 午前8:32 · 2019年7月3日](https://x.com/ONEMORNING_1/status/1146199943087980544)
+[Twitter 午前8:10 · 2019年7月17日](https://x.com/ONEMORNING_1/status/1151267949744836610)
+[Twitter 午前7:54 · 2019年7月31日](https://x.com/ONEMORNING_1/status/1156337414412963840)
+[Twitter 午前8:44 · 2019年8月14日](https://x.com/ONEMORNING_1/status/1161423251286851584)
+[Twitter 午前8:42 · 2019年8月28日](https://x.com/ONEMORNING_1/status/1166496169746288641)
+[Twitter 午前8:36 · 2019年9月11日](https://x.com/ONEMORNING_1/status/1171568250313854976)
+[Twitter 午前8:41 · 2019年9月25日](https://x.com/ONEMORNING_1/status/1176642726621663234)
 * 2022
 [ダンゴムシに解説していただきました→私、ダンゴムシじゃないです](https://www.youtube.com/watch?v=tzLGA1-QWfU) 2200万再生
 
@@ -632,6 +654,11 @@
 * 2021
 [美学生図鑑](https://bigakusei.com/binan-bijo/27343/)
 [美学生図鑑](https://www.instagram.com/p/CNaGotFnJMG/)
+
+
+### 川畑玲
+[地球変動のメカニズム](https://www.jst.go.jp/kisoken/crest/report/sh_heisei10/chikyuhendo/yoshizaki.pdf)
+[地球環境システム学講座-OB・OG](https://www.eps.nagoya-u.ac.jp/~geosys/old/mem_ob_og.html)
 
 ### 小林李衣奈
 * 2020
@@ -768,9 +795,9 @@
 [Facebook 2017年5月1日](https://www.facebook.com/1423419381058700)
 [Facebook 2017年5月16日](https://www.facebook.com/1437852806282024)
 
-
-
 ### 田辺真南葉
+[FOD](https://fod.fujitv.co.jp/person/SMB-135481/)
+
 * 2014
 [サンミュージックプロフィール 13歳](https://web.archive.org/web/20140704135928/https://www.sunmusic.org/profile/tanabe_manaha.html)
 * 2015
@@ -786,21 +813,46 @@
 * 2019
 [【受賞者21人登場】日本一制服が似合う女子＆男子決定！「第6回日本制服アワード」 ](https://www.youtube.com/watch?v=-dsvgePFLsM&t=498s)
 [田辺真南葉 制服アワード準グランプリ受賞記念！直撃インタビュー！！](https://www.youtube.com/watch?v=EmKx4aHKw6M)
+[Twitter 午後10:55 · 2019年2月9日](https://x.com/shimizu11017264/status/1094233381120860161)
+[Twitter 午後10:32 · 2019年2月9日](https://x.com/shimizu11017264/status/1094227609846657026)
 [【2019秋冬コレクション】CONOMi 2019 AUTUMN&WINTER 撮影風景&インタビュー【制服アワード】](https://www.youtube.com/watch?v=9ZEt0mcSWw4)
 [Twitter ダイキン うるさら7 新CM](https://x.com/daikin_jp/status/1064473506589622272)
 [Twitter ダイキン うるさら7 新CM](https://x.com/daikin_jp/status/1136951225499475968)
 [【アイドルING!!!通信】#22 活動終了について ノーカット版](https://www.youtube.com/watch?v=fHr0ezLAlGg)
 * 2020
+[Twitter 午前8:29 · 2020年2月22日](https://x.com/bettymodel22/status/1230998107673919488)
+[Twitter 午後7:00 · 2020年3月28日](https://x.com/DDDhat/status/1243840439108550657)
+[Twitter 午後7:15 · 2020年3月28日](https://x.com/kaida_y1006/status/1243844185410560000)
+[Twitter 午後6:19 · 2020年3月28日](https://x.com/gestaltmaster/status/1243830113583517696)
+[Twitter 午後1:45 · 2020年4月14日](https://x.com/tetching5150/status/1249921578302767104)
+[Twitter 午後6:23 · 2020年4月14日](https://x.com/gestaltmaster/status/1249991638165815298)
+[Twitter 午後6:47 · 2020年4月14日](https://x.com/PusanHayahiro/status/1249997669428150273)
 [サンミュージックプロフィール 19歳](https://web.archive.org/web/20200520180928/https://www.sunmusic.org/profile/tanabe_manaha.html)
 [新作ケーブルニットベスト&新作リボン🐰🎀](https://www.instagram.com/p/B8k02ssHY7k/)
 [ライトグレーブレザーコーデ🐰🎀](https://www.instagram.com/p/B9Dp3K8HdQl/)
 [ブラウンブレザーコーデ🐰🎀](https://www.instagram.com/p/B-G3nZfnpJW/)
 * 2021
+[Twitter 午前1:11 · 2021年4月28日](https://x.com/pupa620/status/1387076987974344708)
+[Twitter 午前1:11 · 2021年4月28日](https://x.com/yama65kawa/status/1387077012926304259)
+[Twitter 午前1:13 · 2021年4月28日](https://x.com/tatikoma_/status/1387077446403461123)
+[Twitter 午前1:13 · 2021年4月28日](https://x.com/_iori_1128_/status/1387077505106939906)
+[Twitter 午前1:18 · 2021年4月28日](https://x.com/mystery0914/status/1387078722130305027)
+[Twitter 午前1:20 · 2021年4月28日](https://x.com/tetching5150/status/1387079154974162945)
+[Twitter 午前1:20 · 2021年4月28日](https://x.com/Forever0601/status/1387079168463052802)
+[Twitter 午前1:43 · 2021年4月28日](https://x.com/tos_mik/status/1387085125104529414)
+[Twitter 午前1:43 · 2021年4月28日](https://x.com/tos_mik/status/1387085125104529414)
+[Twitter 午前3:31 · 2021年4月28日](https://x.com/tak720_yamamoto/status/1387112180063952897)
+[Twitter 午後6:45 · 2021年4月29日](https://x.com/gestaltmaster/status/1387704704017342464)
+[Twitter 午後7:14 · 2021年4月29日](https://x.com/tak720_yamamoto/status/1387711794999742467)
+[mysta](https://appweb.mysta.tv/web/share/profile?id=1126366)
+[葉ちゃんるーむ](https://www.showroom-live.com/room/profile?room_id=358644)
 [MISS CIRCLE CONTEST 2021 受賞者一覧](https://www.misscircle.jp/2021)
 [MISS CIRCLE CONTEST 2021](https://2021.misscircle.jp/entry/44)
 [“日本一のサークル美女”ファイナリスト集結 この中から選ばれる美女は？＜「MISS CIRCLE CONTEST 2021」ファイナリストプロフィール＞](https://mdpr.jp/photo/detail/10542013)
 [【MISS CIRCLE CONTEST 2021】SHOWROOM最終審査□最終結果](https://showroom流星群.com/wp-content/uploads/2021/11/09.jpg)
+
 * 2022
+[ミスコン受賞女子大生が注目する　神戸街歩き](https://kisspress.jp/features/12672/)
 [4/30(土)放送 田辺真南葉出演 週刊ブライムオンラインS](https://ameblo.jp/kazu-youta/entry-12741093763.html)
 [第40期BSフジ学生キャスター](https://www.instagram.com/p/Ci19y-fPBgU/)
 [卒業生の活躍](https://www.art.nihon-u.ac.jp/career/voice/)
@@ -824,10 +876,31 @@
 [薬が効かない耐性菌が静かに拡大　「サイレントパンデミック」2050年にはがん死者を超える恐れ（2024.7.29放送）](https://www.youtube.com/watch?v=3AEl3jOleCs)
 * 2025
 [Twitter 午後4:59 · 2025年1月10日](https://x.com/fukui_tv/status/1877626385918763126)
-[Fukuiクエスト！～わがまちレベルアップLABO](https://x.com/fukui_tv/status/1943867660879769725)
+[Twitter 午後3:38 · 2025年4月11日](https://x.com/fukui_tv/status/1910583138319036504)
+[#1　中池見湿地を守れ！](https://www.fukui-tv.co.jp/?fukuiquest_pgm=1%e3%80%80%e4%b8%ad%e6%b1%a0%e8%a6%8b%e6%b9%bf%e5%9c%b0%e3%82%92%e5%ae%88%e3%82%8c%ef%bc%81)
+[Twitter 午後0:00 · 2025年4月19日](https://x.com/fukui_tv/status/1913427333501038603)
+[#2　南越前町の楽しいをもっと広げよ！](https://www.fukui-tv.co.jp/?fukuiquest_pgm=2%e3%80%80%e5%8d%97%e8%b6%8a%e5%89%8d%e7%94%ba%e3%81%ae%e6%a5%bd%e3%81%97%e3%81%84%e3%82%92%e3%82%82%e3%81%a3%e3%81%a8%e5%ba%83%e3%81%92%e3%82%88%ef%bc%81)
+[Twitter 午後0:10 · 2025年5月3日](https://x.com/fukui_tv/status/1918503278389936156)
+[#4　サクラ並木が消える!?福井の“春の象徴”を救え!](https://www.fukui-tv.co.jp/?fukuiquest_pgm=4%e3%80%80%e3%82%b5%e3%82%af%e3%83%a9%e4%b8%a6%e6%9c%a8%e3%81%8c%e6%b6%88%e3%81%88%e3%82%8b%e7%a6%8f%e4%ba%95%e3%81%ae%e6%98%a5%e3%81%ae%e8%b1%a1%e5%be%b4%e3%82%92%e6%95%91)
+[Twitter 午前11:55 · 2025年5月10日](https://x.com/fukui_tv/status/1921036218558546122)
+[#5　海ごみを少しでも減らせ！](https://www.fukui-tv.co.jp/?fukuiquest_pgm=5%e3%80%80%e6%b5%b7%e3%81%94%e3%81%bf%e3%82%92%e5%b0%91%e3%81%97%e3%81%a7%e3%82%82%e6%b8%9b%e3%82%89%e3%81%9b%ef%bc%81)
+[Twitter 午前11:55 · 2025年5月24日](https://x.com/fukui_tv/status/1926109648874033192)
+[#6　十村駅に若い声を響かせたい！](https://www.fukui-tv.co.jp/?fukuiquest_pgm=6%e3%80%80%e5%8d%81%e6%9d%91%e9%a7%85%e3%81%ab%e8%8b%a5%e3%81%84%e5%a3%b0%e3%82%92%e9%9f%bf%e3%81%8b%e3%81%9b%e3%81%9f%e3%81%84%ef%bc%81)
+[Twitter 午前11:59 · 2025年6月7日](https://x.com/fukui_tv/status/1931184085545980369)
+[#8　あるもの、厄介もので宝ものをつくれ!](https://www.fukui-tv.co.jp/?fukuiquest_pgm=8%e3%80%80%e3%81%82%e3%82%8b%e3%82%82%e3%81%ae%e3%80%81%e5%8e%84%e4%bb%8b%e3%82%82%e3%81%ae%e3%81%a7%e5%ae%9d%e3%82%82%e3%81%ae%e3%82%92%e3%81%a4%e3%81%8f%e3%82%8c)
+[Twitter 午前11:59 · 2025年6月14日](https://x.com/fukui_tv/status/1933720800487747992)
+[#9　外来種問題を知り、広めろ！](https://www.fukui-tv.co.jp/?fukuiquest_pgm=9%e3%80%80%e5%a4%96%e6%9d%a5%e7%a8%ae%e5%95%8f%e9%a1%8c%e3%82%92%e7%9f%a5%e3%82%8a%e3%80%81%e5%ba%83%e3%82%81%e3%82%8d%ef%bc%81)
+[Twitter 午後0:00 · 2025年6月21日](https://x.com/fukui_tv/status/1936257780249510031)
+[#10　福井の星をあつめろ！](https://www.fukui-tv.co.jp/?fukuiquest_pgm=10%e3%80%80%e7%a6%8f%e4%ba%95%e3%81%ae%e6%98%9f%e3%82%92%e3%81%82%e3%81%a4%e3%82%81%e3%82%8d%ef%bc%81)
+[Twitter 午前11:59 · 2025年7月5日](https://x.com/fukui_tv/status/1941330945715458436)
+[#12　勝山市に誕生したこども食堂を調査せよ！](https://www.fukui-tv.co.jp/?fukuiquest_pgm=12%e3%80%80%e5%8b%9d%e5%b1%b1%e5%b8%82%e3%81%ab%e8%aa%95%e7%94%9f%e3%81%97%e3%81%9f%e3%81%93%e3%81%a9%e3%82%82%e9%a3%9f%e5%a0%82%e3%82%92%e8%aa%bf%e6%9f%bb%e3%81%9b%e3%82%88%ef%bc%81)
+[Twitter 午前11:59 · 2025年7月12日](https://x.com/fukui_tv/status/1943867660879769725)
+[#13　海ごみをアップサイクルして宝物にせよ！](https://www.fukui-tv.co.jp/?fukuiquest_pgm=13%e3%80%80%e6%b5%b7%e3%81%94%e3%81%bf%e3%82%92%e3%82%a2%e3%83%83%e3%83%97%e3%82%b5%e3%82%a4%e3%82%af%e3%83%ab%e3%81%97%e3%81%a6%e5%ae%9d%e7%89%a9%e3%81%ab%e3%81%9b%e3%82%88%ef%bc%81)
+
 [ウェザーニュース田辺真南葉、ローカル局アナからお天気キャスター転身を決断させた「能登半島地震の経験](https://entamenext.com/articles/detail/43061)
 [「ウェザーニュースでは『傘を持って行って下さい』と言い切れる」田辺真南葉が実感した5000万ユーザーへの使命](https://entamenext.com/articles/detail/43062/)
 [ウェザーニュース小林李衣奈×田辺真南葉　先輩・後輩の本音トーク「“かわいい”は決して計算じゃないです（笑）」](https://entamenext.com/articles/detail/43063)
+
 * 福井テレビ アナウンサーブログ
 [福井テレビ新人アナウンサ―田辺真南葉です！ ①](https://web.archive.org/web/20240920235056/https://www.fukui-tv.co.jp/?post_type=announcer_relay&p=171778&pn=2&aid=171226)
 [福井テレビ新人アナウンサ―田辺真南葉です！ ②](https://web.archive.org/web/20240921005249/https://www.fukui-tv.co.jp/?post_type=announcer_relay&p=171791&pn=2&aid=171226)
@@ -853,7 +926,6 @@
 [3年目と新番組と花粉症！](https://web.archive.org/web/20250410194545/https://www.fukui-tv.co.jp/?post_type=announcer_relay&p=186123&aid=171226&pn=1)
 [ロケと取材とグルテンフリー！](https://web.archive.org/web/20250507032203/https://www.fukui-tv.co.jp/?post_type=announcer_relay&p=186992&pn=1&aid=171226)
 
-
 ### 松本真央
 [日本タレント名鑑](https://www.vip-times.co.jp/?talent_id=W16-1208)
 * 2015
@@ -866,6 +938,7 @@
 [前田晴香・針尾ありさ・松本真央・西園ゆうゆら出演、自主制作短編ホラー映画「呪鈍」が完成！](https://minicine.jp/1/0531.html)
 [Twitter 午後5:36 · 2019年12月18日](https://x.com/Taroueino/status/1207218166507589632)
 * 2020
+[Instagram 2020年1月21日](https://www.instagram.com/p/B7lYwf7Hn6D/?img_index=5)
 [ドラマデザイン社 舞台『ゲートシティーの恋』明日から!!](https://ameblo.jp/aochan67/entry-12566373224.html)
 [藤代冥砂](https://www.instagram.com/p/CInjafBDp5b/)
 * 2021
@@ -876,7 +949,8 @@
 [Hi-mic Entertainment](https://web.archive.org/web/20240419152738/https://hi-mic-entertainment.jp/matsumoto%20_mao)
 [Twitter 午前3:44 · 2024年3月7日](https://x.com/eketan/status/1765448473728680231)
 [meiji プロバイオ合同 CM 「明治からだ応援団」篇 30秒 ](https://www.youtube.com/watch?v=t7hEUWiFBAs)
-
+* 2025
+[【360 Reality Audio】「アイのマネ」Music Video](https://www.youtube.com/watch?v=qw4SGDqUTGg)
 
 ### 石橋博良
 [第70回　株式会社ウェザーニューズ 石橋博良](https://www.dreamgate.gr.jp/contents/case/interview/36111)
