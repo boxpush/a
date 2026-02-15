@@ -580,6 +580,8 @@
 [スナップin長岡造形大学（10/6）](https://ameblo.jp/yu-kob/entry-11372144111.html)
 
 ### 角田奈緒子
+[日本タレント名鑑](https://www.vip-times.co.jp/?talent_id=W23-0624)
+
 * 2014
 [奈良まほろば館](https://ameblo.jp/yuutarochan-0424/entry-11961405183.html)
 * 2015
