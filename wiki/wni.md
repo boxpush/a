@@ -768,6 +768,10 @@
 [Twitter 午後5:32 · 2017年8月5日](https://x.com/ohmura_hideaki/status/893751433773826048)
 [あんじょう 2017.06 No.766](https://anjo-cci.or.jp/imgdb/kaihou/171.pdf)
 [安城七夕まつり 第64回 2017年（平成29年）8月4〜6日](https://anjo-tanabata.jp/know/history/64th)
+* 2018
+[2018シーズン最終戦 D-STAGE DD知っ得情報コーナー](https://www.youtube.com/watch?v=8quq0jFwR1c)
+[Twitter](https://x.com/2021_march/status/1748960806094663801)
+[ベースボールメイツOG](https://cheerdra-tairiku.seesaa.net/article/508171332.html)
 * 2019
 [Twitter 午後5:51 · 2019年9月15日](https://x.com/darkages71/status/1173157264506490882)
 [Twitter 午後9:15 · 2019年9月18日](https://x.com/e5ltndauDpkTJnt/status/1174295823070318595)
@@ -785,6 +789,9 @@
 ### 岡本結子
 * 2023
 [美学生図鑑](https://bigakusei.com/binan-bijo/31359/)
+[美学生図鑑](https://www.instagram.com/p/C1URfq2Jm4n/)
+[美学生図鑑](https://www.instagram.com/bigakuseizukan/reel/Cz06XDFvyyu/)
+
 
 ### 福吉貴文
 * 2015
@@ -812,15 +819,22 @@
 [【AI】女子中高生が本格女優を目指して生放送！【第6期1回目】](https://www.youtube.com/watch?v=RyQtuRSXW8c&t=830s)
 * 2018
 [アイドルING!!! 【Road to TIF2018】 2018年07月05日20時](https://www.youtube.com/watch?v=0KLT6oZoPrY)
+[吉田由美の眼☆アイドルもハマった!?未来のクルマ好きを育てる「U-18運転予備校」開催](https://www.goodspress.jp/reports/193674/2/)
 * 2019
 [【受賞者21人登場】日本一制服が似合う女子＆男子決定！「第6回日本制服アワード」 ](https://www.youtube.com/watch?v=-dsvgePFLsM&t=498s)
 [田辺真南葉 制服アワード準グランプリ受賞記念！直撃インタビュー！！](https://www.youtube.com/watch?v=EmKx4aHKw6M)
 [Twitter 午後10:55 · 2019年2月9日](https://x.com/shimizu11017264/status/1094233381120860161)
 [Twitter 午後10:32 · 2019年2月9日](https://x.com/shimizu11017264/status/1094227609846657026)
+[スナックうめこ1部 2019年03月31日](https://youtu.be/wwvYxbKWNmA?t=818)
+[ポリスまなっはー！](https://www.instagram.com/p/BwEVl99gGlA/)
+[190803 スナックうめ子【2日目】](https://www.youtube.com/watch?v=C34JmJMYkr8)
 [【2019秋冬コレクション】CONOMi 2019 AUTUMN&WINTER 撮影風景&インタビュー【制服アワード】](https://www.youtube.com/watch?v=9ZEt0mcSWw4)
 [Twitter ダイキン うるさら7 新CM](https://x.com/daikin_jp/status/1064473506589622272)
 [Twitter ダイキン うるさら7 新CM](https://x.com/daikin_jp/status/1136951225499475968)
+[instagram](https://www.instagram.com/p/B260SP2liGU/)
 [【アイドルING!!!通信】#22 活動終了について ノーカット版](https://www.youtube.com/watch?v=fHr0ezLAlGg)
+[191214 スナックうめこスペシャル](https://youtu.be/yHS7-qXth8M?t=1355)
+
 * 2020
 [Twitter 午前8:29 · 2020年2月22日](https://x.com/bettymodel22/status/1230998107673919488)
 [Twitter 午後7:00 · 2020年3月28日](https://x.com/DDDhat/status/1243840439108550657)
@@ -857,25 +871,32 @@
 [ミスコン受賞女子大生が注目する　神戸街歩き](https://kisspress.jp/features/12672/)
 [4/30(土)放送 田辺真南葉出演 週刊ブライムオンラインS](https://ameblo.jp/kazu-youta/entry-12741093763.html)
 [第40期BSフジ学生キャスター](https://www.instagram.com/p/Ci19y-fPBgU/)
+[instagram](https://www.instagram.com/p/ClildtSpk1W/)
 [卒業生の活躍](https://www.art.nihon-u.ac.jp/career/voice/)
 * 2023
 [アナトレ受講者 2023年内定実績](https://anatore.fujitv.co.jp/naitei/)
 [福井テレビ アナウンサープロフィール](https://web.archive.org/web/20240905235447if_/https://www.fukui-tv.co.jp/?announcer=%E7%94%B0%E8%BE%BA-%E7%9C%9F%E5%8D%97%E8%91%89)
 [【完全密着】新人 田辺真南葉アナウンサー「初鳴き」ドキュメント](https://web.archive.org/web/20230616130232/https://www.youtube.com/watch?v=nw1ahL0Ks6E)
-[１分間 一問一答チャレンジ](https://media01.mitene.jp/playing/video/vKKWT99O6S09J6ION)
+[１分間 一問一答チャレンジ](https://media01.mitene.jp/playing/video/vKKWT99O6S09J6ION?contdisp=on)
 [ポイントがザクザクもらえるキャンペーン告知](https://www.youtube.com/watch?v=UeFjCpLL7lY)
 [人里離れた場所に「忍者」養成所が…　令和に受け継がれた秘伝の術(2023年8月11日)](https://www.youtube.com/watch?v=TfYkRpqID5c)
+[≪福井テレビ スポーツフェス2023≫](https://www.instagram.com/reel/CwzYYvdNFpC/)
 [田辺アナ オフショット‥୨୧](https://www.instagram.com/reel/Cw4dkbVtcYy/)
 [あわら市へ出かけた田辺アナ](https://www.instagram.com/reel/CxWrQNONW2h/)
 [北陸新幹線開業に向けた新アクティビティ！敦賀真鯛の釣りと食体験 日本財団 海と日本PROJECT in ふくい 2023 #018](https://www.youtube.com/watch?v=2heSgiOjI2k)
 [ついに解禁!!　味覚の王様「越前がに」が水揚げ　2日遅れで(2023年11月8日)](https://www.youtube.com/watch?v=avGbk8WysZA)
 * 2024
 [田辺真南葉アナウンサーから新年のご挨拶🎍](https://www.instagram.com/reel/C1oLrYXLMEO/)
+[田島嘉晃アナウンサーから新年のご挨拶🎍](https://www.instagram.com/reel/C1quVfittC9/)
 [【歯ぎしり】ストレスが引き金に…自覚症状ないまま身体の不調につながるおそれ　専門医にメカニズムや改善方法を聞いた【健康のタネ】（2024.5.13放送）](https://www.youtube.com/watch?v=3AEl3jOleCs)
 [福井の恐竜人気の裏にデジタルを駆使した最新研究　恐竜研究の第一人者「どのように動き暮らしていたかを解明したい」（2024.5.22放送）](https://www.youtube.com/watch?v=sUiOwhHE07g)
 [ごみアートで“資本主義の光と影”　長坂真護さん地元・福井で10年ぶりの個展　（2024.5.23放送）](https://www.youtube.com/watch?v=Ne0qOzVitsM)
 [アイシングや痛み止めは2、3日後まで！捻挫の最新治療法を専門医が解説　キーワードは「PEACE&LOVE」　(2024.5.27放送)](https://www.youtube.com/watch?v=8TwMZJ_Erto)
 [薬が効かない耐性菌が静かに拡大　「サイレントパンデミック」2050年にはがん死者を超える恐れ（2024.7.29放送）](https://www.youtube.com/watch?v=3AEl3jOleCs)
+[＜ブログ更新しました＞](https://www.instagram.com/p/C-AAsKTpPrm/)
+[＜ブログ更新しました＞](https://www.instagram.com/p/C_KHX2PMKBC/)
+[＜ブログ更新しました＞](https://www.instagram.com/p/DADEh6VzA7-/)
+
 * 2025
 [Twitter 午後4:59 · 2025年1月10日](https://x.com/fukui_tv/status/1877626385918763126)
 [Twitter 午後3:38 · 2025年4月11日](https://x.com/fukui_tv/status/1910583138319036504)
