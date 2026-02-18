@@ -437,6 +437,7 @@
 20260218	00:00			
 20260218	05:00	96mpXTNaTAQ	モ	uozumi
 20260218	08:00	D8bqKK_ZKiw	サ	uozumi
+20260218	09:30	D8bqKK_ZKiw	サ	ogawa
 20260218	11:00	P2X9uAJgOsg	コ	ogawa
 20260218	14:00	aFAaz7tq7f4	ア	kawabata
 20260218	17:00	Nc_Jl9Ybo68	イ	kobayashi
