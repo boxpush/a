@@ -46,7 +46,6 @@
 [眞家泉](https://ja.wikipedia.org/wiki/%E7%9C%9E%E5%AE%B6%E6%B3%89)　→ヨガインストラクター？
 [菊池真以](https://ja.wikipedia.org/wiki/%E8%8F%8A%E6%B1%A0%E7%9C%9F%E4%BB%A5)　→ウェザーマップ
 [今田佐和子](https://ja.wikipedia.org/wiki/%E4%BB%8A%E7%94%B0%E4%BD%90%E5%92%8C%E5%AD%90)　[SOLiVE出演](https://www.youtube.com/watch?v=Df96_Rujmv4)
-[有川雅子](https://ja.wikipedia.org/wiki/%E6%9C%89%E5%B7%9D%E9%9B%85%E5%AD%90)
 [穂川果音](https://ja.wikipedia.org/wiki/%E7%A9%82%E5%B7%9D%E6%9E%9C%E9%9F%B3)　セント・フォース
 [松本あゆ美](https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%9C%AC%E3%81%82%E3%82%86%E7%BE%8E)　→セント・フォース
 [荒嶋恵里子](https://ja.wikipedia.org/wiki/%E8%8D%92%E5%B6%8B%E6%81%B5%E9%87%8C%E5%AD%90)
@@ -120,7 +119,7 @@
 [西田絵梨香]()
 [福島彩乃](https://ja.wikipedia.org/wiki/%E7%A6%8F%E5%B3%B6%E5%BD%A9%E4%B9%83)　金沢大学→WNI→北陸放送アナウンサー→フリー
 [樋田かおり](https://ja.wikipedia.org/wiki/%E6%A8%8B%E7%94%B0%E3%81%8B%E3%81%8A%E3%82%8A)　金城学院大学→WNI→青森放送→フリー→株式会社トークナビ代表取締役
-💎[有川雅子](https://ja.wikipedia.org/wiki/%E6%9C%89%E5%B7%9D%E9%9B%85%E5%AD%90)　鹿児島大学→WNI→タレント→鹿児島放送制作スタッフ→WNI→フリー
+[有川雅子](https://ja.wikipedia.org/wiki/%E6%9C%89%E5%B7%9D%E9%9B%85%E5%AD%90)　鹿児島大学→WNI→タレント→鹿児島放送制作スタッフ→WNI→フリー
 [馬場あやか]()
 [今野美里](https://ja.wikipedia.org/wiki/%E4%BB%8A%E9%87%8E%E7%BE%8E%E9%87%8C)　日本ハムファイターズガール→WNI→浅井企画
 [宮里祥子]()
@@ -379,7 +378,7 @@
 [遠野菜月]()[動画](http://mwsgvs.weathernews.jp/audition/mp4/2014/03.mp4)
 [成田沙耶加](https://ja.wikipedia.org/wiki/%E6%88%90%E7%94%B0%E6%B2%99%E8%80%B6%E5%8A%A0)[動画](http://mwsgvs.weathernews.jp/audition/mp4/2014/04.mp4)　帝京平成大学→リポーター
 [木村美和子]()[動画](http://mwsgvs.weathernews.jp/audition/mp4/2014/05.mp4)
-[**高山奈々**](https://ja.wikipedia.org/wiki/%E9%AB%98%E5%B1%B1%E5%A5%88%E3%80%85") (ニコニコお姉さん)[動画](http://mwsgvs.weathernews.jp/audition/mp4/2014/06.mp4)　長岡美少女図鑑→国際こども・福祉カレッジ→日本きものシステム協同組合ドリームエンジェル→WNI
+[**高山奈々**](https://ja.wikipedia.org/wiki/%E9%AB%98%E5%B1%B1%E5%A5%88%E3%80%85) (ニコニコお姉さん)[動画](http://mwsgvs.weathernews.jp/audition/mp4/2014/06.mp4)　長岡美少女図鑑→国際こども・福祉カレッジ→日本きものシステム協同組合ドリームエンジェル→WNI
 [**白井ゆかり**](https://ja.wikipedia.org/wiki/%E7%99%BD%E4%BA%95%E3%82%86%E3%81%8B%E3%82%8A_\(%E6%B0%97%E8%B1%A1%E3%82%AD%E3%83%A3%E3%82%B9%E3%82%BF%E3%83%BC\))(ハッピープリンセス)[動画](http://mwsgvs.weathernews.jp/audition/mp4/2014/07.mp4)　日本大学→WNI
 一般投票：2015.08.01-2015.08.07
 合格者：高山奈々,白井ゆかり
@@ -493,13 +492,15 @@
 一般投票やそれ以前の活動の様子を垣間見る事ができる
 
 ・旧垢
+[眞家泉](https://twitter.com/izumi016)
 [田辺真南葉 【ミスサークル2021】](https://x.com/circle2021_0044)
 [田辺真南葉](https://x.com/manahaballet)
 [田辺真南葉](https://x.com/00000007___0)
 [松本真央](https://x.com/mao_matsumoto_)
 
 
-## インスタグラム
+
+## Instagram
 [福吉貴文 fukuyoshi.takafumi](https://www.instagram.com/fukuyoshi.takafumi/)　利用開始日：2021年07月.テレビ愛媛時代～
 [松本真央 mao__matsumoto](https://www.instagram.com/mao__matsumoto/)　利用開始日：2025年06月.ウェザーニューズ時代
 [松本真央 matsumoto_mao1](https://www.instagram.com/matsumoto_mao1/)　利用開始日：2019年08月.女優・モデル時代
@@ -524,6 +525,7 @@
 * 2005
 [山岸愛梨さんはメロンパン大好き！](https://www.youtube.com/watch?v=DpgxKBWgToE)
 [ザスーラ](https://www.sonypictures.jp/he/74030)
+
 * 2006
 [河合塾 CM 山岸愛梨　2006年](https://www.youtube.com/watch?v=x2wUkgh8Ea4)
 
@@ -543,13 +545,19 @@
 * 2008
 [江川清音　18歳](https://www.youtube.com/watch?v=hK_kpSrBQkI)
 [本日の Update](https://ameblo.jp/weathernews/entry-10167870903.html)
+
 * 2011
 [２０１１　なみはや戦](https://www.youtube.com/watch?v=FcX_8AZFI-I)
 [■ 競技会データ ](https://kyougi.jdsf.or.jp/2011/110903/R110903_02.html#Jmp029)
 [【試合結果】全日本学生競技ダンス選手権大会（冬全）～ラテン～](https://ameblo.jp/waseda-ballroomdance/entry-11098319107.html)
 
+### 眞家泉
+* 2011
+[タダシンヤさん 応援blog.°](https://web.archive.org/web/20120205164908/http://ameblo.jp/izu10731/)　デビュー以前の本人ブログ
+
 ### 松雪彩花
 ※デビュー以前の情報は発見できず
+
 * 2017
 [今週のSOLiVE24迷場面名場面（2017年5月14日）](https://www.youtube.com/watch?v=zYDqUGQ6p60)
 
@@ -572,8 +580,9 @@
 
 ### 高山奈々
 * 2012
-[はじめまして(*^^*)](https://ameblo.jp/sanmah/entry-11153555904.html) 本人ブログ
+[はじめまして(*^^*)](https://ameblo.jp/sanmah/entry-11153555904.html)　デビュー以前の本人ブログ
 [日本カワイイ博、出演モデル](https://ameblo.jp/yu-kob/entry-11197656263.html)
+
 * 2013
 [Twitter 午後7:29 · 2013年7月4日](https://x.com/thekobayashiyu/status/352735937341554689)
 [Twitter 午後9:36 · 2012年10月5日](https://x.com/nibijo/status/254198380299956224)
@@ -584,8 +593,10 @@
 
 * 2014
 [奈良まほろば館](https://ameblo.jp/yuutarochan-0424/entry-11961405183.html)
+
 * 2015
 [ほんまにええとこ関西観光展 in 横浜](http://motopion.seesaa.net/article/413681823.html)
+
 * 2016
 [奈良と山形のおいしいもの盛りだくさん　県庁前でにぎわい回廊](https://sankei-nara-iga.jp/news/archives/9423)
 
@@ -594,17 +605,22 @@
 
 * 2018
 [沙耶デビュー！](https://ameblo.jp/hiroshi-omori/entry-12412548065.html)
+
 * 2019
 [【名場面迷場面】2019年のさやっちワールド38選【檜山沙耶】](https://web.archive.org/web/20230420064105/https://www.youtube.com/watch?v=RtXLGhPFU1M)
+
 * 2020
 [【名場面迷場面】2020年のさやっちワールド38選【檜山沙耶】](https://web.archive.org/web/20210106213559/https://www.youtube.com/watch?v=dEmWurDdHG8)
+
 * 2021
 [檜山沙耶キャスター平成まとめ動画【迷場面】](https://web.archive.org/web/20220522061439/https://www.youtube.com/watch?v=vr7gkj-Oons)
 [緊急地震速報にプロの切り替えで対応する檜山沙耶キャスター](https://web.archive.org/web/20240214153429/https://www.youtube.com/watch?v=oSe5exLXrz4) ※視聴可能 この時点で31,799,713回再生
 [Japan's 'weather queen' goes viral after a bizarre gaffe during her evening bulletin - and her reaction is priceless](https://www.dailymail.co.uk/tvshowbiz/article-10244569/Saya-Hiyama-Japanese-weather-queen-goes-viral-morning-gaffe.html)
 [【名場面迷場面】2021年のさやっちワールド38選【檜山沙耶】](https://web.archive.org/web/20230420064454/https://www.youtube.com/watch?v=ftftFSfwFZk) ※視聴可能
+
 * 2022
 [檜山沙耶キャスター 2022年の迷場面38選](https://web.archive.org/web/20230331093149mp_/https://www.youtube.com/watch?v=fXOUeTIQ6qk) ※視聴可能
+
 * 2023
 [【#ひろがるホロライブDAY1】hololive SUPER EXPO 2023 フリーステージ](https://youtu.be/SAYjyQPDR68?t=2050)
 
@@ -612,6 +628,7 @@
 ### 駒木結衣
 * 2017
 [『ミスオブサークル2017』エントリー紹介　Vol.13](https://media.kawa-colle.jp/_ct/17024343)
+
 * 2019
 [『ミス日本2019 東日本地区大会』出場者25名・水着審査紹介＜写真60枚＞](http://plus.wws-channel.com/?p=13354&page=3)
 
@@ -628,9 +645,13 @@
 ### 武藤彩芽
 [日本タレント名鑑](https://www.vip-times.co.jp/?talent_id=W24-0060)
 
+* 2014
+[FFFFF 第346回 2014年05月17日](https://www.dailymotion.com/video/x20h5pm?start=337)
+
 * 2016
 [宇宙ダンス(ファイターズガール・武藤彩芽さん&安冨優菜さん中心バージョン）](https://www.youtube.com/watch?v=DsujzHpPINk)
 [20160818 ファイターズガール トークショー 武藤彩芽さん篇](https://www.youtube.com/watch?v=CgZrXHx59xY)
+
 * 2018
 [可愛すぎるチアガールからモデルへ…“サツコレが見つけた原石”武藤あやめ、芸能界入り決意の理由＆夢を語る＜モデルプレスインタビュー＞](https://mdpr.jp/interview/detail/1757191)
 
@@ -649,6 +670,7 @@
 [Twitter 午前8:42 · 2019年8月28日](https://x.com/ONEMORNING_1/status/1166496169746288641)
 [Twitter 午前8:36 · 2019年9月11日](https://x.com/ONEMORNING_1/status/1171568250313854976)
 [Twitter 午前8:41 · 2019年9月25日](https://x.com/ONEMORNING_1/status/1176642726621663234)
+
 * 2022
 [ダンゴムシに解説していただきました→私、ダンゴムシじゃないです](https://www.youtube.com/watch?v=tzLGA1-QWfU) 2200万再生
 
@@ -659,8 +681,11 @@
 
 
 ### 川畑玲
-[地球変動のメカニズム](https://www.jst.go.jp/kisoken/crest/report/sh_heisei10/chikyuhendo/yoshizaki.pdf)
+* 1999
 [地球環境システム学講座-OB・OG](https://www.eps.nagoya-u.ac.jp/~geosys/old/mem_ob_og.html)
+
+* 2000
+[地球変動のメカニズム](https://www.jst.go.jp/kisoken/crest/report/sh_heisei10/chikyuhendo/yoshizaki.pdf)
 
 ### 小林李衣奈
 * 2020
@@ -768,19 +793,24 @@
 [Twitter 午後5:32 · 2017年8月5日](https://x.com/ohmura_hideaki/status/893751433773826048)
 [あんじょう 2017.06 No.766](https://anjo-cci.or.jp/imgdb/kaihou/171.pdf)
 [安城七夕まつり 第64回 2017年（平成29年）8月4〜6日](https://anjo-tanabata.jp/know/history/64th)
+
 * 2018
 [2018シーズン最終戦 D-STAGE DD知っ得情報コーナー](https://www.youtube.com/watch?v=8quq0jFwR1c)
 [Twitter](https://x.com/2021_march/status/1748960806094663801)
 [ベースボールメイツOG](https://cheerdra-tairiku.seesaa.net/article/508171332.html)
+
 * 2019
 [Twitter 午後5:51 · 2019年9月15日](https://x.com/darkages71/status/1173157264506490882)
 [Twitter 午後9:15 · 2019年9月18日](https://x.com/e5ltndauDpkTJnt/status/1174295823070318595)
+
 * 2020
 [北京本店](https://pekinhan.love/staff2.php)
 [Twitter 午後7:01 · 2020年11月21日](https://x.com/minnanotanabata/status/1330089018982359043)
+
 * 2022
 [Twitter 午前1:02 · 2022年8月8日](https://x.com/qten_0607/status/1556309902452494337)
 [Twitter 午後9:13 · 2022年8月21日](https://x.com/RhapsodyBerry/status/1561325599506833409)
+
 * 2023
 [愛三工業株式会社](https://career-platform.com/contentsol_7124.html)
 [【愛三工業】会社説明会～Aisanができるカーボンニュートラルへの取り組みとは～](https://www.youtube.com/watch?v=zkGKf2Whny4)
@@ -796,10 +826,12 @@
 ### 福吉貴文
 * 2015
 [Twitter 2015年12月7日](https://x.com/DSBshin/status/673856646553059328)
+
 * 2016
 [Facebook 2016年1月13日](https://www.facebook.com/1044267868929445)
 [同志社大学通信 186 2016 April](https://www.doshisha.ac.jp/attach/page/OFFICIAL-PAGE-JA-494/140987/file/no186.pdf)
 [みんなでわっはっは！音楽で心と体をリフレッシュ！！](https://radiocafe.jp/20161004/episodes/2016-10-20oa/)
+
 * 2017
 [Facebook 2017年5月1日](https://www.facebook.com/1423419381058700)
 [Facebook 2017年5月16日](https://www.facebook.com/1437852806282024)
@@ -809,17 +841,22 @@
 
 * 2014
 [サンミュージックプロフィール 13歳](https://web.archive.org/web/20140704135928/https://www.sunmusic.org/profile/tanabe_manaha.html)
+
 * 2015
 [サンミュージックプロフィール 14歳](https://web.archive.org/web/20150322075356/https://www.sunmusic.org/profile/tanabe_manaha.html)
+
 * 2016
 [サンミュージックプロフィール 15歳](https://web.archive.org/web/20160715114244/https://www.sunmusic.org/profile/tanabe_manaha.html)
+
 * 2017
 [サンミュージックプロフィール 16歳](https://web.archive.org/web/20170420045013/https://www.sunmusic.org/profile/tanabe_manaha.html)
 [16歳のオーディション](https://www.youtube.com/watch?v=24SBJNVktpA)
 [【AI】女子中高生が本格女優を目指して生放送！【第6期1回目】](https://www.youtube.com/watch?v=RyQtuRSXW8c&t=830s)
+
 * 2018
 [アイドルING!!! 【Road to TIF2018】 2018年07月05日20時](https://www.youtube.com/watch?v=0KLT6oZoPrY)
 [吉田由美の眼☆アイドルもハマった!?未来のクルマ好きを育てる「U-18運転予備校」開催](https://www.goodspress.jp/reports/193674/2/)
+
 * 2019
 [【受賞者21人登場】日本一制服が似合う女子＆男子決定！「第6回日本制服アワード」 ](https://www.youtube.com/watch?v=-dsvgePFLsM&t=498s)
 [田辺真南葉 制服アワード準グランプリ受賞記念！直撃インタビュー！！](https://www.youtube.com/watch?v=EmKx4aHKw6M)
@@ -847,6 +884,7 @@
 [新作ケーブルニットベスト&新作リボン🐰🎀](https://www.instagram.com/p/B8k02ssHY7k/)
 [ライトグレーブレザーコーデ🐰🎀](https://www.instagram.com/p/B9Dp3K8HdQl/)
 [ブラウンブレザーコーデ🐰🎀](https://www.instagram.com/p/B-G3nZfnpJW/)
+
 * 2021
 [Twitter 午前1:11 · 2021年4月28日](https://x.com/pupa620/status/1387076987974344708)
 [Twitter 午前1:11 · 2021年4月28日](https://x.com/yama65kawa/status/1387077012926304259)
@@ -873,6 +911,7 @@
 [第40期BSフジ学生キャスター](https://www.instagram.com/p/Ci19y-fPBgU/)
 [instagram](https://www.instagram.com/p/ClildtSpk1W/)
 [卒業生の活躍](https://www.art.nihon-u.ac.jp/career/voice/)
+
 * 2023
 [アナトレ受講者 2023年内定実績](https://anatore.fujitv.co.jp/naitei/)
 [福井テレビ アナウンサープロフィール](https://web.archive.org/web/20240905235447if_/https://www.fukui-tv.co.jp/?announcer=%E7%94%B0%E8%BE%BA-%E7%9C%9F%E5%8D%97%E8%91%89)
@@ -885,6 +924,7 @@
 [あわら市へ出かけた田辺アナ](https://www.instagram.com/reel/CxWrQNONW2h/)
 [北陸新幹線開業に向けた新アクティビティ！敦賀真鯛の釣りと食体験 日本財団 海と日本PROJECT in ふくい 2023 #018](https://www.youtube.com/watch?v=2heSgiOjI2k)
 [ついに解禁!!　味覚の王様「越前がに」が水揚げ　2日遅れで(2023年11月8日)](https://www.youtube.com/watch?v=avGbk8WysZA)
+
 * 2024
 [田辺真南葉アナウンサーから新年のご挨拶🎍](https://www.instagram.com/reel/C1oLrYXLMEO/)
 [田島嘉晃アナウンサーから新年のご挨拶🎍](https://www.instagram.com/reel/C1quVfittC9/)
@@ -951,27 +991,34 @@
 
 ### 松本真央
 [日本タレント名鑑](https://www.vip-times.co.jp/?talent_id=W16-1208)
+
 * 2015
 [フォトテクカレッジ EVENT.017 -AM- 2015.9.19](https://ameblo.jp/technoym0804/entry-12080252090.html)
+
 * 2017
 [PROTO STAR 松本真央 vol.1](https://protostar.jupimar.jp/2017/06/23/matumoto-mao-01ep/)
+
 * 2019
 [「もう一度光を考えよう、影と光のこと。そして被写界深度と表現。」](https://m-tadao.com/workshop_archive/workshop_05-20190727/)
 [第5回 松田忠雄さん ポートレートワークショップ ](https://ameblo.jp/technoym0804/entry-12563189105.html)
 [前田晴香・針尾ありさ・松本真央・西園ゆうゆら出演、自主制作短編ホラー映画「呪鈍」が完成！](https://minicine.jp/1/0531.html)
 [Twitter 午後5:36 · 2019年12月18日](https://x.com/Taroueino/status/1207218166507589632)
+
 * 2020
 [Instagram 2020年1月21日](https://www.instagram.com/p/B7lYwf7Hn6D/?img_index=5)
 [ドラマデザイン社 舞台『ゲートシティーの恋』明日から!!](https://ameblo.jp/aochan67/entry-12566373224.html)
 [藤代冥砂](https://www.instagram.com/p/CInjafBDp5b/)
+
 * 2021
 [邦楽ミュージカル 10周年記念公演](https://www.senzoku-concert.jp/upload/concert/20220513161958JodqtB1Z9eoTz0ja.pdf)
 [【LIVE】邦楽ミュージカル10周年記念公演「恋娘近松合戦！」](https://www.youtube.com/watch?v=kxiMcXJyhJ8)
 [Backstage Romance -Moulin Rouge the Musical より](https://www.senzoku-concert.jp/upload/concert/20220601105807LxmpFk0Y4QFfugYF.pdf)
+
 * 2024
 [Hi-mic Entertainment](https://web.archive.org/web/20240419152738/https://hi-mic-entertainment.jp/matsumoto%20_mao)
 [Twitter 午前3:44 · 2024年3月7日](https://x.com/eketan/status/1765448473728680231)
 [meiji プロバイオ合同 CM 「明治からだ応援団」篇 30秒 ](https://www.youtube.com/watch?v=t7hEUWiFBAs)
+
 * 2025
 [【360 Reality Audio】「アイのマネ」Music Video](https://www.youtube.com/watch?v=qw4SGDqUTGg)
 
@@ -985,8 +1032,7 @@
 [もっと前](https://www.youtube.com/watch?v=kfTq_A9nBM0)
 
 ## ウィキペディアページビュー分析
-期間は手動で
-[上段組](https://pageviews.wmcloud.org/?project=ja.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2025-09-01&end=2025-09-30&pages=%E5%B1%B1%E5%B2%B8%E6%84%9B%E6%A2%A8%7C%E6%B1%9F%E5%B7%9D%E6%B8%85%E9%9F%B3%7C%E6%9D%BE%E9%9B%AA%E5%BD%A9%E8%8A%B1%7C%E7%99%BD%E4%BA%95%E3%82%86%E3%81%8B%E3%82%8A_(%E6%B0%97%E8%B1%A1%E3%82%AD%E3%83%A3%E3%82%B9%E3%82%BF%E3%83%BC)%7C%E9%AB%98%E5%B1%B1%E5%A5%88%E3%80%85%7C%E9%A7%92%E6%9C%A8%E7%B5%90%E8%A1%A3%7C%E5%B7%9D%E7%95%91%E7%8E%B2%7C%E7%A6%8F%E5%90%89%E8%B2%B4%E6%96%87%7C%E7%99%BD%E4%BA%95%E3%82%86%E3%81%8B%E3%82%8A)
-[下段組](https://pageviews.wmcloud.org/?project=ja.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2025-09-01&end=2025-09-30&pages=%E9%AD%9A%E4%BD%8F%E8%8C%89%E7%94%B1%7C%E6%88%B8%E5%8C%97%E7%BE%8E%E6%9C%88%7C%E5%B0%8F%E6%9E%97%E6%9D%8E%E8%A1%A3%E5%A5%88%7C%E5%B0%8F%E5%B7%9D%E5%8D%83%E5%A5%88%7C%E9%9D%92%E5%8E%9F%E6%A1%83%E9%A6%99%7C%E5%B2%A1%E6%9C%AC%E7%B5%90%E5%AD%90%E3%83%AA%E3%82%B5%7C%E7%94%B0%E8%BE%BA%E7%9C%9F%E5%8D%97%E8%91%89%7C%E6%9D%BE%E6%9C%AC%E7%9C%9F%E5%A4%AE)
-[元キャス](https://pageviews.wmcloud.org/?project=ja.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2025-09-01&end=2025-09-30&pages=%E9%88%B4%E6%9C%A8%E9%87%8C%E5%A5%88%7C%E8%A7%92%E7%94%B0%E5%A5%88%E7%B7%92%E5%AD%90%7C%E9%AB%98%E5%AE%89%E5%A5%88%E7%B7%92%E5%AD%90%7C%E6%AD%A6%E8%97%A4%E5%BD%A9%E8%8A%BD%7C%E5%86%85%E7%94%B0%E4%BE%91%E5%B8%8C%7C%E6%AA%9C%E5%B1%B1%E6%B2%99%E8%80%B6%7C%E7%9C%9E%E5%AE%B6%E6%B3%89%7C%E5%A4%A7%E5%B3%B6%E7%92%83%E9%9F%B3)
+[上段組](https://pageviews.wmcloud.org/?project=ja.wikipedia.org&platform=all-access&agent=user&redirects=0&range=latest-30&pages=%E5%B1%B1%E5%B2%B8%E6%84%9B%E6%A2%A8%7C%E6%B1%9F%E5%B7%9D%E6%B8%85%E9%9F%B3%7C%E6%9D%BE%E9%9B%AA%E5%BD%A9%E8%8A%B1%7C%E7%99%BD%E4%BA%95%E3%82%86%E3%81%8B%E3%82%8A_(%E6%B0%97%E8%B1%A1%E3%82%AD%E3%83%A3%E3%82%B9%E3%82%BF%E3%83%BC)%7C%E9%AB%98%E5%B1%B1%E5%A5%88%E3%80%85%7C%E9%A7%92%E6%9C%A8%E7%B5%90%E8%A1%A3%7C%E5%B7%9D%E7%95%91%E7%8E%B2%7C%E7%A6%8F%E5%90%89%E8%B2%B4%E6%96%87%7C%E7%99%BD%E4%BA%95%E3%82%86%E3%81%8B%E3%82%8A)
+[下段組](https://pageviews.wmcloud.org/?project=ja.wikipedia.org&platform=all-access&agent=user&redirects=0&range=latest-30&pages=%E9%AD%9A%E4%BD%8F%E8%8C%89%E7%94%B1%7C%E6%88%B8%E5%8C%97%E7%BE%8E%E6%9C%88%7C%E5%B0%8F%E6%9E%97%E6%9D%8E%E8%A1%A3%E5%A5%88%7C%E5%B0%8F%E5%B7%9D%E5%8D%83%E5%A5%88%7C%E9%9D%92%E5%8E%9F%E6%A1%83%E9%A6%99%7C%E5%B2%A1%E6%9C%AC%E7%B5%90%E5%AD%90%E3%83%AA%E3%82%B5%7C%E7%94%B0%E8%BE%BA%E7%9C%9F%E5%8D%97%E8%91%89%7C%E6%9D%BE%E6%9C%AC%E7%9C%9F%E5%A4%AE)
+[元キャス](https://pageviews.wmcloud.org/?project=ja.wikipedia.org&platform=all-access&agent=user&redirects=0&range=latest-30&pages=%E9%88%B4%E6%9C%A8%E9%87%8C%E5%A5%88%7C%E8%A7%92%E7%94%B0%E5%A5%88%E7%B7%92%E5%AD%90%7C%E9%AB%98%E5%AE%89%E5%A5%88%E7%B7%92%E5%AD%90%7C%E6%AD%A6%E8%97%A4%E5%BD%A9%E8%8A%BD%7C%E5%86%85%E7%94%B0%E4%BE%91%E5%B8%8C%7C%E6%AA%9C%E5%B1%B1%E6%B2%99%E8%80%B6%7C%E7%9C%9E%E5%AE%B6%E6%B3%89%7C%E5%A4%A7%E5%B3%B6%E7%92%83%E9%9F%B3)
 

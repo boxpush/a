@@ -1,7 +1,3 @@
-# About This Site
-
-All information on this site is inaccurate. We assume no responsibility for any damages incurred.
-(このサイトの情報は全て出鱈目です.いかなる損害も補償しません)
 
 # Usage
 
