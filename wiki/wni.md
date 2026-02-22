@@ -11,7 +11,7 @@
 [木島由利香](https://ja.wikipedia.org/wiki/%E6%9C%A8%E5%B3%B6%E7%94%B1%E5%88%A9%E9%A6%99)
 [山田泰葉](https://ja.wikipedia.org/wiki/%E5%B1%B1%E7%94%B0%E6%B3%B0%E8%91%89)
 [野田俊一郎](https://ja.wikipedia.org/wiki/%E9%87%8E%E7%94%B0%E4%BF%8A%E4%B8%80%E9%83%8E)
-[蓬莱大介](https://ja.wikipedia.org/wiki/%E8%93%AC%E8%8E%B1%E5%A4%A7%E4%BB%8B)
+[蓬莱大介](https://ja.wikipedia.org/wiki/%E8%93%AC%E8%8E%B1%E5%A4%A7%E4%BB%8B)　流域治水アンバサダー
 [吉田裕一](https://ja.wikipedia.org/wiki/%E5%90%89%E7%94%B0%E8%A3%95%E4%B8%80_(%E6%B0%97%E8%B1%A1%E4%BA%88%E5%A0%B1%E5%A3%AB))
 [久能木百香](https://ja.wikipedia.org/wiki/%E4%B9%85%E8%83%BD%E6%9C%A8%E7%99%BE%E9%A6%99)
 [細川栞]()
@@ -68,8 +68,9 @@
 [矢澤剛](https://ja.wikipedia.org/wiki/%E7%9F%A2%E6%BE%A4%E5%89%9B)　→ウェザーマップ
 [山本昇治](https://ja.wikipedia.org/wiki/%E5%B1%B1%E6%9C%AC%E6%98%87%E6%B2%BB)
 [大山有布佳](https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%B1%B1%E6%9C%89%E5%B8%83%E4%BD%B3)
-[土井邦裕](https://ja.wikipedia.org/wiki/%E5%9C%9F%E4%BA%95%E9%82%A6%E8%A3%95)　→オフィス気象キャスター
-[山神明理](https://ja.wikipedia.org/wiki/%E5%B1%B1%E7%A5%9E%E6%98%8E%E7%90%86)　→セント・フォース
+[土井邦裕](https://ja.wikipedia.org/wiki/%E5%9C%9F%E4%BA%95%E9%82%A6%E8%A3%95)　→オフィス気象キャスター、流域治水アンバサダー
+[山神明理](https://ja.wikipedia.org/wiki/%E5%B1%B1%E7%A5%9E%E6%98%8E%E7%90%86)　→セント・フォース、流域治水アンバサダー
+[澤麻美](https://ja.wikipedia.org/wiki/%E6%BE%A4%E9%BA%BB%E7%BE%8E)
 [竹内青空]()　→オランダ
 [笠原久司]()
 [諸岡雅美]()　→気象防災アドバイザー
@@ -88,8 +89,6 @@
 
 ## [ウェザーニューズ](https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A7%E3%82%B6%E3%83%BC%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%BA)
 [YouTube](https://www.youtube.com/channel/UCNsidkYpIAQ4QaufptQBPHQ)　[YouTube](https://www.youtube.com/channel/UCmlA2BKb276qVW4nXrbsqhw)
-
-
 
 
 # オーディションとオーボシャンの歴史
