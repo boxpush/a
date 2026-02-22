@@ -42,38 +42,38 @@
 [高森美枝](https://drone-journal.impress.co.jp/docs/special/1182741.html)　執行役員
 
 ## 現在所属していない、元から所属していない、所属未確認
-[角田奈緒子](https://ja.wikipedia.org/wiki/%E9%AB%98%E5%AE%89%E5%A5%88%E7%B7%92%E5%AD%90)　→ウェザーマップ
-[眞家泉](https://ja.wikipedia.org/wiki/%E7%9C%9E%E5%AE%B6%E6%B3%89)　→ヨガインストラクター？
-[菊池真以](https://ja.wikipedia.org/wiki/%E8%8F%8A%E6%B1%A0%E7%9C%9F%E4%BB%A5)　→ウェザーマップ
-[今田佐和子](https://ja.wikipedia.org/wiki/%E4%BB%8A%E7%94%B0%E4%BD%90%E5%92%8C%E5%AD%90)　[SOLiVE出演](https://www.youtube.com/watch?v=Df96_Rujmv4)
+[角田奈緒子](https://ja.wikipedia.org/wiki/%E9%AB%98%E5%AE%89%E5%A5%88%E7%B7%92%E5%AD%90)　WNI→ウェザーマップ
+[眞家泉](https://ja.wikipedia.org/wiki/%E7%9C%9E%E5%AE%B6%E6%B3%89)　WNI→ヨガインストラクター？
+[菊池真以](https://ja.wikipedia.org/wiki/%E8%8F%8A%E6%B1%A0%E7%9C%9F%E4%BB%A5)　WNI→ウェザーマップ
+[今田佐和子](https://ja.wikipedia.org/wiki/%E4%BB%8A%E7%94%B0%E4%BD%90%E5%92%8C%E5%AD%90)　WNI→？　[SOLiVE出演](https://www.youtube.com/watch?v=Df96_Rujmv4)
 [穂川果音](https://ja.wikipedia.org/wiki/%E7%A9%82%E5%B7%9D%E6%9E%9C%E9%9F%B3)　セント・フォース
-[松本あゆ美](https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%9C%AC%E3%81%82%E3%82%86%E7%BE%8E)　→セント・フォース
-[荒嶋恵里子](https://ja.wikipedia.org/wiki/%E8%8D%92%E5%B6%8B%E6%81%B5%E9%87%8C%E5%AD%90)
-[今村涼子](https://ja.wikipedia.org/wiki/%E4%BB%8A%E6%9D%91%E6%B6%BC%E5%AD%90)
+[松本あゆ美](https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%9C%AC%E3%81%82%E3%82%86%E7%BE%8E)　WNI→セント・フォース
+[荒嶋恵里子](https://ja.wikipedia.org/wiki/%E8%8D%92%E5%B6%8B%E6%81%B5%E9%87%8C%E5%AD%90)　WNI→？
+[今村涼子](https://ja.wikipedia.org/wiki/%E4%BB%8A%E6%9D%91%E6%B6%BC%E5%AD%90)　WNI→株式会社オフィスNickNack
 [小西雅子](https://ja.wikipedia.org/wiki/%E5%B0%8F%E8%A5%BF%E9%9B%85%E5%AD%90)
-[斎藤恭紀](https://ja.wikipedia.org/wiki/%E6%96%8E%E8%97%A4%E6%81%AD%E7%B4%80)
-[佐藤栄作](https://ja.wikipedia.org/wiki/%E4%BD%90%E8%97%A4%E6%A0%84%E4%BD%9C_(%E6%B0%97%E8%B1%A1%E4%BA%88%E5%A0%B1%E5%A3%AB))
-[清水とおる](https://ja.wikipedia.org/wiki/%E6%B8%85%E6%B0%B4%E3%81%A8%E3%81%8A%E3%82%8B)
-[清水秀一](https://ja.wikipedia.org/wiki/%E6%B8%85%E6%B0%B4%E7%A7%80%E4%B8%80)
+[斎藤恭紀](https://ja.wikipedia.org/wiki/%E6%96%8E%E8%97%A4%E6%81%AD%E7%B4%80)　WNI→東北放送→株式会社斎藤予報士事務所
+[佐藤栄作](https://ja.wikipedia.org/wiki/%E4%BD%90%E8%97%A4%E6%A0%84%E4%BD%9C_(%E6%B0%97%E8%B1%A1%E4%BA%88%E5%A0%B1%E5%A3%AB))　日産→WNI→株式会社 風見屋代表取締役
+[清水とおる](https://ja.wikipedia.org/wiki/%E6%B8%85%E6%B0%B4%E3%81%A8%E3%81%8A%E3%82%8B)　WNI→フリー
+[清水秀一](https://ja.wikipedia.org/wiki/%E6%B8%85%E6%B0%B4%E7%A7%80%E4%B8%80)　WNI→？
 [鈴木智恵](https://ja.wikipedia.org/wiki/%E9%88%B4%E6%9C%A8%E6%99%BA%E6%81%B5)
-[関嶋梢](https://ja.wikipedia.org/wiki/%E9%96%A2%E5%B6%8B%E6%A2%A2)
-[田口裕美](https://ja.wikipedia.org/wiki/%E7%94%B0%E5%8F%A3%E8%A3%95%E7%BE%8E)
-[寺尾直樹](https://ja.wikipedia.org/wiki/%E5%AF%BA%E5%B0%BE%E7%9B%B4%E6%A8%B9)
-[徳丸友紀](https://ja.wikipedia.org/wiki/%E5%BE%B3%E4%B8%B8%E5%8F%8B%E7%B4%80)
-[中川祐子](https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%B7%9D%E7%A5%90%E5%AD%90)
-[原田健成](https://ja.wikipedia.org/wiki/%E5%8E%9F%E7%94%B0%E5%81%A5%E6%88%90)
-[藤井南美](https://ja.wikipedia.org/wiki/%E8%97%A4%E4%BA%95%E5%8D%97%E7%BE%8E)
-[船木正人](https://ja.wikipedia.org/wiki/%E8%88%B9%E6%9C%A8%E6%AD%A3%E4%BA%BA)
-[正木明](https://ja.wikipedia.org/wiki/%E6%AD%A3%E6%9C%A8%E6%98%8E)
-[矢澤剛](https://ja.wikipedia.org/wiki/%E7%9F%A2%E6%BE%A4%E5%89%9B)　→ウェザーマップ
-[山本昇治](https://ja.wikipedia.org/wiki/%E5%B1%B1%E6%9C%AC%E6%98%87%E6%B2%BB)
-[大山有布佳](https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%B1%B1%E6%9C%89%E5%B8%83%E4%BD%B3)
-[土井邦裕](https://ja.wikipedia.org/wiki/%E5%9C%9F%E4%BA%95%E9%82%A6%E8%A3%95)　→オフィス気象キャスター、流域治水アンバサダー
-[山神明理](https://ja.wikipedia.org/wiki/%E5%B1%B1%E7%A5%9E%E6%98%8E%E7%90%86)　→セント・フォース、流域治水アンバサダー
-[澤麻美](https://ja.wikipedia.org/wiki/%E6%BE%A4%E9%BA%BB%E7%BE%8E)　→オフィス気象キャスター、流域治水アンバサダー
-[竹内青空]()　→オランダ
+[関嶋梢](https://ja.wikipedia.org/wiki/%E9%96%A2%E5%B6%8B%E6%A2%A2)　WNI→？
+[田口裕美](https://ja.wikipedia.org/wiki/%E7%94%B0%E5%8F%A3%E8%A3%95%E7%BE%8E)　WNI→？
+[寺尾直樹](https://ja.wikipedia.org/wiki/%E5%AF%BA%E5%B0%BE%E7%9B%B4%E6%A8%B9)　WNI→？
+[徳丸友紀](https://ja.wikipedia.org/wiki/%E5%BE%B3%E4%B8%B8%E5%8F%8B%E7%B4%80)　WNI→？
+[中川祐子](https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%B7%9D%E7%A5%90%E5%AD%90)　WNI→株式会社オフィスコットン→グラビア
+[原田健成](https://ja.wikipedia.org/wiki/%E5%8E%9F%E7%94%B0%E5%81%A5%E6%88%90)　WNI→？
+[藤井南美](https://ja.wikipedia.org/wiki/%E8%97%A4%E4%BA%95%E5%8D%97%E7%BE%8E)　WNI→フリー
+[船木正人](https://ja.wikipedia.org/wiki/%E8%88%B9%E6%9C%A8%E6%AD%A3%E4%BA%BA)　WNI→株式会社オフィスNickNack代表取締役
+[正木明](https://ja.wikipedia.org/wiki/%E6%AD%A3%E6%9C%A8%E6%98%8E)　WNI→？
+[矢澤剛](https://ja.wikipedia.org/wiki/%E7%9F%A2%E6%BE%A4%E5%89%9B)　WNI→ウェザーマップ
+[山本昇治](https://ja.wikipedia.org/wiki/%E5%B1%B1%E6%9C%AC%E6%98%87%E6%B2%BB)　WNI→？
+[大山有布佳](https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%B1%B1%E6%9C%89%E5%B8%83%E4%BD%B3)　WNI→？
+[土井邦裕](https://ja.wikipedia.org/wiki/%E5%9C%9F%E4%BA%95%E9%82%A6%E8%A3%95)　WNI→オフィス気象キャスター、流域治水アンバサダー
+[山神明理](https://ja.wikipedia.org/wiki/%E5%B1%B1%E7%A5%9E%E6%98%8E%E7%90%86)　WNI→セント・フォース、流域治水アンバサダー
+[澤麻美](https://ja.wikipedia.org/wiki/%E6%BE%A4%E9%BA%BB%E7%BE%8E)　WNI→オフィス気象キャスター、流域治水アンバサダー
+[竹内青空]()　WNI→オランダ
 [笠原久司]()
-[諸岡雅美]()　→気象防災アドバイザー
+[諸岡雅美]()　WNI→気象防災アドバイザー
 [山下裕也]()
 
 # 気象予報士を擁する企業
