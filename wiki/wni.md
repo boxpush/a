@@ -69,7 +69,7 @@
 [山本昇治](https://ja.wikipedia.org/wiki/%E5%B1%B1%E6%9C%AC%E6%98%87%E6%B2%BB)
 [大山有布佳](https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%B1%B1%E6%9C%89%E5%B8%83%E4%BD%B3)
 [土井邦裕](https://ja.wikipedia.org/wiki/%E5%9C%9F%E4%BA%95%E9%82%A6%E8%A3%95)　→オフィス気象キャスター、流域治水アンバサダー
-[山神明理](https://ja.wikipedia.org/wiki/%E5%B1%B1%E7%A5%9E%E6%98%8E%E7%90%86)　→セント・フォース、c
+[山神明理](https://ja.wikipedia.org/wiki/%E5%B1%B1%E7%A5%9E%E6%98%8E%E7%90%86)　→セント・フォース、流域治水アンバサダー
 [澤麻美](https://ja.wikipedia.org/wiki/%E6%BE%A4%E9%BA%BB%E7%BE%8E)　→オフィス気象キャスター、流域治水アンバサダー
 [竹内青空]()　→オランダ
 [笠原久司]()
