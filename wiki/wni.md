@@ -990,6 +990,11 @@
 
 ### 松本真央
 [日本タレント名鑑](https://www.vip-times.co.jp/?talent_id=W16-1208)
+[ザテレビジョン](https://thetv.jp/person/2000014135/)
+[オーディションサイトnarrow（ナロー）](https://narrow.jp/talent/159331)
+[FOD](https://fod.fujitv.co.jp/person/W16-1208/)
+[タレント辞書](https://talent-dictionary.com/%E6%9D%BE%E6%9C%AC%E7%9C%9F%E5%A4%AE)
+[Gガイド.テレビ王国](https://www.tvkingdom.jp/talent/%E6%9D%BE%E6%9C%AC%E7%9C%9F%E5%A4%AE)
 
 * 2015
 [フォトテクカレッジ EVENT.017 -AM- 2015.9.19](https://ameblo.jp/technoym0804/entry-12080252090.html)
@@ -1020,6 +1025,8 @@
 [Instagram 2021年2月24日](https://www.instagram.com/p/CLrcAxVjKF8/)
 [Instagram2021年4月19日](https://www.instagram.com/p/CN0A2KKj_VC/)
 
+[Spring Musical Showcase Vol.3](https://www.senzoku-concert.jp/upload/concert/202204131111158l4GRo3510N0ag9e.pdf)
+[Summer Musical Showcase](https://www.senzoku-concert.jp/upload/concert/20220428163330E4UtVcxJF0FpZE2Y.pdf)
 [邦楽ミュージカル 10周年記念公演](https://www.senzoku-concert.jp/upload/concert/20220513161958JodqtB1Z9eoTz0ja.pdf)
 [【LIVE】邦楽ミュージカル10周年記念公演「恋娘近松合戦！」](https://www.youtube.com/watch?v=kxiMcXJyhJ8)
 [Backstage Romance -Moulin Rouge the Musical より](https://www.senzoku-concert.jp/upload/concert/20220601105807LxmpFk0Y4QFfugYF.pdf)
@@ -1031,6 +1038,9 @@
 
 * 2025
 [【360 Reality Audio】「アイのマネ」Music Video](https://www.youtube.com/watch?v=qw4SGDqUTGg)
+
+[宝塚受験にも挑戦した女優出身・松本真央、“縁”に導かれてお天気キャスターに　「墓場まで持って行きたい」ハプニングも明かす](https://news.mynavi.jp/article/20250927-maomatsumoto/)
+
 
 ### 石橋博良
 [第70回　株式会社ウェザーニューズ 石橋博良](https://www.dreamgate.gr.jp/contents/case/interview/36111)
