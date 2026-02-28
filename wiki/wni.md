@@ -993,22 +993,33 @@
 
 * 2015
 [フォトテクカレッジ EVENT.017 -AM- 2015.9.19](https://ameblo.jp/technoym0804/entry-12080252090.html)
+[Instagram 2015年10月21日](https://www.instagram.com/p/9GWrnbnhw9/)
 
 * 2017
 [PROTO STAR 松本真央 vol.1](https://protostar.jupimar.jp/2017/06/23/matumoto-mao-01ep/)
+[Instagram 2017年8月30日](https://www.instagram.com/p/BYaZmiLFiuL/)
+[Instagram 2017年9月5日](https://www.instagram.com/p/BYpJrc9lG4r/)
 
 * 2019
 [「もう一度光を考えよう、影と光のこと。そして被写界深度と表現。」](https://m-tadao.com/workshop_archive/workshop_05-20190727/)
 [第5回 松田忠雄さん ポートレートワークショップ ](https://ameblo.jp/technoym0804/entry-12563189105.html)
 [前田晴香・針尾ありさ・松本真央・西園ゆうゆら出演、自主制作短編ホラー映画「呪鈍」が完成！](https://minicine.jp/1/0531.html)
+[Twitter 午前1:13 · 2019年12月18日](https://x.com/Taroueino/status/1206970798843416576)
 [Twitter 午後5:36 · 2019年12月18日](https://x.com/Taroueino/status/1207218166507589632)
+[Twitter 午後4:22 · 2019年12月29日](https://x.com/entameclipnews/status/1211185589489258497)
 
 * 2020
 [Instagram 2020年1月21日](https://www.instagram.com/p/B7lYwf7Hn6D/?img_index=5)
-[ドラマデザイン社 舞台『ゲートシティーの恋』明日から!!](https://ameblo.jp/aochan67/entry-12566373224.html)
-[藤代冥砂](https://www.instagram.com/p/CInjafBDp5b/)
+[舞台「ゲートシティの恋」](https://t.livepocket.jp/e/gatecity2020)
+[ドラマデザイン社 舞台『ゲートシティの恋』明日から!!](https://ameblo.jp/aochan67/entry-12566373224.html)
+[Instagram 2020年12月10日](https://www.instagram.com/p/CInjafBDp5b/)
 
 * 2021
+[Instagram 2021年1月3日](https://www.instagram.com/p/CJj0K-eD6pK/)
+[Instagram 2021年1月10日](https://www.instagram.com/p/CJ2_A3UjD7B/)
+[Instagram 2021年2月24日](https://www.instagram.com/p/CLrcAxVjKF8/)
+[Instagram2021年4月19日](https://www.instagram.com/p/CN0A2KKj_VC/)
+
 [邦楽ミュージカル 10周年記念公演](https://www.senzoku-concert.jp/upload/concert/20220513161958JodqtB1Z9eoTz0ja.pdf)
 [【LIVE】邦楽ミュージカル10周年記念公演「恋娘近松合戦！」](https://www.youtube.com/watch?v=kxiMcXJyhJ8)
 [Backstage Romance -Moulin Rouge the Musical より](https://www.senzoku-concert.jp/upload/concert/20220601105807LxmpFk0Y4QFfugYF.pdf)
