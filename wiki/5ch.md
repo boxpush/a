@@ -1,3 +1,4 @@
+【WNI】ウェザ一ニュ一スLiVE 実況 Part 740	https://mao.5ch.net/test/read.cgi/endless/1772418265/
 【WNI】ウェザ一ニュ一スLiVE 実況 Part 739	https://mao.5ch.net/test/read.cgi/endless/1772107108/
 【WNI】ウェザ一ニュ一スLiVE 実況 Part 738	https://mao.5ch.net/test/read.cgi/endless/1771870791/
 【WNI】ウェザ一ニュ一スLiVE 実況 Part 738(6)	https://mao.5ch.net/test/read.cgi/endless/1771857386/
