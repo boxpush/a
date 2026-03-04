@@ -836,6 +836,7 @@
 [Facebook 2017年5月16日](https://www.facebook.com/1437852806282024)
 
 ### 田辺真南葉
+[WEBザテレビジョン](https://thetv.jp/person/2090005583/)
 [FOD](https://fod.fujitv.co.jp/person/SMB-135481/)
 
 * 2014
@@ -858,6 +859,7 @@
 
 * 2019
 [【受賞者21人登場】日本一制服が似合う女子＆男子決定！「第6回日本制服アワード」 ](https://www.youtube.com/watch?v=-dsvgePFLsM&t=498s)
+[“日本一制服の似合う女子”は藤田ニコル＆中条あやみに憧れる中学1年生](https://thetv.jp/news/detail/177266/)
 [田辺真南葉 制服アワード準グランプリ受賞記念！直撃インタビュー！！](https://www.youtube.com/watch?v=EmKx4aHKw6M)
 [Twitter 午後10:55 · 2019年2月9日](https://x.com/shimizu11017264/status/1094233381120860161)
 [Twitter 午後10:32 · 2019年2月9日](https://x.com/shimizu11017264/status/1094227609846657026)
