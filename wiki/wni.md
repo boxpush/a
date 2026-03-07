@@ -502,13 +502,13 @@
 ## Instagram
 [福吉貴文 fukuyoshi.takafumi](https://www.instagram.com/fukuyoshi.takafumi/)　利用開始日：2021年07月.テレビ愛媛時代～
 [松本真央 mao__matsumoto](https://www.instagram.com/mao__matsumoto/)　利用開始日：2025年06月.ウェザーニューズ時代
-[松本真央 matsumoto_mao1](https://www.instagram.com/matsumoto_mao1/)　利用開始日：2019年08月.女優・モデル時代
+[松本真央 matsumoto_mao1](https://www.instagram.com/matsumoto_mao1/)　(private)利用開始日：2019年08月.女優・モデル時代
 [田辺真南葉 manahatanabe](https://www.instagram.com/manahatanabe/)　利用開始日：2025年06月.ウェザーニューズ時代
-[田辺真南葉 manaha_tanabe_](https://www.instagram.com/manaha_tanabe_/)　利用開始日：2023年09月.福井テレビ時代
-[田辺真南葉 manaha_tanabe](https://www.instagram.com/manaha_tanabe/)　(非公開)利用開始日：2015年07月.アイドル時代　[Instagrammer News](https://instagrammernews.com/user/1911824217)
+[田辺真南葉 manaha_tanabe_](https://www.instagram.com/manaha_tanabe_/)　(private)利用開始日：2023年09月.福井テレビ時代
+[田辺真南葉 manaha_tanabe](https://www.instagram.com/manaha_tanabe/)　(利用解除or削除)利用開始日：2015年07月.アイドル時代　[Instagrammer News](https://instagrammernews.com/user/1911824217)
 [田辺真南葉 manahatanabe_](https://www.instagram.com/manahatanabe_/)　(利用解除or削除)利用開始日:2013年10月　2025年07月の時点では非公開ながら存在していた
-[田辺真南葉 manaha_ha_](https://www.instagram.com/manaha_ha_)　※おそらくミスコン用
-[小林李衣奈](https://www.instagram.com/mskonan20_no6/)　ミスコン
+[田辺真南葉 manaha_ha_](https://www.instagram.com/manaha_ha_)　(利用解除or削除)おそらくミスコン用
+[小林李衣奈](https://www.instagram.com/mskonan20_no6/)　(利用解除or削除)ミスコン
 
 
 ## Treads
