@@ -839,11 +839,16 @@
 [WEBザテレビジョン](https://thetv.jp/person/2090005583/)
 [FOD](https://fod.fujitv.co.jp/person/SMB-135481/)
 
+* 2012
+[第6回 FLAP 全国バレエコンクール　2012冬](https://kk-video.co.jp/old/concours/flap/006/ch_etc.shtml)
+
 * 2014
 [サンミュージックプロフィール 13歳](https://web.archive.org/web/20140704135928/https://www.sunmusic.org/profile/tanabe_manaha.html)
+[第1回東京シティ・バレエ団全国バレエコンペティション](https://kk-video.co.jp/old/concours/tokyocity/001/jrb_etc.shtml)
 
 * 2015
 [サンミュージックプロフィール 14歳](https://web.archive.org/web/20150322075356/https://www.sunmusic.org/profile/tanabe_manaha.html)
+[第2回東京シティ・バレエ団全国バレエコンペティション](https://kk-video.co.jp/old/concours/tokyocity/002/index.shtml#06)
 
 * 2016
 [サンミュージックプロフィール 15歳](https://web.archive.org/web/20160715114244/https://www.sunmusic.org/profile/tanabe_manaha.html)
@@ -910,7 +915,7 @@
 [ミスコン受賞女子大生が注目する　神戸街歩き](https://kisspress.jp/features/12672/)
 [4/30(土)放送 田辺真南葉出演 週刊ブライムオンラインS](https://ameblo.jp/kazu-youta/entry-12741093763.html)
 [第40期BSフジ学生キャスター](https://www.instagram.com/p/Ci19y-fPBgU/)
-[instagram](https://www.instagram.com/p/ClildtSpk1W/)
+[instagram 2022年11月29日](https://www.instagram.com/p/ClildtSpk1W/)
 [卒業生の活躍](https://www.art.nihon-u.ac.jp/career/voice/)
 
 * 2023
