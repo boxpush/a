@@ -834,6 +834,43 @@
 * 2017
 [Facebook 2017年5月1日](https://www.facebook.com/1423419381058700)
 [Facebook 2017年5月16日](https://www.facebook.com/1437852806282024)
+[Twitter 午後7:53 · 2017年11月3日](https://x.com/vivit_tvehime/status/926402022516994048)
+
+* 2019
+[Twitter 午後7:42 · 2019年3月29日](https://x.com/vivit_tvehime/status/1111579413479514112)
+[Twitter 午後1:23 · 2019年8月11日](https://x.com/vivit_tvehime/status/1160406279434543104)
+[Instagram 2019年8月12日](https://www.instagram.com/p/B1EL_DOJbSv/)
+[Instagram 2019年8月12日](https://www.instagram.com/p/B1B3-qLHwQn/)
+[Instagram 2019年9月14日](https://www.instagram.com/p/B2X0Qs7FXPc/)
+[Instagram 2019年10月30日](https://www.instagram.com/p/B4PF0QzlwYm/)
+[Instagram 2019年11月1日](https://www.instagram.com/p/B4UXt9IFEP_/)
+[2019.11.17 テレビ愛媛アナウンサーの皆さんによるオタ芸を見てきた！](https://www.youtube.com/watch?v=a7bexo5h_yI)
+
+* 2020
+[2020.04.21 福吉アナのビビットくんぬりえ](https://www.youtube.com/watch?v=qUPjZpZueck)
+[2020.05.01 「お婆さんの当たりクジ」Ｈ３０年度 　松田良弘（大阪府）愛顔感動ものがたり　エピソード部門　入賞作品](https://www.youtube.com/watch?v=TItZpHQupdA)
+[2020.07.27 「海辺の生活」平成29年度　西岡奈緒子（神奈川県）愛顔感動ものがたり「エピソード部門」一般の部 特別賞](https://www.youtube.com/watch?v=j3uh0MJchDE)
+[Twitter 午後7:23 · 2020年9月7日](https://x.com/vivit_tvehime/status/1302915396551417856)
+[Twitter 午後9:18 · 2020年9月8日](https://x.com/vivit_tvehime/status/1303306823882080256)
+[Twitter 午後6:34 · 2020年9月28日](https://x.com/vivit_tvehime/status/1310513323289374720)
+[2020.10.02 「届けられたニコちゃんマーク」　平成27年度　大野裕子（愛媛県）愛顔感動ものがたり　「エピソード部門」入選](https://www.youtube.com/watch?v=PEg64u4TbM0)
+[Twitter 午後9:48 · 2020年11月9日](https://x.com/vivit_tvehime/status/1325782415801937920)
+[Twitter 午前0:29 · 2020年11月25日](https://x.com/vivit_tvehime/status/1331258742428422144)
+[Twitter 午前1:06 · 2020年12月10日](https://x.com/vivit_tvehime/status/1336703873793183744)
+[Instagram 2020年12月11日](https://www.instagram.com/p/CIpVAezjx8r/)
+
+* 2021
+[Instagram 2021年1月21日](https://www.instagram.com/p/CKTO3ELjzV_/)
+[Twitter 午前0:50 · 2021年3月19日](https://x.com/vivit_tvehime/status/1372576093320802304)
+[2021.06.18 気象庁が新たに発表へ　―ただちに命を守る行動を！ ≪防災≫](https://www.youtube.com/watch?v=VGtZKCAYIfg)
+[2021.07.02 衝撃の浸水想定に事前の備えを！≪防災≫](https://www.youtube.com/watch?v=X6sIGSIiuvA)
+[2021.07.09 私たちはいつ逃げるべきか≪防災≫](https://www.youtube.com/watch?v=YK-i3kaz86U)
+[2021.07.09 被災から教訓を-- 『語り部０１８のむら』](https://www.youtube.com/watch?v=mM3a21pR0io)
+
+* 2022
+[2022.05.12 【#青春にエール】福吉アナが30秒で語ります！](https://www.youtube.com/watch?v=XAbXZhJaUZo)
+[2022.05.06 【#Shorts】ニュースな女子のニュースな毎日『#4 取材の前は…』](https://www.youtube.com/watch?v=ub24jhw9PmA)
+[2022.06.10 【梅雨対策】ジメジメ解消！気分もアガる！２０２２愛媛の最新梅雨グッズ](https://www.youtube.com/watch?v=_0cMQZCTFW0)
 
 ### 田辺真南葉
 [WEBザテレビジョン](https://thetv.jp/person/2090005583/)
