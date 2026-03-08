@@ -520,6 +520,7 @@
 ## リンク
 
 ### 山岸愛梨
+[TV出演情報](https://www.oricon.co.jp/prof/1004683/tv/)
 
 * 2005
 [山岸愛梨さんはメロンパン大好き！](https://www.youtube.com/watch?v=DpgxKBWgToE)
@@ -529,6 +530,7 @@
 [河合塾 CM 山岸愛梨　2006年](https://www.youtube.com/watch?v=x2wUkgh8Ea4)
 
 * 2009
+[超ラジ！Ｒｏｏｋｉｅ　～GRATITUDE](https://www.nicovideo.jp/watch/sm6529357)
 [《山岸愛梨》秘蔵VTR集](https://www.youtube.com/watch?v=oeenAsMkM6Q)
 [13年(2022/04/27)水　山岸愛梨](https://youtu.be/J6MNAT5kOsM?t=476)
 [全力坂 №600浄瑠璃坂 山岸愛梨](https://www.youtube.com/watch?v=OSXPxiCoBrA)
