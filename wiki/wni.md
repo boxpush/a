@@ -838,6 +838,12 @@
 [Facebook 2017年5月16日](https://www.facebook.com/1437852806282024)
 [Twitter 午後7:53 · 2017年11月3日](https://x.com/vivit_tvehime/status/926402022516994048)
 
+* 2018
+[Twitter 午前10:07 · 2018年1月1日](https://x.com/vivit_tvehime/status/947635279111774208)
+[Twitter 午前9:14 · 2018年1月3日](https://x.com/vivit_tvehime/status/948346882492833792)
+[Twitter 午後3:01 · 2018年4月13日](https://x.com/vivit_tvehime/status/984672970302869504)
+[Twitter 午後6:06 · 2018年12月28日](https://x.com/vivit_tvehime/status/1078577967939244032)
+
 * 2019
 [Twitter 午後7:42 · 2019年3月29日](https://x.com/vivit_tvehime/status/1111579413479514112)
 [Twitter 午後1:23 · 2019年8月11日](https://x.com/vivit_tvehime/status/1160406279434543104)
