@@ -450,7 +450,7 @@
 応募：--　合格：２名　倍率：--倍
 合格者：
 [**田辺真南葉**](https://ja.wikipedia.org/wiki/%E7%94%B0%E8%BE%BA%E7%9C%9F%E5%8D%97%E8%91%89)　サンミュージック→R's→アイドルING!!!→日本大学芸術学部→日本制服アワード準グランプリ→MISS CIRCLE CONTEST 2021審査員特別賞→BSフジ学生キャスター→福井テレビアナウンサー→WNI
-[**松本真央**](https://ja.wikipedia.org/w/index.php?title=%E6%9D%BE%E6%9C%AC%E7%9C%9F%E5%A4%AE&oldid=105951115)　洗足学園音楽大学→Hi-mic Entertainment→WNI
+[**松本真央**](https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%9C%AC%E7%9C%9F%E5%A4%AE)　洗足学園音楽大学→Hi-mic Entertainment→WNI
 
 # 企業情報
 業種：情報・通信業
