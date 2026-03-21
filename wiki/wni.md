@@ -1083,6 +1083,9 @@
 [【LIVE】邦楽ミュージカル10周年記念公演「恋娘近松合戦！」](https://www.youtube.com/watch?v=kxiMcXJyhJ8)
 [Backstage Romance -Moulin Rouge the Musical より](https://www.senzoku-concert.jp/upload/concert/20220601105807LxmpFk0Y4QFfugYF.pdf)
 
+* 2023
+[Instagram 三菱鉛筆 ジェットストリーム WebCM](https://www.instagram.com/p/CzTvbKvSUx6/?img_index=2)
+
 * 2024
 [Hi-mic Entertainment](https://web.archive.org/web/20240419152738/https://hi-mic-entertainment.jp/matsumoto%20_mao)
 [Twitter 午前3:44 · 2024年3月7日](https://x.com/eketan/status/1765448473728680231)
