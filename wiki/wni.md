@@ -1090,6 +1090,7 @@
 [Hi-mic Entertainment](https://web.archive.org/web/20240419152738/https://hi-mic-entertainment.jp/matsumoto%20_mao)
 [Twitter 午前3:44 · 2024年3月7日](https://x.com/eketan/status/1765448473728680231)
 [meiji プロバイオ合同 CM 「明治からだ応援団」篇 30秒 ](https://www.youtube.com/watch?v=t7hEUWiFBAs)
+[Real Your Shine](https://www.youtube.com/playlist?list=PLQXTwbYdbzldIFvEnuKaYxlFtQfmPltHU)
 
 * 2025
 [【360 Reality Audio】「アイのマネ」Music Video](https://www.youtube.com/watch?v=qw4SGDqUTGg)
