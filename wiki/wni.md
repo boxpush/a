@@ -1085,6 +1085,7 @@
 
 * 2023
 [Instagram 三菱鉛筆 ジェットストリーム WebCM](https://www.instagram.com/p/CzTvbKvSUx6/?img_index=2)
+[超次元ミュージカル「ネプテューヌ」ダイジェスト](https://www.youtube.com/watch?v=d8gTjZMgarY)
 
 * 2024
 [Hi-mic Entertainment](https://web.archive.org/web/20240419152738/https://hi-mic-entertainment.jp/matsumoto%20_mao)
