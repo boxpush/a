@@ -3073,7 +3073,7 @@
 20260427	00:00			
 20260427	05:00	g_LnloKMUTk	モ	tanabe2025
 20260427	08:00	hJJHv2d2qUQ	サ	aohara2023
-20260427	11:00	sHUWWrSyxb0	コ	okamoto2023
+20260427	11:00	F5xyu2lILwU	コ	okamoto2023
 20260427	14:00	qOIvG6wQ2aE	ア	ailin
 20260427	17:00	yrKrCiGd6zk	イ	tokita
 20260427	20:00	LpWgUgLw4xA	ム	kobayashi
@@ -3081,3 +3081,4 @@
 20260428	00:00			
 20260428	05:00		モ	aohara2023
 20260428	08:00		サ	okamoto2023
+20260428	11:00		コ	shirai
