@@ -21,7 +21,6 @@
 [山上和浩]()
 
 ## 予報センター、社員など
-[森田清輝]()　元取締役,元執行役員
 [内藤邦裕](https://ja.wikipedia.org/wiki/%E5%86%85%E8%97%A4%E9%82%A6%E8%A3%95)
 [宇野沢達也](https://ja.wikipedia.org/wiki/%E5%AE%87%E9%87%8E%E6%B2%A2%E9%81%94%E4%B9%9F)
 [芳野達郎]()
@@ -42,6 +41,7 @@
 [高森美枝](https://drone-journal.impress.co.jp/docs/special/1182741.html)　執行役員
 
 ## 現在所属していない、元から所属していない、所属未確認
+[森田清輝]()　元取締役,元執行役員
 [角田奈緒子](https://ja.wikipedia.org/wiki/%E9%AB%98%E5%AE%89%E5%A5%88%E7%B7%92%E5%AD%90)　WNI→ウェザーマップ
 [眞家泉](https://ja.wikipedia.org/wiki/%E7%9C%9E%E5%AE%B6%E6%B3%89)　WNI→ヨガインストラクター？
 [菊池真以](https://ja.wikipedia.org/wiki/%E8%8F%8A%E6%B1%A0%E7%9C%9F%E4%BB%A5)　WNI→ウェザーマップ
