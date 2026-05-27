@@ -3273,7 +3273,7 @@
 20260522	00:00			
 20260522	05:00	B5dI9asLc5c	モ	uozumi
 20260522	08:00	-zfZVhGNqlM	サ	tanabe2025
-20260522	11:00	Q3_O22LtVmI	コ	matsumoto2025
+20260522	11:00		コ	matsumoto2025
 20260522	14:00	eWXegXZo5T4	ア	tokita
 20260522	17:00	TCN74xRydAU	イ	komaki2018
 20260522	20:00	BSJSH7jaVyw	ム	kobayashi
@@ -3323,11 +3323,11 @@
 20260528	08:00	WeLM8nxvNw0	サ	tanabe2025
 20260528	11:00	lnVvA8UpZFI	コ	matsumoto2025
 20260528	14:00	mRe-wpwVp78	ア	tokita
-20260528	17:00		イ	komaki2018
-20260528	20:00		ム	kobayashi
+20260528	17:00	lAaDv9voLG4	イ	komaki2018
+20260528	20:00	9fdshBlyAdg	ム	kobayashi
 20260528	23:00			
 20260529	00:00			
-20260529	05:00		モ	uozumi
+20260529	05:00	3BgwsuAcoh4	モ	uozumi
 20260529	08:00		サ	tanabe2025
 20260529	11:00		コ	matsumoto2025
 20260529	14:00		ア	shirai
