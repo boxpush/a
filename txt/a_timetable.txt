@@ -3339,7 +3339,7 @@
 20260530	08:00	eQvpawiwI9Q	サ	uozumi
 20260530	11:00	SgbR50uFdiA	コ	aohara2023
 20260530	14:00	t-63W-WWrbE	ア	kobayashi
-20260530	17:00	N7x5OmxCdN4	イ	
+20260530	17:00	N7x5OmxCdN4	イ	kobayashi
 20260530	20:00	W-uny7x0krs	ム	tokita
 20260530	23:00			
 20260531	00:00			
@@ -3348,3 +3348,4 @@
 20260531	11:00		コ	aohara2023
 20260531	14:00		ア	ailin
 20260531	17:00		イ	ogawa
+20260531	20:00		ム	tokita
