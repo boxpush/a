@@ -1,0 +1,6 @@
+*.log
+*.db
+src/__pycache__
+src/data
+
+txt/wnl_subject.txt
