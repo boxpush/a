@@ -87,6 +87,9 @@
 ## [オフィス気象キャスター](https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%95%E3%82%A3%E3%82%B9%E6%B0%97%E8%B1%A1%E3%82%AD%E3%83%A3%E3%82%B9%E3%82%BF%E3%83%BC)
 [気象予報士一覧](https://www.office-weather.jp/caster/)　[YouTube](https://www.youtube.com/channel/UCzXAIUHJcywd-pqUO5g9nJg)
 
+## [南気象予報士事務所](https://ja.wikipedia.org/w/index.php?title=%E5%8D%97%E6%B0%97%E8%B1%A1%E4%BA%88%E5%A0%B1%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&redirect=no)
+[気象予報士一覧](https://tenki-minami.co.jp/weather-forecaster/)　[YouTube](https://www.youtube.com/channel/UCu0DJmqN6el9TI-LxyXHQnw)
+
 ## [ウェザーニューズ](https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A7%E3%82%B6%E3%83%BC%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%BA)
 [YouTube](https://www.youtube.com/channel/UCNsidkYpIAQ4QaufptQBPHQ)　[YouTube](https://www.youtube.com/channel/UCmlA2BKb276qVW4nXrbsqhw)
 
