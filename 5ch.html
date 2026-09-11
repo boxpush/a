@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <title>Redirecting...</title>
+  <script>
+     const REDIRECT_TO = "https://boxpush.netlify.app/5ch";
+    location.replace(REDIRECT_TO);
+    document.addEventListener("DOMContentLoaded", () => {
+      const link = document.getElementById("redirect-link");
+      if (link) link.href = REDIRECT_TO;
+    });
+  </script>
+</head>
+<body>
+  <p>
+    <a id="redirect-link" href="#">こちら</a>
+  </p>
+</body>
+</html>

@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" href="../favicon.ico" type="image/x-icon">
+  <title>Tips</title>
+  <style>
+    .link-container {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+
+    .link-container a {
+      align-self: flex-start;
+    }
+
+    #img {
+      width: 64px;
+      height: auto;
+      animation: slowGrow 1h ease-in forwards;
+    }
+
+    @keyframes slowGrow {
+      from {
+        width: 64px;
+      }
+
+      to {
+        width: 256px;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <h1>Tips</h1>
+  <div style="text-align: center;">
+    <img src="../media/koike.png" width=auto height=auto>
+  </div>
+  <div style="margin-bottom: 256px;"></div>
+  <h3>ライブ中のyoutube動画IDを取得するワンライナー</h3>
+  <pre style="white-space: pre-wrap;word-wrap: break-word;">
+python3 -c "import requests,re;print(re.search(r'タップしてライブを視聴.*?/watch\?v=([\w-]{11})',requests.get('https://www.youtube.com/weathernews/streams').text).group(1))"
+</pre>
+  <div style="margin-bottom: 64px;"></div>
+  <h3>ライブ中のyoutube動画IDを取得する方法</h3>
+  <ul>
+    <li>URLを目視</li>
+    <li>スクレイピング</li>
+    <li>ライブタブのHTMLから検索(前述のとおり静的でも取得可能)</li>
+    <li>RSS(https://www.youtube.com/feeds/videos.xml) 別途ライブかどうか判定要</li>
+    <li>v3 API(https://www.googleapis.com/youtube/v3/search) 確実だが100ポイント</li>
+    <li>v3 API(https://www.googleapis.com/youtube/v3/playlistItems) 判定要だが1ポイント</li>
+  </ul>
+  <div style="margin-bottom: 64px;"></div>
+  <h3>限定公開の動画IDを取得する方法</h3>
+  <ul>
+    <li>全ての再生リストの全ての動画をチェック</li>
+    <li>全ての公開動画のHTMLから動画IDを検索</li>
+  </ul>
+  <div style="margin-bottom: 64px;"></div>
+
+  <div style="margin-bottom: 1000px;"></div>
+</body>
+
+</html>

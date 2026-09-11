@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>日本における倍率・確率</title>
+    <style>
+  div {
+    padding-left: 1em;
+    white-space: pre-wrap;
+  }    
+  h1, h6 {
+    text-align: center;
+    color: #333;
+    margin: 20px 0;
+  }
+
+  h1 {
+    font-size: 2rem;
+  }
+
+  h6 {
+    font-size: 0.9rem;
+  }
+        table {
+            border-collapse: collapse;
+            width: 80%;
+            margin-top: 20px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        th, td {
+            border: 1px solid #dddddd;
+            text-align: right;
+            padding: 8px;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        th:first-child,th:last-child {
+            text-align: left;
+        }
+        td:first-child,td:last-child {
+            text-align: left;
+        }
+        .wnl {
+            font-weight: bold;
+            color:blue;
+        }
+    #back {
+      position: fixed;
+      top: 2px;
+      left: 2px;
+      z-index: 9999;
+      padding: 10px 15px;
+      font-size: 16px;
+      border-radius: 6px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    }
+
+    @media (max-width: 600px) {
+      #back {
+        font-size: 18px;
+        padding: 12px 18px;
+      }
+    }
+    </style>
+</head>
+<body>
+    <button id="back" onclick="location.href='./2'">戻る</button>
+    <h1>日本における倍率・確率</h1>
+    <h6>母数の「本気度」を揃えないと難易度の比較はできない.</h6>
+    <div id="tableContainer"></div>
+    <ul>
+    <li class="wnl">WNL界隈</li>
+    <li>出典：Wikipedia,Gemini,etc...</li>
+    <li>偏差値は正規分布と仮定して算出</li>
+    <li>母数は応募者数・日本の人口・年度の学生数など、項目により異なる</li>
+    <li>いずれの選抜も不正の無い事を前提とする</li>
+    <li>高額な受験料は受験者をふるい落とす為、実際の難易度より低めに見えてしまう</li>
+    <li>オーディショングランプリ受賞者が必ず成功するとは限らない</li>
+    <li>WNLキャスターの1000倍という数値は公式発表.事実なら、在京キー局の倍率はそれを上回ると考えるのが自然</li>
+    </ul>
+    <div>
+    
+    
+・倍率・確率についての私見
+
+合格率＝合格者数÷応募者数
+しかし、例えば東大の合格率が40%だからといって、努力すれば40%の確率で合格できる事を意味しない
+応募や合格に至るまでの様々な障壁があり、それが応募者数を減少させ合格率を引き上げている：
+　・エントリーに料金がかかる：受験料など
+　・エントリーに手間がかかる：書面の準備
+　・エントリー条件がある
+　・合格までに労力が要る：勉強、受験
+　・合格してもメリットがない：知名度や権威がないなど
+
+逆に、以下の事柄は応募者数を増加させ合格率を引き下げる：
+　・優勝すると何か貰える：賞金賞品などの副賞
+　・家族や友人など本人以外からの応募
+
+合格率から難易度やなれる確率を推し量るには、これらの考慮が必要である：
+　・難関大学や難関資格は応募障壁が高く、実際の難易度よりも合格率が高めになる
+　・芸能事務所のオーディションはエントリー料がかからない事が多い
+　　応募障壁が低いので、合格する事の困難さと合格率はそれほど乖離しない
+　　但し副賞付きの場合は応募者数をいたずらに増加させ、合格率を低下させる
+
+
+・資格試験の合格率の算出方法について
+
+合格率＝合格者÷受験者　とする団体が多いようだ
+つまり、受験料を支払いながら受験しなかった者の存在を無視して計算している
+彼らが仮に受験したとしても合格する可能性は極めて低いので、難易度の指標とするなら
+　合格率＝合格者÷受験料を払った全員
+とするべきである.表では可能な限り、こちらの式で合格率を計算している
+
+    </div>
+    <br/><br/><br/>
+    <script>
+const TSV_FILE_PATH = 'txt/w_rate.txt';
+// 初期ソートの列インデックスを定義
+const INITIAL_SORT_COLUMN_INDEX = 3; 
+
+const tableContainer = document.getElementById('tableContainer');
+
+// グローバル変数でデータとソート状態を保持
+let allData = []; // ヘッダー行とデータ行すべて
+let currentSortColumn = INITIAL_SORT_COLUMN_INDEX;
+let isAscending = true; // 初期状態は昇順
+
+document.addEventListener('DOMContentLoaded', loadAndProcessTsv);
+
+/**
+ * TSVファイルを読み込み、データを処理する
+ */
+async function loadAndProcessTsv() {
+    tableContainer.innerHTML = '<p>ファイルを読み込み中...</p>';
+    
+    try {
+        const response = await fetch(TSV_FILE_PATH);
+
+        if (!response.ok) {
+            throw new Error(`ファイルの読み込みに失敗しました: ${response.status} ${response.statusText}`);
+        }
+
+        const tsvString = await response.text();
+        
+        processTsvData(tsvString);
+
+    } catch (error) {
+        console.error('エラーが発生しました:', error);
+        tableContainer.innerHTML = `<p style="color: red;">エラー: ${error.message}</p>`;
+    }
+}
+
+/**
+ * TSV文字列をパースし、初期ソートとテーブル描画を行う
+ * @param {string} tsvString - TSV形式の文字列
+ */
+function processTsvData(tsvString) {
+    const rows = tsvString.trim().split(/\r?\n/);
+    
+    allData = rows.map(row => row.split('\t')).filter(columns => columns.length > 0);
+
+    if (allData.length === 0) {
+        tableContainer.innerHTML = '<p>ファイルにデータがありません。</p>';
+        return;
+    }
+    
+    // 初期ソートと描画を実行
+    sortAndRenderTable(currentSortColumn, isAscending);
+}
+
+/**
+ * 指定された列と方向でデータをソートし、テーブルを描画する
+ * @param {number} columnIndex - ソートする列のインデックス
+ * @param {boolean} ascending - 昇順の場合は true、降順の場合は false
+ */
+function sortAndRenderTable(columnIndex, ascending) {
+    if (allData.length < 2) return;
+
+    const headerRow = allData[0];
+    let bodyData = allData.slice(1);
+
+    bodyData.sort((a, b) => {
+        const valA = a[columnIndex] !== undefined ? a[columnIndex] : '';
+        const valB = b[columnIndex] !== undefined ? b[columnIndex] : '';
+        
+        // #を無視して比較対象の文字列を取得
+        const cleanValA = valA.startsWith('#') ? valA.slice(1) : valA;
+        const cleanValB = valB.startsWith('#') ? valB.slice(1) : valB;
+        
+        const numA = parseFloat(cleanValA);
+        const numB = parseFloat(cleanValB);
+        let comparison = 0;
+
+        if (!isNaN(numA) && !isNaN(numB)) {
+            // 数値比較
+            comparison = numA - numB;
+        } else {
+            // 文字列比較
+            comparison = cleanValA.localeCompare(cleanValB, 'ja', { sensitivity: 'base' });
+        }
+        
+        return ascending ? comparison : -comparison; // 昇順/降順を適用
+    });
+
+    // ソートされたデータ（ヘッダー + ソート済みボディ）でテーブルを描画
+    createTable([headerRow, ...bodyData], columnIndex, ascending);
+    
+    // 現在のソート状態を更新
+    currentSortColumn = columnIndex;
+    isAscending = ascending;
+}
+
+/**
+ * ソート状態に基づいてテーブルを構築し、DOMに挿入する
+ * @param {Array<Array<string>>} data - テーブルのデータ（ヘッダー行を含む）
+ * @param {number} sortColumn - 現在ソートされている列のインデックス
+ * @param {boolean} ascending - 現在のソート方向
+ */
+function createTable(data, sortColumn, ascending) {
+    const table = document.createElement('table');
+    const headerRow = data[0];
+    const bodyData = data.slice(1);
+    
+    const thead = document.createElement('thead');
+    const trHead = document.createElement('tr');
+    
+    // ヘッダー行を生成
+    headerRow.forEach((cellData, index) => {
+        const th = document.createElement('th');
+        th.textContent = cellData;
+        
+        // クリックイベントリスナーを追加
+        th.addEventListener('click', () => handleHeaderClick(index));
+        
+        // ソートインジケータ（矢印）を追加
+        if (index === sortColumn) {
+            th.textContent += ascending ? ' ▲' : ' ▼';
+        }
+        
+        trHead.appendChild(th);
+    });
+    
+    thead.appendChild(trHead);
+    table.appendChild(thead);
+
+    const tbody = document.createElement('tbody');
+    // データ行を生成
+    bodyData.forEach(rowData => {
+        const tr = document.createElement('tr');
+        rowData.forEach(cellData => {
+            const td = document.createElement('td');
+            let displayData = cellData;
+            
+            // # が付いているセルに対する処理
+            if (cellData.startsWith("#")) {
+                displayData = cellData.slice(1);
+                td.className = "wnl";
+            }
+            
+            td.textContent = displayData;
+            tr.appendChild(td);
+        });
+        tbody.appendChild(tr);
+    });
+
+    table.appendChild(tbody);
+    
+    tableContainer.innerHTML = '';
+    tableContainer.appendChild(table);
+}
+
+/**
+ * ヘッダーがクリックされたときの処理
+ * @param {number} columnIndex - クリックされた列のインデックス
+ */
+function handleHeaderClick(columnIndex) {
+    let newIsAscending = isAscending;
+
+    if (columnIndex === currentSortColumn) {
+        // 同じ列がクリックされた場合はソート方向を反転
+        newIsAscending = !isAscending;
+    } else {
+        // 異なる列がクリックされた場合は、その列で昇順ソートを開始
+        newIsAscending = true; 
+    }
+    
+    sortAndRenderTable(columnIndex, newIsAscending);
+}
+    </script>
+</body>
+</html>
