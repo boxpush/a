@@ -639,6 +639,7 @@
 ### 内田侑希
 * 2017
 [【画像・動画】上智大学「ミスコン（ミスソフィアコンテスト2017）」　元AKBメンバーを含む候補者5人が決定！！！](https://netachou.blog.jp/archives/17059726.html)
+[ミスソフィアコンテスト2017 Entry No.4 内田侑希](https://misscolle.com/sophia2017/profile/4)
 [ミスソフィア候補者No.4　内田侑希さん](https://akasaka.keizai.biz/photoflash/1731/)
 [2017年度 ミスソフィア・ミスターソフィア候補お披露目会レポ](https://ariosoweb.com/events/missmisterohirome2017/)
 [上智大学　ミスソフィアコンテスト2017 / ブログ / 酢飯屋 - 文京区水道、江戸川橋にある寿司、カフェ、ギャラリーの複合店](https://www.sumeshiya.com/blog/2017/09/2017-8.html)
