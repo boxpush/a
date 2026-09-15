@@ -4151,9 +4151,9 @@
 20260908	05:00	oeoT3atMLn0	モ	fukuyoshi
 20260908	08:00	a_u0loRpt6s	サ	matsumoto2025
 20260908	11:00	Myg6g8UtWsY	コ	aohara2023
-20260908	14:00	B3fKDnPrw4o	ア	kawabata
+20260908	14:00		ア	kawabata
 20260908	17:00	zZ4HlBsGtfo	イ	ogawa
-20260908	20:00	NX7HafsaIwo	ム	ailin
+20260908	20:00		ム	ailin
 20260908	23:00			
 20260909	00:00			
 20260909	05:00	AHjoiazE6_g	モ	uozumi
@@ -4167,7 +4167,7 @@
 20260910	05:00	NxlUu0Y5IDw	モ	okamoto2023
 20260910	08:00	4e9hTxwa8qA	サ	matsumoto2025
 20260910	11:00	8zQ3V1RIJXg	コ	tanabe2025
-20260910	14:00	a809fi5pO74	ア	ogawa
+20260910	14:00		ア	ogawa
 20260910	17:00	g96osR4vcHU	イ	komaki2018
 20260910	20:00	6qpvwEJ7u2k	ム	kobayashi
 20260910	23:00			
