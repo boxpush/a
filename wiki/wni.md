@@ -1120,6 +1120,7 @@
 * 2019
 [第３５回みしま西山連峰登山マラソン大会](https://e-mishima.info/wp-content/uploads/2019/12/c60fc0818a99713d760aadd952a74579.pdf)
 [アカミチ商店街奮闘記](https://stage.corich.jp/stage/102206)
+[アカミチ商店街奮闘記～君に捧げる愛の歌～雪組公演](https://www.youtube.com/watch?v=rJnv3Dp0JPs)
 [Twitter 午後1:05 · 2019年11月6日](https://x.com/INFO_LLP/status/1191929583442055168)
 
 * 2020
