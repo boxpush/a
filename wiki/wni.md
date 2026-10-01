@@ -1109,6 +1109,34 @@
 
 [宝塚受験にも挑戦した女優出身・松本真央、“縁”に導かれてお天気キャスターに　「墓場まで持って行きたい」ハプニングも明かす](https://news.mynavi.jp/article/20250927-maomatsumoto/)
 
+### 佐藤剣慎
+* 2017
+[新潟県高校総体陸上 | 2017年(平成29年)第70回](https://meisui.sakura.ne.jp/rikujou/archives/12163)
+
+* 2018
+[越後カントリートレイル](https://echigo-country-trail.net/wp-content/uploads/2022/12/2018-15-1.pdf)
+[第71回新潟県駅伝競走大会](https://nrkk.net/wp-content/uploads/2018/10/04a013cc6f1b889b15473bd86dc93088.pdf)
+
+* 2019
+[第３５回みしま西山連峰登山マラソン大会](https://e-mishima.info/wp-content/uploads/2019/12/c60fc0818a99713d760aadd952a74579.pdf)
+[アカミチ商店街奮闘記](https://stage.corich.jp/stage/102206)
+[Twitter 午後1:05 · 2019年11月6日](https://x.com/INFO_LLP/status/1191929583442055168)
+
+* 2020
+[Twitter 午前10:18 · 2020年5月9日](https://x.com/Karappo_star/status/1258929308212420608)
+[Twitter 午後10:35 · 2020年5月9日](https://x.com/Karappo_star/status/1259114791492128770)
+
+* 2021
+[Twitter 午後5:18 · 2021年5月5日](https://x.com/yukkey_Ishiuchi/status/1389856908312342528)
+[Twitter 午前9:03 · 2021年5月18日](https://x.com/amane_1210/status/1394443595151667202)
+[Twitter 午後10:12 · 2021年7月26日](https://x.com/yukkey_Ishiuchi/status/1419646811157909508)
+[Twitter 午後6:39 · 2021年7月26日](https://x.com/E_shashinkai/status/1419593221693349890)
+[Twitter 午後8:59 · 2021年8月7日](https://x.com/ymk_yrm08/status/1423977167365369858)
+
+* 2022
+[アナウンススクールの内定・就職情報 | 日テレ学院](https://www.ntvg.jp/graduate_announcer/)
+[【質問コーナー】新潟生まれ新潟育ち！新人アナウンサーが100の質問に答えます！！](https://www.youtube.com/watch?v=cj1ugGLa3fs)
+
 
 ### 石橋博良
 [第70回　株式会社ウェザーニューズ 石橋博良](https://www.dreamgate.gr.jp/contents/case/interview/36111)
