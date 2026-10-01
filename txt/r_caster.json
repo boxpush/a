@@ -300,6 +300,26 @@
     "retiredAt": ""
   },
   {
+    "id": "kenshin",
+    "name": "佐藤剣慎",
+    "licence":[0,0,0,0,0,0,0,0,0,2],
+    "licence_tl":["","","","","","","","","","姉,弟"],
+    "licence2":"",
+    "official": ["https://weathernews.jp/wnl/caster/matsumoto.html"],
+    "youtube": [],
+    "facebook": ["61566516123682"],
+    "twitter": [""],
+    "instagram": ["kenshinsato55"],
+    "tiktok": [""],
+    "threads": ["kenshinsato55"],
+    "blog": [],
+    "link": [],
+    "birth": "19990505",
+    "height":175,
+    "joinedAt": "20261001",
+    "retiredAt": ""
+  },
+  {
     "id": "kakuta",
     "name": "角田 奈緒子",
     "licence":[1,1,0,0,0,0,0,1,2,1],
