@@ -4333,7 +4333,7 @@
 20261001	00:00			
 20261001	05:00	5aHJV4-v48k	モ	uozumi
 20261001	08:00	LwVRVGkwWVI	サ	aohara2023
-20261001	11:00	TP_x1tAP7Vg	コ	kenshin
+20261001	11:00	TP_x1tAP7Vg	コ	sato
 20261001	14:00	oqd6oCjfusM	ア	matsumoto2025
 20261001	17:00	mc1r_JkQdcQ	イ	ogawa
 20261001	20:00	0hkvJP7gwHs	ム	tokita
@@ -4341,7 +4341,7 @@
 20261002	00:00			
 20261002	05:00	vqYKZGJFkoE	モ	uozumi
 20261002	08:00	Q_7FJe7SUdk	サ	okamoto2023
-20261002	11:00	doiivW_GXzk	コ	kenshin
+20261002	11:00	doiivW_GXzk	コ	sato
 20261002	14:00	0Saq4nw9Huw	ア	matsumoto2025
 20261002	17:00	Pw-qJqENuDc	イ	ogawa
 20261002	20:00	jYQme2MSAdY	ム	kobayashi
