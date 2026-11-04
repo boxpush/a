@@ -517,9 +517,14 @@
 	4
 2021-06-19
 	7	xW2_bxynbPs?t=37125
-	49	-
-🗽		aviarcj0ceE?t=0
-🗽	11	aviarcj0ceE?t=75
+	11	-
+		ILXsytNaWPc?t=0
+		ILXsytNaWPc?t=345
+🐨	12
+🍚	12
+🦀	12
+🗽	2
+🗽	10	aviarcj0ceE?t=975
 🐸	12
 🍙	12
 	4
@@ -723,9 +728,7 @@
 		dxJrbu1yVHs?t=750
 🐄	12
 🍚	12
-🍶	3
-	2
-🦀
+🍶	6
 	6
 🗽	2
 🗽	10	YLMuPQoVnPE?t=1665
@@ -734,8 +737,13 @@
 	4
 2021-07-06
 	8	YLMuPQoVnPE?t=35865
-	48	-
-🐨		lwfTSnsJ5BY?t=0
+	10	-
+		DWRsSnAdz1w?t=0
+		DWRsSnAdz1w?t=240
+🐄	12
+🌽	12
+🦀	12
+🐨
 🐨	11	lwfTSnsJ5BY?t=210
 🎀	12
 
@@ -855,4 +863,3172 @@
 	4
 2021-07-17
 	8	WoyQ28_XK2A?t=36450
+	10	-
+		fT3nzuZEOUE?t=0
+		fT3nzuZEOUE?t=765
+🌽	12
+🦀	12
+🐄	11
+🐄		jzHEV_eKFi8?t=0
+🐸	12	jzHEV_eKFi8?t=885
+🎀	12
+🍙	12
+	4
+2021-07-18
+	7	jzHEV_eKFi8?t=36885
+	11	-
+		h93KMcJ9PIE?t=0
+		h93KMcJ9PIE?t=15
+🌽	12
+🍚	12
+🐄	12
+🦀	12	lEDn8ADJnxg?t=480
+🎀	12
+🍙	12
+	4
+2021-07-19
+	8	lEDn8ADJnxg?t=36480
+	10	-
+		N_7ubDV8iYk?t=0
+		N_7ubDV8iYk?t=750
+🍚	12
+🍶	12
+🐄	11
+🐄		ohBLWAb5SXA?t=570
+🦀	12
+🍙	11
+
+🗽	12
+	4
+2021-07-20
+	7	ohBLWAb5SXA?t=37470
+	11	-
+		lzeDg3Uva5U?t=0
+		lzeDg3Uva5U?t=540
+🍚	12
+🍶	12
+🐨	12
+🎀	12	5pAq779TCdE?t=540
+🐸	12
+🗽	12
+	4
+2021-07-21
+	8	5pAq779TCdE?t=36540
+	10	-
+		ISBHuT4xpeI?t=0
+		ISBHuT4xpeI?t=90
+🐄	12
+🍶	12
+🦀	11
+🦀		WSlHUbZAFIk?t=0
+🎀	12
+🐸	12
+🍙	12
+	4
+2021-07-22
+	7	WSlHUbZAFIk?t=36900
+	11	-
+		HbUqPiEcenw?t=0
+		HbUqPiEcenw?t=750
+🐄	12
+🐨	12
+🦀	11
+🦀		EJo6ZGl8Mz4?t=600
+🎀	12
+🗽	12
+🐸	8
+🤖	2
+🍙	2
+	4
+2021-07-23
+	6	EJo6ZGl8Mz4?t=37500
+	12	-
+		dMN-rRDyxA0?t=0
+		dMN-rRDyxA0?t=795
+🐨	12
+🐄	12
+🍚	12
+🦀	12	gOgaNGtzgRk?t=855
+🗽	12
+🐸	12
+	4
+2021-07-24
+	7	gOgaNGtzgRk?t=36855
+	11	-
+		P717hnogQ0k?t=0
+		P717hnogQ0k?t=270
+🐨	12
+🍶	12
+🍚	11
+🍚		YubNYoOsg-c?t=1095
+🌽	12
+🗽	12
+🐸	12
+	4
+2021-07-25
+	6	YubNYoOsg-c?t=37995
+	12	-
+		lmxvM5d58bc?t=0
+		lmxvM5d58bc?t=705
+🐄	12
+🍚	12
+🦀	12
+🌽	12	O0ShFyElCT0?t=915
+🍙	11
+
+🗽	12
+	4
+2021-07-26
+	7	O0ShFyElCT0?t=36915
+	11	-
+		pEz7BQvtJwo?t=0
+		pEz7BQvtJwo?t=525
+🐄	12
+🐨	12
+🍶	12
+🦀	12	6FQcfYEhZ94?t=555
+🎀	12
+🍙	12
+	4
+2021-07-27
+	8	6FQcfYEhZ94?t=36555
+	9	-
+		BTioFYteXuc?t=0
+	2	BTioFYteXuc?t=195
+🐨	12
+🍶	12
+🌽	12
+🦀	12	19DCGUFw6aI?t=765
+🐸	12
+🎀	12
+	4
+2021-07-28
+	7	19DCGUFw6aI?t=36765
+	12	-
+		U4cyHiWB28M?t=0
+🐨	12	U4cyHiWB28M?t=840
+🍚	12
+🍶	12
+🌽	12	JT_1vqoVwLA?t=660
+🐄	12
+🗽	12
+	4
+2021-07-29
+	4	JT_1vqoVwLA?t=36660
+	14	f6G1OQq3e5g?t=105
+	2	S9Tb7di7wyI?t=255
+🍚	12
+🦀	2
+🍶	3
+🦀	19
+🐄	12	eHBaAd2Uzok?t=780
+🐸	12
+🎀	8
+🤖	4
+	4
+2021-07-30
+	7	eHBaAd2Uzok?t=36780
+	11	-
+		nyidb5AMuf4?t=0
+		nyidb5AMuf4?t=210
+🐨	12
+🍶	12
+🍚	12
+🌽	12	zz0lf5Rovm4?t=810
+🎀	12
+🗽	12
+	4
+2021-07-31
+	7	zz0lf5Rovm4?t=36810
+	11	-
+		9gjw4TdqavQ?t=0
+		9gjw4TdqavQ?t=600
+🐨	12
+🦀	12
+🌽	11
+🌽		O_u4K13Q5YM?t=1005
+🐄	12
+🐸	12
+🎀	12
+	4
+2021-08-01
+	6	O_u4K13Q5YM?t=37905
+	11	-
+		PXLO6W24qF4?t=0
+	2	PXLO6W24qF4?t=15
+🍚	12
+🦀	12
+🐄	12
+🍙
+🍙	11	Fa0j_HRorrY?t=825
+🎀	12
+🗽	12
+	4
+2021-08-02
+	8	Fa0j_HRorrY?t=35925
+	9	-
+		5vIOSKfuAfA?t=0
+	2	5vIOSKfuAfA?t=135
+🐨	12
+🍶	12
+🐄	12
+🌽		Tb2XXCLb4ik?t=0
+🌽	11	Tb2XXCLb4ik?t=735
+🐸	12
+🗽	12
+	4
+2021-08-03
+	8	Tb2XXCLb4ik?t=35835
+	11	-
+		YZlVtD-PNCk?t=0
+🐨	12	YZlVtD-PNCk?t=825
+🍶	12
+🐄	12
+🌽	12	ScjRZQ4FHDk?t=510
+🎀	12
+🗽	12
+	4
+2021-08-04
+	8	ScjRZQ4FHDk?t=36510
+	10	-
+		7FYE9ScAyKI?t=0
+		7FYE9ScAyKI?t=735
+🐨	12
+🍶	12
+🌽	12
+🦀		wSqpp6Nm1OQ?t=0
+🦀	11	wSqpp6Nm1OQ?t=735
+🐸	12
+🎀	12
+	4
+2021-08-05
+	8	wSqpp6Nm1OQ?t=35835
+	10	-
+		TS8O6doUJgM?t=0
+		TS8O6doUJgM?t=360
+🐄	18
+🍚	18
+🦀	12	lMYGJiDRGBA?t=735
+🗽	12
+🍙	12
+	4
+2021-08-06
+	7	lMYGJiDRGBA?t=36735
+	12	-
+		F21XUGLnq0E?t=0
+🐄	12	F21XUGLnq0E?t=750
+🍚	12
+🦀	12
+	12	Dj0YixSkeo8?t=75
+🗽	12
+🎀	12
+	4
+2021-08-07
+	8	Dj0YixSkeo8?t=36075
+	10	-
+		MAkMjo47Uno?t=0
+		MAkMjo47Uno?t=615
+🐨	12
+🌽	12
+🦀	12
+🐸	12	d10QnCmRlLE?t=150
+🍙	12
+🎀	12
+	4
+2021-08-08
+	8	d10QnCmRlLE?t=36150
+	10	-
+		odbuo65QoZI?t=0
+		odbuo65QoZI?t=660
+🐄	12
+🌽	12
+🍶	12
+🍚	2
+	38	-
+2021-08-09
+	96	-
+2021-08-10
+	19	-
+		NXhCnBtDmdQ?t=0
+🐄	12	NXhCnBtDmdQ?t=645
+🌽	12
+🍚	12
+🦀
+🦀	11	kZs8JCzTyxc?t=540
+🎀	12
+🍙	11
+	5
+2021-08-11
+	9	kZs8JCzTyxc?t=35640
+	9	-
+		lDtmhLji3wU?t=0
+		lDtmhLji3wU?t=510
+🌽	12
+🍶	12
+🦀	12
+🐸	2
+🐸	10	xLfFlsrVYnM?t=1365
+🎀	12
+🗽	12
+	4
+2021-08-12
+	9	xLfFlsrVYnM?t=35565
+	87	-
+2021-08-13
+	96	-
+2021-08-14
+	96	-
+2021-08-15
+	96	-
+2021-08-16
+	96	-
+2021-08-17
+	96	-
+2021-08-18
+	96	-
+2021-08-19
+	96	-
+2021-08-20
+	18	-
+		TOnRidlsGMs?t=0
+		TOnRidlsGMs?t=795
+🐨	12
+🍚	12
+🍶	12
+🦀	12	SGnA-tD9xq4?t=420
+🗽	12
+🎀	12
+	4
+2021-08-21
+	8	SGnA-tD9xq4?t=36420
+	10	-
+		udnoelLhzhM?t=0
+		udnoelLhzhM?t=240
+🍚	12
+🐨	12
+🌽	12
+🗽	12	NHs4JYLBEF0?t=315
+	4
+🎀	8
+🍙	12
+	4
+2021-08-22
+	8	NHs4JYLBEF0?t=36315
+	9	-
+		Bh2DrtFG8_k?t=0
+	2	Bh2DrtFG8_k?t=150
+🍚	12
+🐄	12
+🍶	10
+🍶/🦀	2
+🌽
+🌽	3	gDiQoN35WwE?t=1230
+🌽		Bh2DrtFG8_k?t=37950
+🌽	7	gDiQoN35WwE?t=4830
+🗽	12
+🍙	12
+	4
+2021-08-23
+	8	gDiQoN35WwE?t=36330
+	10	-
+		Lqne4yBwgOE?t=0
+		Lqne4yBwgOE?t=690
+🐄	12
+🍶	12
+🌽	12
+🐨
+🐨	11	t-mCVjHz9NY?t=2475
+🎀	12
+🐸	12
+	4
+2021-08-24
+	6	t-mCVjHz9NY?t=37575
+	12	-
+		cK1VqV17HS8?t=0
+		cK1VqV17HS8?t=690
+🍚	12
+🐄	12
+🦀	12
+🐨	12	hg-sMi7y0ys?t=435
+🗽	12
+🐸	12
+	4
+2021-08-25
+	8	hg-sMi7y0ys?t=36435
+	10	-
+		u0umkDjP0J4?t=0
+		u0umkDjP0J4?t=570
+🌽	12
+🍚	12
+🍶	12
+🗽	2	JfS59XZ1dPs?t=105
+🗽		u0umkDjP0J4?t=35670
+🗽	9	JfS59XZ1dPs?t=2805
+🍙	12
+🎀	12
+	4
+2021-08-26
+	8	JfS59XZ1dPs?t=36105
+	10	-
+		f7KYFwR9Ja8?t=0
+		f7KYFwR9Ja8?t=825
+🌽	12
+🐨	12
+🍶	12
+🦀	12	VQMAfh4iEps?t=360
+🐸	10
+	2
+🎀	7
+
+🤖	4
+	4
+2021-08-27
+	8	VQMAfh4iEps?t=36360
+	9	-
+		Ok3Yevlpz6E?t=0
+	2	Ok3Yevlpz6E?t=45
+🐨	12
+🍶	12
+🦀	12
+🗽	12	_OXDKU1lOps?t=720
+🐸	12
+🎀	12
+	4
+2021-08-28
+	7	_OXDKU1lOps?t=36720
+	11	-
+		lvi4KffcVwo?t=0
+		lvi4KffcVwo?t=870
+🐨	12
+🌽	12
+🦀	11
+🦀		mach7p8JYLI?t=0
+🗽	12	mach7p8JYLI?t=825
+🍙	12
+🐸	12
+	4
+2021-08-29
+	7	mach7p8JYLI?t=36825
+	10	-
+		c7xhpyWpbUw?t=0
+	2	c7xhpyWpbUw?t=90
+🍚	12
+🍶	12
+🐄	11
+🐄		rhVQFmGN6Ls?t=0
+🦀	16	rhVQFmGN6Ls?t=690
+	2
+🍙	18
+	4
+2021-08-30
+	7	rhVQFmGN6Ls?t=36690
+	10	-
+		BFDzvL6zLaU?t=0
+	2	BFDzvL6zLaU?t=90
+🍚	12
+🐨	12
+🍶	12
+🐄	2
+🐄	10	izXTKyfN_6w?t=2010
+🍙	12
+🗽	12
+	4
+2021-08-31
+	8	izXTKyfN_6w?t=36210
+	10	-
+		75yMLm8R5cY?t=0
+		75yMLm8R5cY?t=735
+🐨	12
+🍶	8
+🍶/🦀	2
+🍶	2
+🦀	10
+🦀	2	2ZdLEAKH3uc?t=375
+🐄	12
+🐸	12
+🎀	12
+	4
+2021-09-01
+	6	2ZdLEAKH3uc?t=38175
+	12	-
+		hmn1nvSV0fE?t=0
+		hmn1nvSV0fE?t=345
+🍚	12
+🐄	12
+🗽	12
+🦀
+🦀	11	xr74dPhipQw?t=240
+🍙	12
+🎀	12
+	4
+2021-09-02
+	9	xr74dPhipQw?t=35340
+	9	-
+		0IPl8q8tDco?t=0
+		0IPl8q8tDco?t=690
+🍚	12
+🐨	10
+	2
+🍶	12
+🌽	12	Dwt41WfrLoM?t=540
+🐸	12
+🎀	8
+🤖	4
+	4
+2021-09-03
+	8	Dwt41WfrLoM?t=36540
+	10	-
+		V3f_oq976JQ?t=0
+		V3f_oq976JQ?t=660
+🍚	12
+🐨	12
+🍶	12
+🌽	2
+🌽		HYgLfrSkJUg?t=1140
+🌽		V3f_oq976JQ?t=36660
+🌽	8	HYgLfrSkJUg?t=2940
+🦀	12
+🍙	12
+	4
+2021-09-04
+	9	HYgLfrSkJUg?t=35340
+	9	-
+		0AhdSX_cBZU?t=0
+		0AhdSX_cBZU?t=840
+🐨	12
+🐄	12
+🌽	12
+🦀	12	_ZMg47W24UY?t=525
+	6
+🍙	15
+	7
+2021-09-05
+	8	_ZMg47W24UY?t=36525
+	10	-
+		grwge0wDkY4?t=0
+		grwge0wDkY4?t=690
+🐄	12
+🍶	12
+🍚	12
+🦀	12	oYgQEEeELIQ?t=195
+🗽	12
+🎀	12
+	4
+2021-09-06
+	8	oYgQEEeELIQ?t=36195
+	10	-
+		REwaEpupfX8?t=0
+		REwaEpupfX8?t=390
+🐄	12
+🍶	12
+🍚	12
+🌽	2
+🌽	10	QI11tdOmuNg?t=1725
+🗽	12
+🐸	12
+	4
+2021-09-07
+	8	QI11tdOmuNg?t=35925
+	10	-
+		TEOkucpNlas?t=0
+		TEOkucpNlas?t=645
+🐨	12
+🍶	12
+🌽	12
+🎀	12	HKfdDKZAhWM?t=405
+🍙	12
+🗽	12
+	4
+2021-09-08
+	8	HKfdDKZAhWM?t=36405
+	10	-
+		U80bodfqZdY?t=0
+		U80bodfqZdY?t=630
+🐨	12
+🐄	12
+🌽	12
+🦀	12	Y5h2Pedxp4o?t=675
+🎀	12
+🐸	12
+	4
+2021-09-09
+	7	Y5h2Pedxp4o?t=36675
+	11	-
+		56yRfE6LeYg?t=0
+		56yRfE6LeYg?t=180
+🐨	12
+🐄	12
+🍶	10
+	2
+🦀	12	m_Z5QR8EG3g?t=405
+🐸	12
+🍙	8
+🤖	4
+	4
+2021-09-10
+	8	m_Z5QR8EG3g?t=36405
+	11	-
+		VrbyxXPdXTY?t=0
+🌽	12	VrbyxXPdXTY?t=870
+🐨	12
+🍶	12
+🦀	12	2lMYaSdH278?t=885
+🎀	12
+🗽	12
+	4
+2021-09-11
+	7	2lMYaSdH278?t=36885
+	11	-
+		S2Jl1s5nb1k?t=0
+		S2Jl1s5nb1k?t=315
+🌽	12
+🍚	12
+🍶	12
+🐄	12	h9hEnERBI-s?t=1605
+🐸	12
+🗽	12
+	4
+2021-09-12
+	6	h9hEnERBI-s?t=37605
+	11	-
+		Z_PqvI0heBY?t=0
+	2	Z_PqvI0heBY?t=465
+🌽	12
+🍚	12
+🐨	12
+🐄	12	RSSDbRfhdBw?t=810
+🍙	12
+🗽	12
+	4
+2021-09-13
+	7	RSSDbRfhdBw?t=36810
+	11	-
+		SYobtU9UnHg?t=0
+		SYobtU9UnHg?t=330
+🍚	12
+🍶	12
+🐨	12
+🐄	12	BmDKh_0AeO4?t=525
+🐸	12
+🎀	8
+	8
+2021-09-14
+	8	BmDKh_0AeO4?t=36525
+	10	-
+		QUNhmCLiREY?t=0
+		QUNhmCLiREY?t=180
+🍚	12
+
+🐨	11
+🦀	13
+🦀	4	Y9G6lxANhKE?t=510
+
+🗽	18
+🐸	8
+
+🗽	3
+	4
+2021-09-15
+	9	Y9G6lxANhKE?t=35610
+	9	-
+		NACCVhxXiOU?t=0
+		NACCVhxXiOU?t=390
+🐄	12
+🌽	12
+🍶	12
+🍶	5	IWQqB19qAlk?t=720
+
+🐸	18
+🍙	12
+	4
+2021-09-16
+	7	IWQqB19qAlk?t=36720
+	11	-
+		RJxkzst4wOM?t=0
+		RJxkzst4wOM?t=870
+🌽	12
+🐨	12
+🦀	11
+🦀		FNetPFOSeA0?t=255
+🗽	10
+	2
+🎀	12
+🍙	8
+🤖	2
+🍙	2
+	4
+2021-09-17
+	7	FNetPFOSeA0?t=37155
+	11	-
+		ZWU9WNfzFz8?t=0
+		ZWU9WNfzFz8?t=885
+🌽	12
+🍚	12
+🦀	13
+	39	-
+2021-09-18
+	53	-
+		sdowX1t6aDI?t=0
+🍚	4	sdowX1t6aDI?t=75
+	38	-
+2021-09-19
+	17	-
+		t61R5tccutc?t=0
+	2	t61R5tccutc?t=765
+🐨	12
+🍚	12
+🦀	12
+🐄
+🐄		QYUDGnFXYjo?t=840
+🐄		t61R5tccutc?t=36765
+🐄	9	QYUDGnFXYjo?t=2640
+🐸	12
+🗽	12
+	4
+2021-09-20
+	8	QYUDGnFXYjo?t=35940
+	9	-
+		xF5gZvVhK70?t=0
+	2	xF5gZvVhK70?t=180
+🐨	12
+🦀	12
+🐄	10
+🐄	2	8UKrMfRJdSg?t=15
+🎀	12
+🗽	12
+🍙	11
+🗽
+	4
+2021-09-21
+	6	8UKrMfRJdSg?t=37815
+	12	-
+		0ZMnS_3zNpE?t=0
+		0ZMnS_3zNpE?t=585
+🐨	12
+🦀	12
+🐸	12
+🎀
+🎀		Cr91-0wqQeU?t=930
+🎀	2	0ZMnS_3zNpE?t=35685
+🎀	8	Cr91-0wqQeU?t=3630
+🗽	12
+🍙	12
+	4
+2021-09-22
+	8	Cr91-0wqQeU?t=36030
+	10	-
+		tg10bZNe-IA?t=0
+		tg10bZNe-IA?t=810
+🐄	12
+🌽	12
+🦀	11
+🦀		drSCVaCXHWE?t=0
+🐸	12	drSCVaCXHWE?t=855
+🎀	12
+🗽	12
+	4
+2021-09-23
+	7	drSCVaCXHWE?t=36855
+	11	-
+		Ect3xB9HPtg?t=0
+		Ect3xB9HPtg?t=630
+🐄	12
+🌽	12
+🐨	11
+🐨		EcAPPtoE3W0?t=135
+🍚	12
+🎀	12
+🗽	8
+🤖	4
+	4
+2021-09-24
+	7	EcAPPtoE3W0?t=37035
+	11	-
+		pRvk41C2jYU?t=0
+		pRvk41C2jYU?t=375
+🐄	12
+🌽	12
+🍚	12
+🦀
+🦀	11	5xnS64w04TI?t=690
+🐸	12
+🍙	12
+	4
+2021-09-25
+	8	5xnS64w04TI?t=35790
+	10	-
+		-R5VhoQ6_MQ?t=0
+		-R5VhoQ6_MQ?t=600
+🐨	12
+🌽	12
+🦀	10
+🦀		0ruAPV21j6Q?t=0
+🦀		0ruAPV21j6Q?t=870
+🐸	12
+🎀	12
+🍙	5
+🎀	3
+🍙	4
+	4
+2021-09-26
+	6	0ruAPV21j6Q?t=37770
+	12	-
+		UgSMRuNDMdw?t=0
+		UgSMRuNDMdw?t=645
+🍚	12
+🐄	12
+🦀	11
+🦀		UC5EICrSDMw?t=480
+🐸	12
+🗽	12
+🎀	12
+	4
+2021-09-27
+	7	UC5EICrSDMw?t=37380
+	10	-
+		EfDyAYpfrUE?t=0
+	2	EfDyAYpfrUE?t=105
+🍚	12
+🍶	12
+🐄	10
+🐄	2	s5G5VwWzJVE?t=1755
+🗽	12
+🍙	12
+🎀	12
+	4
+2021-09-28
+	4	s5G5VwWzJVE?t=39555
+	13	-
+		I29KfwCLLAY?t=0
+	2	I29KfwCLLAY?t=195
+🌽	12
+🐨	12
+🍶	12
+🦀	3
+🦀		qJvDqHMx6ik?t=2520
+🦀		I29KfwCLLAY?t=37995
+🦀	7	qJvDqHMx6ik?t=4320
+🐸	12
+🍙	12
+	4
+2021-09-29
+	8	qJvDqHMx6ik?t=35820
+	10	-
+		z-uY6IjWvjI?t=0
+		z-uY6IjWvjI?t=870
+🐄	12
+🌽	12
+🍶	12
+🍚	12	dqRMTvGDtF4?t=810
+🦀	12
+🎀	12
+	4
+2021-09-30
+	7	dqRMTvGDtF4?t=36810
+	11	-
+		3A_sNqjdnok?t=0
+		3A_sNqjdnok?t=195
+🐄	12
+🐨	12
+🍶	12
+🍚	2
+🍚	10	InrPU32hzCc?t=1815
+🗽	12
+🎀	8
+🤖	2
+🍙	2
+	4
+2021-10-01
+	8	InrPU32hzCc?t=36015
+	88	-
+2021-10-02
+	18	-
+		xvYjQWTFq6c?t=0
+		xvYjQWTFq6c?t=690
+🌽	12
+🐨	12
+🍚	12
+🦀	12	gejeTX4gktI?t=90
+🗽	12
+🎀	12
+	4
+2021-10-03
+	8	gejeTX4gktI?t=36090
+	10	-
+		JKCU0bDClCs?t=0
+		JKCU0bDClCs?t=600
+🌽	12
+🐄	12
+🍚	12
+🦀	2
+🦀	10	_0S4KzCBVOg?t=660
+🗽	12
+🐸	12
+	4
+2021-10-04
+	9	_0S4KzCBVOg?t=34860
+	9	-
+		nF4qqPxUzA4?t=0
+		nF4qqPxUzA4?t=450
+🐄	12
+🍶	12
+🐨	12
+🎀		Qn4UHAAu3rA?t=0
+🎀	11	Qn4UHAAu3rA?t=870
+🐸	12
+🍙	12
+	4
+2021-10-05
+	8	Qn4UHAAu3rA?t=35970
+	10	-
+		59u9YVnjUX4?t=0
+		59u9YVnjUX4?t=435
+🌽	12
+🍶	12
+🐨	12
+🦀	12	AdRIkSl9q_k?t=210
+🍙	12
+🗽	12
+	4
+2021-10-06
+	8	AdRIkSl9q_k?t=36210
+	10	-
+		rFua_DeLSr4?t=0
+		rFua_DeLSr4?t=735
+🌽	12
+🐄	12
+🐨	12
+🦀	12	9kEjWd_qfiI?t=945
+🐸	12
+🗽	12
+🐄	2
+	2
+2021-10-07
+	7	9kEjWd_qfiI?t=36945
+	12	-
+		Zrdte2QeH8M?t=0
+🐄	12	Zrdte2QeH8M?t=735
+🍶	10
+	2
+🍚	11
+🍚		d_0vC2j22W0?t=0
+🦀	12	d_0vC2j22W0?t=795
+🐸	12
+🎀	8
+🤖	3
+🍙	2
+	3
+2021-10-08
+	2	d_0vC2j22W0?t=36795
+🍙	2
+	3
+	8	-
+		0hMiibcB6-I?t=0
+	4	0hMiibcB6-I?t=330
+🐄	12
+🍚	12
+🍶	12
+🗽
+🗽	11	JVKQSU5h8TY?t=1350
+🍙	11
+
+🎀	12
+	4
+2021-10-09
+	8	JVKQSU5h8TY?t=36450
+	11	-
+		yAbpUfZcEJU?t=0
+🐨	12	yAbpUfZcEJU?t=420
+🍚	12
+🦀	12
+🗽		fccyIf-ll_k?t=240
+🗽		yAbpUfZcEJU?t=33720
+🗽		fccyIf-ll_k?t=2040
+🗽		yAbpUfZcEJU?t=35520
+🗽		fccyIf-ll_k?t=3840
+🗽		yAbpUfZcEJU?t=37320
+🗽	3	fccyIf-ll_k?t=5640
+🗽		yAbpUfZcEJU?t=40920
+🗽	2	fccyIf-ll_k?t=9240
+🐸	12
+🍙	12
+	4
+2021-10-10
+	8	fccyIf-ll_k?t=36240
+	10	-
+		_XnFliZPktM?t=0
+		_XnFliZPktM?t=585
+🐨	12
+🐄	12
+🦀	12
+🗽	5
+	35	-
+2021-10-11
+	18	-
+		CjEFRTIyIDg?t=0
+		CjEFRTIyIDg?t=210
+🐨	12
+🐄	12
+🍶	12
+🍚	2
+🍚	10	25HgcPBIGrs?t=1725
+🍙	12
+🐸	12
+	4
+2021-10-12
+	8	25HgcPBIGrs?t=35925
+	9	-
+		IhHePMo7BiQ?t=0
+	2	IhHePMo7BiQ?t=240
+🐄	12
+🌽	17
+
+🦀	7
+🦀	11	j0nCVzN36J4?t=750
+🍙	11
+
+🐸	12
+	4
+2021-10-13
+	8	j0nCVzN36J4?t=35850
+	10	-
+		jKqCRvMzpvQ?t=0
+		jKqCRvMzpvQ?t=705
+🌽	12
+🍚	18
+🦀	6
+🦀	12	lzGwvpp4h5Y?t=165
+🍙	12
+🗽	12
+	4
+2021-10-14
+	8	lzGwvpp4h5Y?t=36165
+	9	-
+		tXd5iA3e-dw?t=0
+	2	tXd5iA3e-dw?t=75
+🌽	12
+🍚	12
+🦀	13
+🦀	4	Ttrl_AXpIL4?t=510
+
+🐸	18
+🗽	8
+🤖	4
+	4
+2021-10-15
+	9	Ttrl_AXpIL4?t=35610
+	8	-
+		VYF37xjlvDo?t=0
+	2	VYF37xjlvDo?t=240
+🌽	12
+🐨	12
+🍶	11
+🍶	6	nIWdJ44GYbM?t=210
+	5
+🐸	14
+🗽	12
+	4
+2021-10-16
+	7	nIWdJ44GYbM?t=37110
+	12	-
+		sm6ORyJ_bcE?t=0
+🍚	12	sm6ORyJ_bcE?t=840
+🐨	12
+🍶	12
+🦀		HwfwsPnfCM4?t=0
+🦀	11	HwfwsPnfCM4?t=885
+🗽	12
+🍙	3
+🍙/🗽
+🗽/🍙
+	2
+🍙	5
+	4
+2021-10-17
+	8	HwfwsPnfCM4?t=35985
+	10	-
+		XwbeOjaCyEA?t=0
+		XwbeOjaCyEA?t=645
+🍚	12
+🐨	12
+🦀	12
+🗽	12	_lqJzodE8bE?t=705
+	2
+🐸	10
+🍙	11
+	5
+2021-10-18
+	7	_lqJzodE8bE?t=36705
+	10	-
+		LVwn8cgRlJ8?t=0
+	2	LVwn8cgRlJ8?t=255
+🐨	12
+🍚	12
+🐄	11
+🐄		WvAoY9KoZi8?t=630
+🌽	12
+🦀	12
+🍙	12
+	4
+2021-10-19
+	6	WvAoY9KoZi8?t=37530
+	12	-
+		tF8r4MUaFeI?t=0
+		tF8r4MUaFeI?t=870
+🍚	20
+🐄	16
+🌽	12	pupSNtPP0bo?t=555
+🐸	12
+🗽	12
+	4
+2021-10-20
+	8	pupSNtPP0bo?t=36555
+	88	-
+2021-10-21
+	18	-
+	2	52leygQ_BkU?t=0
+🍚	12
+🐄	12
+🍶	11
+🍶		R8hIZminpRI?t=1110
+🦀	10
+	2
+🐸	12
+🍙	8
+🤖	4
+	4
+2021-10-22
+	6	R8hIZminpRI?t=38010
+	12	-
+		RhuYULqR_cI?t=0
+		RhuYULqR_cI?t=255
+🍚	12
+🐨	12
+🌽	12
+🦀	12	EmdKU9JATsI?t=525
+🗽	12
+🍙	5
+🗽	3
+🍙	4
+	4
+2021-10-23
+	8	EmdKU9JATsI?t=36525
+	9	-
+		noRYeYOjnBc?t=0
+	2	noRYeYOjnBc?t=645
+🐄	12
+🍚	12
+🐨	12
+🌽	2
+🌽	10	MZzfLzOJGjk?t=810
+🗽	12
+🍙	12
+	4
+2021-10-24
+	9	MZzfLzOJGjk?t=35010
+	9	-
+		7XzPVBOqa6Q?t=0
+		7XzPVBOqa6Q?t=585
+🐄	12
+🍚	12
+🍶	11
+🍶		wQXTkU_OAH8?t=915
+🌽	12
+🗽	12
+🍙	12
+	4
+2021-10-25
+	6	wQXTkU_OAH8?t=37815
+	12	-
+		qd_xg7qj2MI?t=0
+		qd_xg7qj2MI?t=750
+🐄	12
+🍶	12
+🐨	12
+🐨	5	rOgWFbSHrjY?t=435
+
+🦀	17
+
+🐸	12
+	4
+2021-10-26
+	8	rOgWFbSHrjY?t=36435
+	10	-
+		aSCvDWb8eaw?t=0
+		aSCvDWb8eaw?t=480
+🍚	12
+🍶	12
+🐨	12
+🌽	12	XDkwk5l4vf4?t=195
+🦀	12
+🐸	12
+	4
+2021-10-27
+	8	XDkwk5l4vf4?t=36195
+	10	-
+		XDFRTiblQmQ?t=0
+		XDFRTiblQmQ?t=120
+🍚	12
+🐨	12
+🐄	11
+🐄		_ETNp3cGhFM?t=0
+🌽	12	_ETNp3cGhFM?t=705
+🍙	12
+🗽	12
+	4
+2021-10-28
+	7	_ETNp3cGhFM?t=36705
+	12	-
+		GXT94tFaZe0?t=0
+🍚	12	GXT94tFaZe0?t=885
+🍶	12
+🐄	12
+🦀	2
+🦀	10	J6vb2LN05Pk?t=1980
+🐸	10
+	2
+🗽	8
+🤖	4
+	4
+2021-10-29
+	8	J6vb2LN05Pk?t=36180
+	10	-
+		pHLMyXDwAEA?t=0
+		pHLMyXDwAEA?t=870
+🐨	12
+🍶	12
+🌽	12
+🌽	5	7BJLyG3W9Ww?t=990
+	7
+🐸	12
+🍙	12
+	4
+2021-10-30
+	7	7BJLyG3W9Ww?t=36990
+	10	-
+		5P41jqT9S2U?t=0
+	2	5P41jqT9S2U?t=105
+🐨	12
+🍚	12
+🍶	12
+🌽
+🌽	11	O-1a28pBpLY?t=645
+🗽	12
+🍙	12
+	4
+2021-10-31
+	8	O-1a28pBpLY?t=35745
+	10	-
+		ecwfD19HiyI?t=0
+		ecwfD19HiyI?t=540
+🐨	12
+🍚	12
+🐄	12
+🦀	2
+🦀	10	7zxBC8ySJFw?t=1515
+🗽	12
+🐸	12
+	4
+2021-11-01
+	8	7zxBC8ySJFw?t=35715
+	10	-
+		re3fGenseVE?t=0
+		re3fGenseVE?t=225
+🍚	12
+🍶	12
+🦀	12
+🗽	4
+🗽	8	3kilNUbXVgA?t=3075
+🍙	11
+
+🐸	12
+	4
+2021-11-02
+	9	3kilNUbXVgA?t=35475
+	9	-
+		jInA_xRDozw?t=0
+		jInA_xRDozw?t=105
+🐄	12
+🍶	12
+🐨	12
+🌽
+🌽	11	ff7jsHIsBRw?t=915
+🍙	12
+🐸	12
+	4
+2021-11-03
+	8	ff7jsHIsBRw?t=36015
+	9	-
+		2rwpdvNwQXU?t=0
+	2	2rwpdvNwQXU?t=90
+🍚	12
+🐄	12
+🐨	10
+🐨/🦀	2
+🦀
+🦀	11	AzJ9AsWz--o?t=1005
+🐸	12
+🗽	12
+🐄	2
+	2
+2021-11-04
+	8	AzJ9AsWz--o?t=36105
+	9	-
+		0tm2X9JvYos?t=0
+	2	0tm2X9JvYos?t=15
+🍚	12
+🐄	10
+	2
+🌽	12
+🦀	12	pii6qWrmJ3Q?t=345
+🗽	12
+🍙	8
+🤖	2
+🤖/🗽	2
+	4
+2021-11-05
+	8	pii6qWrmJ3Q?t=36345
+	10	-
+		bAkiNLr5e1I?t=0
+		bAkiNLr5e1I?t=795
+🐄	12
+🐨	12
+🍶	12
+🌽
+🌽	11	_sRHK_YrpSg?t=405
+🦀	12
+🍙	12
+	4
+2021-11-06
+	9	_sRHK_YrpSg?t=35505
+	9	-
+		ByX8X0vCIUc?t=0
+		ByX8X0vCIUc?t=135
+🐨	12
+🍚	12
+🍶	12
+🌽	12	nD7WWD9ePb0?t=15
+🐸	12
+🗽	12
+	4
+2021-11-07
+	8	nD7WWD9ePb0?t=36015
+	10	-
+		6tymQxWZosY?t=0
+		6tymQxWZosY?t=570
+🍚	18
+🌽	18
+🦀	2
+🦀	10	WCMjaPMTBlE?t=1995
+🍙	12
+🗽	12
+	4
+2021-11-08
+	8	WCMjaPMTBlE?t=36195
+	47	-
+		GmC0LKFYhA8?t=0
+🦀	12	GmC0LKFYhA8?t=225
+🐸	12
+🍙	12
+	4
+2021-11-09
+	8	GmC0LKFYhA8?t=36225
+	10	-
+		1KzEPlq9Tr0?t=0
+		1KzEPlq9Tr0?t=450
+🐨	12
+🐄	12
+🍶	12
+🌽	12	lgYoDa5MvaU?t=495
+🐸	12
+🗽	12
+	4
+2021-11-10
+	8	lgYoDa5MvaU?t=36495
+	10	-
+		SdxdnMimKoM?t=0
+		SdxdnMimKoM?t=585
+🐨	12
+🍶	12
+🦀	11
+🦀		sRIzgtJPur8?t=585
+🐸	12
+🗽	12
+🍙	12
+	4
+2021-11-11
+	7	sRIzgtJPur8?t=37485
+	10	-
+		mJEQR2RaFyY?t=0
+	2	mJEQR2RaFyY?t=345
+🐨	12
+🐄	12
+🌽	10
+
+		reKfHaZVxLc?t=0
+🦀	12	reKfHaZVxLc?t=810
+🗽	12
+🍙	8
+🤖	4
+	4
+2021-11-12
+	7	reKfHaZVxLc?t=36810
+	11	-
+		er9_B7I4fPY?t=0
+		er9_B7I4fPY?t=705
+🐄	12
+🍚	12
+🍶	10
+🍶	2	4KD5mM3pdCs?t=60
+🌽	12
+🦀	12
+🐸	12
+	4
+2021-11-13
+	6	4KD5mM3pdCs?t=37860
+	11	-
+		5WxtPB5UmWk?t=0
+	2	5WxtPB5UmWk?t=30
+🍚	12
+🍶	12
+🐨	11
+🐨		5uzXoznyawQ?t=195
+🌽	12
+🗽	12
+🍙	12
+	4
+2021-11-14
+	7	5uzXoznyawQ?t=37095
+	11	-
+		wTT_HwVkowU?t=0
+		wTT_HwVkowU?t=690
+🐄	12
+🍶	12
+🐨	12
+🗽	12	VmXIUDOlLag?t=255
+🍙	11
+🐸	13
+	4
+2021-11-15
+	8	VmXIUDOlLag?t=36255
+	10	-
+		B-1WYekW3z4?t=0
+		B-1WYekW3z4?t=645
+🐄	18
+🍶	17
+🍶		BGDluDx5yJk?t=0
+🗽	12	BGDluDx5yJk?t=855
+🍙	12
+🐸	12
+	4
+2021-11-16
+	7	BGDluDx5yJk?t=36855
+	11	-
+		dinKyPwrs-o?t=0
+		dinKyPwrs-o?t=510
+🐨	12
+🌽	12
+🐄	12
+🦀	12	dXrkrQ8Afdk?t=1905
+🍙	11
+🐸	13
+	4
+2021-11-17
+	6	dXrkrQ8Afdk?t=37905
+	11	-
+		f8iP-X9eWho?t=0
+	2	f8iP-X9eWho?t=120
+🌽	12
+🐨	12
+🍶	12
+🦀	18	cmgHWolIj0U?t=855
+	2
+🗽	16
+	4
+2021-11-18
+	7	cmgHWolIj0U?t=36855
+	11	-
+		YbQvc7tBz80?t=0
+		YbQvc7tBz80?t=885
+🌽	12
+🐨	12
+🍶	12
+🐄	10	DPKHxBglAsM?t=450
+	2
+🦀	12
+🍙	8
+🤖	4
+	4
+2021-11-19
+	8	DPKHxBglAsM?t=36450
+	9	-
+		RdlX6ARwGCU?t=0
+	2	RdlX6ARwGCU?t=870
+🐨	12
+🍶	12
+🍚	12
+
+		dSnIUCozGWE?t=1125
+🐄	9
+
+🍙	12
+🗽	12
+	4
+2021-11-20
+	8	dSnIUCozGWE?t=36225
+	8	-
+		IaPrm3mQijU?t=0
+	3	IaPrm3mQijU?t=795
+🌽	12
+🍚	12
+🐄	12
+🦀	12	6IvhW85GaPM?t=135
+🐸	12
+🗽	12
+
+🐄
+	2
+2021-11-21
+	8	6IvhW85GaPM?t=36135
+	9	-
+		ev-hy5S8dnw?t=0
+	2	ev-hy5S8dnw?t=810
+🌽	12
+🍚	17
+
+🦀	6
+🦀	12	YjZfVxu8Gx8?t=135
+🐸	12
+🗽	12
+	4
+2021-11-22
+	8	YjZfVxu8Gx8?t=36135
+	10	-
+		wd0aq8ZdYOs?t=0
+		wd0aq8ZdYOs?t=375
+🐄	12
+🍶	12
+🍚	12
+🐨	12	9jAqWRVYRHs?t=135
+🦀	12
+🐸	12
+	4
+2021-11-23
+	8	9jAqWRVYRHs?t=36135
+	10	-
+		Oou3yM1RDuI?t=0
+		Oou3yM1RDuI?t=240
+🐄	12
+🍶	12
+🐨	12
+🗽	12	8E1G9WPz3vc?t=240
+🍙	12
+🐸	12
+	4
+2021-11-24
+	8	8E1G9WPz3vc?t=36240
+	10	-
+		GsjC7uPQDvs?t=0
+		GsjC7uPQDvs?t=465
+🍚	12
+🐄	12
+🐨	12
+🦀	12	DWEX8sM5IhA?t=750
+🗽	12
+🍙	12
+	4
+2021-11-25
+	7	DWEX8sM5IhA?t=36750
+	10	-
+		OZYjSl9I720?t=0
+	2	OZYjSl9I720?t=90
+🍚	12
+🌽	12
+🍶	11
+🍶		yArPUbAvyZI?t=555
+🦀	12
+🐸	10
+	2
+🍙	8
+🤖	4
+	4
+2021-11-26
+	7	yArPUbAvyZI?t=37455
+	11	-
+		vddmEnevSwk?t=0
+		vddmEnevSwk?t=885
+🌽	12
+🐨	12
+🍶	12
+🍶	6	3kJlbP7Hjf8?t=840
+🦀	18
+🗽	12
+	4
+2021-11-27
+	7	3kJlbP7Hjf8?t=36840
+	12	-
+		rRYwAWnZLGE?t=0
+🌽	12	rRYwAWnZLGE?t=570
+🐨	12
+🍚	13
+🍚	4	eJXCejmWIsU?t=1110
+
+🍙	17
+🗽	13
+	4
+2021-11-28
+	8	eJXCejmWIsU?t=36210
+	10	-
+		t4K-ayirWck?t=0
+		t4K-ayirWck?t=435
+🐨	12
+🐄	12
+🍚	12
+🦀	12	vrKw2PJ7VKg?t=795
+🗽	12
+🐸	12
+	4
+2021-11-29
+	7	vrKw2PJ7VKg?t=36795
+	11	-
+		kw6g0K4rDL4?t=0
+		kw6g0K4rDL4?t=795
+🐄	12
+🌽	12
+🍶	11
+🍶		LSxla-9B5PM?t=570
+🍚	12
+	2
+🦀	10
+🍙	12
+	4
+2021-11-30
+	7	LSxla-9B5PM?t=37470
+	11	-
+		LtI0X6iFziQ?t=0
+		LtI0X6iFziQ?t=585
+🌽	12
+🐄	12
+🍶	10
+	2
+🍚	18	W8-19yA4VjQ?t=690
+🍙	17
+	5
+2021-12-01
+	7	W8-19yA4VjQ?t=36690
+	11	-
+		mHrM3GzJsu0?t=0
+		mHrM3GzJsu0?t=390
+🌽	12
+🍶	12
+🦀	12
+🐄
+🐄	11	GuatzxQApJ4?t=1155
+🗽	12
+🍙	12
+	4
+2021-12-02
+	8	GuatzxQApJ4?t=36255
+	10	-
+		bJg1RDgJqW8?t=0
+		bJg1RDgJqW8?t=705
+🐨	12
+🍶	18
+	2
+🐰	3
+🐰		MNjjEjSpN8I?t=150
+🦔	12
+🦀	12
+🗽	8
+🤖	4
+	4
+2021-12-03
+	7	MNjjEjSpN8I?t=37050
+	12	-
+		a6EB52GbFvs?t=0
+🍚	12	a6EB52GbFvs?t=780
+🌽	12
+🐄	12
+🦔	12	aLIw_9YLWsA?t=300
+🦀	12
+🗽	12
+	4
+2021-12-04
+	8	aLIw_9YLWsA?t=36300
+	10	-
+		uCHdiYG5Mag?t=0
+		uCHdiYG5Mag?t=435
+🍚	12
+🐨	12
+🐄	12
+🍙	12	gOFDNsDgotY?t=165
+🐸	12
+🦀	12
+	4
+2021-12-05
+	8	gOFDNsDgotY?t=36165
+	9	-
+		gt4SlkK3HHI?t=0
+	2	gt4SlkK3HHI?t=135
+🐨	12
+🍶	12
+🐄	11
+🐄		cT_brnSAucA?t=225
+🦔	12
+🗽	12
+🐸	12
+	4
+2021-12-06
+	7	cT_brnSAucA?t=37125
+	11	-
+		W-tnFBEvOvo?t=0
+		W-tnFBEvOvo?t=60
+🍚	12
+🌽	12
+🍶	11
+🍶		hXbfkh3odcg?t=930
+🦔	12
+🗽	12
+🦀	12
+	4
+2021-12-07
+	6	hXbfkh3odcg?t=37830
+	11	-
+		zJ3Hqhy_AkA?t=0
+	2	zJ3Hqhy_AkA?t=180
+🌽	12
+🐨	12
+🍶	12
+🍙	12	MMFgHljO9Sc?t=645
+🐸	12
+🦀	12
+	4
+2021-12-08
+	7	MMFgHljO9Sc?t=36645
+	11	-
+		aKCHDzDau_8?t=0
+		aKCHDzDau_8?t=870
+🌽	12
+🐨	12
+🐄	11
+🐄		zkuBYFnH_0w?t=585
+	6
+🍙	18
+🗽	12
+	4
+2021-12-09
+	7	zkuBYFnH_0w?t=37485
+	11	-
+		lPVbAF9oZXs?t=0
+		lPVbAF9oZXs?t=765
+🐨	12
+🍶	12
+🍚	12
+🍚	5	2m1QLB9H850?t=615
+
+🦀	18
+🐸	8
+🤖	4
+	4
+2021-12-10
+	7	2m1QLB9H850?t=36615
+	9	-
+		oucizQFvlns?t=0
+	3	oucizQFvlns?t=150
+🐄	12
+🍚	12
+🍶	12
+🦔
+🦔	11	ueKEJGyNVPk?t=1380
+🗽	12
+🦀	12
+	4
+2021-12-11
+	8	ueKEJGyNVPk?t=36480
+	9	-
+		fhrHaE1kX30?t=0
+	2	fhrHaE1kX30?t=270
+🐨	12
+🍶	12
+🍚	12
+🐰	4	c7PO5DnmS6k?t=435
+	4
+🍙	4
+🗽	12
+🦀	12
+	4
+2021-12-12
+	8	c7PO5DnmS6k?t=36435
+	10	-
+		8bfrrOrfwcw?t=0
+		8bfrrOrfwcw?t=870
+🐨	12
+🐄	12
+🦔	11
+🦔		d93zFQY-INw?t=645
+🐰	6
+🍙	5
+
+🐸	12
+🦀	12
+	4
+2021-12-13
+	6	d93zFQY-INw?t=37545
+	12	-
+		dDnZl1z-6w0?t=0
+		dDnZl1z-6w0?t=465
+🐄	12
+🍶	12
+🐰	12
+🦔	12	C3ztFJ6K1S4?t=195
+🐸	11
+
+🍙	12
+	4
+2021-12-14
+	8	C3ztFJ6K1S4?t=36195
+	9	-
+		psEdSa_8bTM?t=0
+	2	psEdSa_8bTM?t=270
+🐄	12
+🐨	12
+🐰	12
+🦔	12	yz7B0xZKM4U?t=255
+🦀	12
+🍙	12
+	4
+2021-12-15
+	8	yz7B0xZKM4U?t=36255
+	10	-
+		FqYJ-h6T8bg?t=0
+		FqYJ-h6T8bg?t=465
+🐄	12
+🌽	12
+🐨	11
+🐨		lYdr--zTa4M?t=0
+🗽	12	lYdr--zTa4M?t=825
+🐸	12
+🦀	12
+	4
+2021-12-16
+	7	lYdr--zTa4M?t=36825
+	11	-
+		GRpuULl4oro?t=0
+		GRpuULl4oro?t=420
+🌽	12
+🍶	12
+🍚	12
+🦔	17	SXzkAG3dLBo?t=825
+
+🦀	14
+🤖	4
+	4
+2021-12-17
+	7	SXzkAG3dLBo?t=36825
+	11	-
+		SK0Pi5fDgCA?t=0
+		SK0Pi5fDgCA?t=660
+🌽	17
+
+🍶	17
+🍶		X-xTCw43q0g?t=750
+🦔	17
+
+🦀	18
+	4
+2021-12-18
+	6	X-xTCw43q0g?t=37650
+	12	-
+		y2b4oHpeGVU?t=0
+		y2b4oHpeGVU?t=180
+🐄	12
+🐨	12
+🍚	12
+🦔
+🦔	11	Zh6s7lQ4yZo?t=1140
+🦀	12
+🍙	12
+	4
+2021-12-19
+	8	Zh6s7lQ4yZo?t=36240
+	10	-
+		SZ6yE7lHc7A?t=0
+		SZ6yE7lHc7A?t=540
+🐄	12
+🌽	12
+🐨	12
+🍚	12	DMumohk4nHI?t=795
+🦔	12
+🍙	12
+	2
+🍚
+
+2021-12-20
+	7	DMumohk4nHI?t=36795
+	10	-
+		5QU3FKOfGGI?t=0
+	2	5QU3FKOfGGI?t=90
+🌽	12
+🐄	17
+
+🍚	6
+🍚		SAGUorF75TU?t=15
+🍚		5QU3FKOfGGI?t=35190
+🍚	10	SAGUorF75TU?t=1815
+🐸	12
+🦀	12
+	4
+2021-12-21
+	8	SAGUorF75TU?t=36015
+	9	-
+		7df_y9Br-eA?t=0
+	2	7df_y9Br-eA?t=60
+🌽	12
+🍶	11
+
+🐨	11
+🐨		oqqvUxZn5oA?t=585
+🦔	12
+🍙	12
+🦀	12
+	4
+2021-12-22
+	7	oqqvUxZn5oA?t=37485
+	10	-
+		t4Q62ZMllr4?t=0
+	2	t4Q62ZMllr4?t=210
+🐄	12
+🐨	12
+🐰	12
+🦔
+🦔	11	oHUdsVUo9EQ?t=405
+🗽	12
+🐸	12
+	4
+2021-12-23
+	9	oHUdsVUo9EQ?t=35505
+	9	-
+		Wy-n8YknzU0?t=0
+		Wy-n8YknzU0?t=855
+🌽	12
+🍶	12
+🐰	12
+🍚	12	yKjI-xlU4qw?t=720
+🦀	10
+	2
+🗽	8
+🤖	4
+	4
+2021-12-24
+	7	yKjI-xlU4qw?t=36720
+	11	-
+		mEhI3x7kZn4?t=0
+		mEhI3x7kZn4?t=825
+🐨	12
+🍶	12
+🌽	12
+🍚	12	Auy1si6qRt8?t=240
+🦀	12
+🍙	12
+	4
+2021-12-25
+	8	Auy1si6qRt8?t=36240
+	9	-
+		eYZq5F01xt8?t=0
+	2	eYZq5F01xt8?t=615
+🐨	12
+🌽	12
+🐄	12
+🦔	12	7eQTt8CfCGw?t=1050
+🐸	12
+🗽	12
+	4
+2021-12-26
+	7	7eQTt8CfCGw?t=37050
+	11	-
+		fyMCRlES1sM?t=0
+		fyMCRlES1sM?t=525
+🍚	12
+🐄	12
+🍶	12
+🦔	12	7fQWxEhTkaE?t=120
+🐸	12
+🗽	12
+	4
+2021-12-27
+	8	7fQWxEhTkaE?t=36120
+	10	-
+		S6w_xlG7gLI?t=0
+		S6w_xlG7gLI?t=555
+🍚	12
+🐨	12
+🍶	12
+🦔		sZc4L2rZD2w?t=330
+🦔	2	S6w_xlG7gLI?t=34755
+🦔	9	sZc4L2rZD2w?t=3030
+🍙	12
+🗽	12
+	4
+2021-12-28
+	8	sZc4L2rZD2w?t=36330
+	10	-
+		rMaXgez1xlc?t=0
+		rMaXgez1xlc?t=630
+🐨	12
+🍶	12
+🌽	12
+🦔	12	m4KkZ427Lg8?t=180
+🦀	12
+🐸	12
+	4
+2021-12-29
+	8	m4KkZ427Lg8?t=36180
+	10	-
+		5heZf_xFgZ4?t=0
+		5heZf_xFgZ4?t=75
+🍚	12
+🐄	12
+🐨	12
+🌽	2
+🌽	10	iwQnqDYGtJI?t=2040
+🍙	12
+🦀	12
+	4
+2021-12-30
+	8	iwQnqDYGtJI?t=36240
+	8	-
+		tvA-9ftXPFg?t=0
+	3	tvA-9ftXPFg?t=105
+🐄	12
+🍶	12
+🌽	11
+🌽		zgCmRmOJ_RI?t=495
+🦔	12
+🗽	12
+🐸	8
+🤖	4
+	4
+2021-12-31
+	7	zgCmRmOJ_RI?t=37395
+	10	-
+		P_e2Dh7t2og?t=0
+	2	P_e2Dh7t2og?t=645
+🍚	12
+🐄	12
+🐰	12
+🦔	2
+🦔	10	z_nXRWl-Bqc?t=1335
+🐸	12
+🍙
+🍙	5	hAoEwPKOpUc?t=1245
+🍙		z_nXRWl-Bqc?t=26535
+🍙		hAoEwPKOpUc?t=6645
+🍙		z_nXRWl-Bqc?t=28335
+🍙	3	hAoEwPKOpUc?t=8445
+		z_nXRWl-Bqc?t=31935
+		hAoEwPKOpUc?t=12045
+🗽	2	z_nXRWl-Bqc?t=33735
+2022-01-01
+🗽	3	z_nXRWl-Bqc?t=35535
+	6
+	9	-
+		0lfBpDZpz-4?t=0
+		0lfBpDZpz-4?t=330
+🍚	12
+🌽	12
+🐰	12
+🦔
+🦔	11	IfVYHy6uZ9A?t=825
+🗽	12
+🍙	12
+	4
+2022-01-02
+	8	IfVYHy6uZ9A?t=35925
+	10	-
+		KAgmFiyNcfU?t=0
+		KAgmFiyNcfU?t=180
+🌽	12
+🐄	12
+🐨	12
+🦀	2
+🦀	10	84xxK2kmOHU?t=2160
+🐸	12
+🗽	12
+	4
+2022-01-03
+	8	84xxK2kmOHU?t=36360
+	10	-
+		SlW4e9mpU2k?t=0
+		SlW4e9mpU2k?t=225
+🐄	12
+🐨	12
+🦔	12
+🦀	2
+🦀	10	sRCq3HTh-Tk?t=2370
+🍙	12
+🐸	12
+	4
+2022-01-04
+	8	sRCq3HTh-Tk?t=36570
+	11	-
+		W42boS_v1d0?t=0
+🐄	12
+🌽	12
+🐨	12
+🍙	10	K911UqbUWRE?t=465
+	2
+🗽	12
+🐸	12
+	4
+2022-01-05
+	8	K911UqbUWRE?t=36465
+	11	-
+		KchW0hflLlk?t=0
+🌽	12	KchW0hflLlk?t=735
+🍚	12
+🐨	12
+🍙	12	FNxmZITNklc?t=210
+🗽	12
+🦀	12
+	4
+2022-01-06
+	8	FNxmZITNklc?t=36210
+	9	-
+		3Kxr_OdVkOg?t=0
+	2	3Kxr_OdVkOg?t=30
+🐄	12
+🍚	12
+🐰	11
+🐰		uQVcEFfuLdI?t=330
+🦔	12
+🐸	12
+🦀	8
+🤖	2
+🍙	2
+	4
+2022-01-07
+	7	uQVcEFfuLdI?t=37230
+	11	-
+		WKJzKBeWnUY?t=0
+		WKJzKBeWnUY?t=870
+🐨	12
+🐄	12
+🐰	12
+🍚	12	o9luvv-TO3Y?t=840
+🦔	12
+🐸	12
+	4
+2022-01-08
+	7	o9luvv-TO3Y?t=36840
+	10	-
+		Nxhf8XfHKoo?t=0
+	2	Nxhf8XfHKoo?t=75
+🌽	12
+🐨	12
+🍶	11
+🍶		_BDQa0_QLQk?t=750
+🦔	12
+🗽	12
+🦀	12
+	4
+2022-01-09
+	6	_BDQa0_QLQk?t=37650
+	11	-
+		BLjUf2sK37E?t=0
+	2	BLjUf2sK37E?t=465
+🌽	12
+🐄	12
+🍶	11
+🍶		N2lq9pS1NrQ?t=675
+🦔	12
+🦀	12
+🐸	12
+	4
+2022-01-10
+	6	N2lq9pS1NrQ?t=37575
+	12	-
+		T5V9Ytvw78w?t=0
+		T5V9Ytvw78w?t=825
+🍚	12
+🐨	12
+🐄	11
+🐄		NGMLty-QKXA?t=645
+🦔	12
+🍙	11
+
+🗽	12
+	4
+2022-01-11
+	6	NGMLty-QKXA?t=37545
+	12	-
+		d2J8SYgFNhI?t=0
+		d2J8SYgFNhI?t=765
+🍚	12
+🐨	11
+
+🍶	12
+🍙	12	ICrwTOiRUS0?t=285
+🦀	11
+
+🗽	12
+	4
+2022-01-12
+	8	ICrwTOiRUS0?t=36285
+	10	-
+		5hrkHlpeOMc?t=0
+		5hrkHlpeOMc?t=690
+🐨	12
+🌽	12
+🍶	12
+🐄
+🐄	11	_PD-fbuZq_s?t=1005
+🦔	12
+🗽	12
+	4
+2022-01-13
+	8	_PD-fbuZq_s?t=36105
+	10	-
+		VRNq71RPSxE?t=0
+		VRNq71RPSxE?t=555
+🐨	12
+🌽	12
+🍶	12
+🦔	12	3_yne4OBnRU?t=420
+🐸	12
+🦀	8
+🤖	2
+🍙	2
+	4
+2022-01-14
+	8	3_yne4OBnRU?t=36420
+	10	-
+		nozzF5hOtTc?t=0
+		nozzF5hOtTc?t=855
+🌽	12
+🐄	12
+🐰	11
+🐰		hAhv3nc2aEI?t=300
+🦔	12
+🦀	12
+🍙	12
+	4
+2022-01-15
+	7	hAhv3nc2aEI?t=37200
+	10	-
+		ZPFU17aVTQg?t=0
+	2	ZPFU17aVTQg?t=825
+🐄	12
+🍚	12
+🐰	12
+🦔	4
+	36	-
+2022-01-16
+	19	-
+		sBZwZqBsZoI?t=0
+🐄	12	sBZwZqBsZoI?t=180
+🍚	12
+🐰	12
+🍙
+🍙	11	1YGQj9rDs_E?t=330
+🦀	12
+🗽	12
+	4
+2022-01-17
+	3	1YGQj9rDs_E?t=35430
+	16	-
+		zuy3aEN_Gks?t=0
+🍚	12	zuy3aEN_Gks?t=195
+🌽	12
+🍶	12
+🦔	12	a8DV6YPVESE?t=0
+🍙	12
+🐸	12
+	4
+2022-01-18
+	8	a8DV6YPVESE?t=36000
+	10	-
+		ivbJOPC1P-U?t=0
+		ivbJOPC1P-U?t=525
+🍚	12
+🌽	12
+🐄	12
+🦔
+🦔	11	urJfxYWhIYA?t=645
+🗽	12
+🦀	12
+	4
+2022-01-19
+	8	urJfxYWhIYA?t=35745
+	10	-
+		nVMXALr0QS4?t=0
+		nVMXALr0QS4?t=705
+🌽	12
+🍶	12
+🐄	12
+🦔	12	6uaR5E8aV54?t=660
+🗽	12
+🦀	12
+	4
+2022-01-20
+	7	6uaR5E8aV54?t=36660
+	11	-
+		UzQym8knUyQ?t=0
+		UzQym8knUyQ?t=825
+🌽	12
+🍚	12
+🍶	12
+🐄	10	rEoyBnv6F0k?t=1770
+	2
+🐸	12
+🗽	8
+🤖	4
+	4
+2022-01-21
+	6	rEoyBnv6F0k?t=37770
+	12	-
+		ht2p78W6ZMQ?t=0
+		ht2p78W6ZMQ?t=30
+🍚	12
+🍶	12
+🐄	12
+🦀	2
+🦀	10	LUySEZH331o?t=2040
+🐸	12
+🗽	12
+	4
+2022-01-22
+	5	LUySEZH331o?t=36240
+🐨	3
+	9	-
+		NFQEf5oMqqM?t=0
+	2	NFQEf5oMqqM?t=660
+🐨	12
+🍶	12
+🐰	11
+🐰		5zkA-KyInaM?t=885
+🌽	12
+🦔	12
+🍙	12
+	4
+2022-01-23
+	6	5zkA-KyInaM?t=37785
+	11	-
+		J1wB36H631Q?t=0
+	2	J1wB36H631Q?t=750
+🍚	12
+🐨	12
+🐰	10
+🐰	2	BYcGGb3QIIE?t=195
+🦔	17
+
+🗽	18
+	4
+2022-01-24
+	6	BYcGGb3QIIE?t=37995
+	12	-
+		iCbmtX2fxj8?t=0
+		iCbmtX2fxj8?t=825
+🐨	12
+🍶	12
+🦀	11
+🦀		Dl3qRMW0Dj4?t=195
+🦔	12
+🍙	12
+🐸	12
+	4
+2022-01-25
+	7	Dl3qRMW0Dj4?t=37095
+	11	-
+		WRiOGniQ47M?t=0
+		WRiOGniQ47M?t=555
+🐨	12
+🐄	17
+
+🌽	6
+🌽		sGII-wSkaUg?t=0
+🌽	11	sGII-wSkaUg?t=735
+🦀	12
+🗽	12
+	4
+2022-01-26
+	8	sGII-wSkaUg?t=35835
+	9	-
+		_aFiPxdjPqo?t=0
+	2	_aFiPxdjPqo?t=315
+🐄	15
+	3
+🌽	3
+🌽	14	HmJuUl4fEw8?t=180
+🌽		JyWmln897do?t=180
+🦔	12
+🐸	12
+🗽	12
+	4
+2022-01-27
+	7	JyWmln897do?t=37080
+	11	-
+		SzioBpJ47zI?t=0
+		SzioBpJ47zI?t=855
+🐄	12
+🐨	12
+🍚	11
+🍚		ClsLUzmPcF0?t=0
+🦔	12	ClsLUzmPcF0?t=870
+🦀	10
+	2
+🐸	8
+🤖	4
+	4
+2022-01-28
+	7	ClsLUzmPcF0?t=36870
+	11	-
+		aY-DpzFud28?t=0
+		aY-DpzFud28?t=480
+🐨	12
+🐄	13
+	5
+🌽	6
+🌽	12	mKLBdHmZHQY?t=465
+	6
+🐸	18
+	4
+2022-01-29
+	8	mKLBdHmZHQY?t=36465
+	10	-
+		Zl7r-5czK5k?t=0
+		Zl7r-5czK5k?t=405
+🐨	12
+🍚	17
+
+🌽	6
+🌽	12	9PjwM9B7PPQ?t=495
+🍙	11
+
+🗽	12
+	4
+2022-01-30
+	8	9PjwM9B7PPQ?t=36495
+	9	-
+		PkyNNh4WtQY?t=0
+	2	PkyNNh4WtQY?t=360
+🍚	12
+🐄	12
+🐰	12
+🌽
+🌽	11	jbW_Av4swX4?t=1320
+🍙	11
+
+🗽	12
+	4
+2022-01-31
+	8	jbW_Av4swX4?t=36420
+	10	-
+		meS0ztmBid4?t=0
+		meS0ztmBid4?t=240
+🍚	17
+
+🐰	18
+🦔	12	SqJeaCC11C4?t=585
+🐸	12
+🦀	12
+	4
+2022-02-01
+	8	SqJeaCC11C4?t=36585
+	11	-
+		LC9x1HSh_6Q?t=0
+🐨	12	LC9x1HSh_6Q?t=495
+🐄	12
+🌽	11
+🌽		QZ8lApIFy_g?t=630
+🦔	12
+🍙	12
+🗽	12
+	4
+2022-02-02
+	6	QZ8lApIFy_g?t=37530
+	11	-
+		T1_tKk5CiS0?t=0
+	2	T1_tKk5CiS0?t=780
+🐨	12
+🐄	17
+
+🍙	7
+🍙	11	Iq2V_hP8OD0?t=1395
+🦀	12
+🗽	12
+	4
+2022-02-03
+	8	Iq2V_hP8OD0?t=36495
+	10	-
+		IH4opptGX5c?t=0
+		IH4opptGX5c?t=735
+🐄	12
+🌽	17
+
+🦔	6
+🦔	12	mYOKsikT5-U?t=1155
+🐸	12
+🦀	8
+🤖	4
+	4
+2022-02-04
+	7	mYOKsikT5-U?t=37155
+	9	-
+		1YmgqQjbe5o?t=0
+	3	1YmgqQjbe5o?t=510
+🌽	12
+🐨	12
+🦔	12
+🗽
+🗽	11	aXfhjNVnQKQ?t=1590
+🍶	10
+	2
+🍙	12
+	4
+2022-02-05
+	7	aXfhjNVnQKQ?t=36690
+	9	-
+		hEMYlwyv1Ho?t=0
+	3	hEMYlwyv1Ho?t=120
+🌽	12
+🐨	12
+🐰	12
+🦔	7
+	33	-
+2022-02-06
+	19	-
+		4zYGEkRlQCw?t=0
+🐨	17	4zYGEkRlQCw?t=855
+
+🐰	18
+🍚		26OXC7KYjT0?t=0
+🍚	11	26OXC7KYjT0?t=840
+🗽	12
+🐸	12
+	4
+2022-02-07
+	8	26OXC7KYjT0?t=35940
+	10	-
+		x1CWBIC6eyA?t=0
+		x1CWBIC6eyA?t=150
+🍶	12
+🐨	17
+
+🍚	6
+🍚	12	DtkTkS7skHY?t=330
+🦔	12
+🦀	12
+	4
+2022-02-08
+	8	DtkTkS7skHY?t=36330
+	10	-
+		g0HsR3AMd1M?t=0
+		g0HsR3AMd1M?t=705
+🍶	17
+
+🌽	18
+🦔	12	cSxZVhW3DQQ?t=690
+🍙	12
+🐸	12
+	4
+2022-02-09
+	7	cSxZVhW3DQQ?t=36690
+	12	-
+		uIMawIWZk6I?t=0
+🐨	17	uIMawIWZk6I?t=765
+
+🍶	13
+
+🦀/🍶	2
+🍶/🦀
+
+🌽
+🌽	11	Z_NfcBHXbZ4?t=615
+🦀	12
+🗽	12
+	4
+2022-02-10
+	8	Z_NfcBHXbZ4?t=35715
+	10	-
+		tKkqHwphAbk?t=0
+		tKkqHwphAbk?t=165
+🐨	12
+🍚	12
+🍶	11
+
+🦀	3
+🦀	9	Zzz1XaKCyQQ?t=1050
+🐸	12
+🗽	12
+	4
+2022-02-11
+	10	Zzz1XaKCyQQ?t=34350
+	7	-
+		PmdZrwGfJvw?t=0
+	2	PmdZrwGfJvw?t=90
+🍚	17
+
+🌽	18
+🦀	11	HONR9awfE1U?t=165
+
+🐸	12
+🗽	12
+	4
+2022-02-12
+	8	HONR9awfE1U?t=36165
+	10	-
+		EciJcJij_Ts?t=0
+		EciJcJij_Ts?t=555
+🍚	17
+
+🦔	18
+🦀	2
+🦀	10	XiLQNeIAwgc?t=225
+🐸	12
+🗽	12
+	4
+2022-02-13
+	10	XiLQNeIAwgc?t=34425
+	9	-
+		hRsab5Q23LM?t=0
+🍚	17	hRsab5Q23LM?t=645
+
+🦔	18
+🍙	12	TmXO5zjrH8o?t=195
+🦀	12
+🐸	12
+	4
+2022-02-14
+	8	TmXO5zjrH8o?t=36195
+	10	-
+		DjYtvjRwyYU?t=0
+		DjYtvjRwyYU?t=30
+🐨	12
+🍶	12
+🐰	12
+🦔	2
+🦔	10	qxXEnRs7EGc?t=1620
+🗽	12
+🐸	10
+	6
+2022-02-15
+	8	qxXEnRs7EGc?t=35820
+	10	-
+		cNo99uyZen8?t=0
+		cNo99uyZen8?t=270
+🐨	12
+🌽	12
+🐰	11
+🐰		oAyx9wEOb-0?t=1065
+🐄	12
+🦔	12
+🗽	12
+	4
+2022-02-16
+	6	oAyx9wEOb-0?t=37965
+	11	-
+		B_7PLYmkF8E?t=0
+	2	B_7PLYmkF8E?t=15
+🌽	12
+🍶	12
+🐄	11
+🐄		pvdYG5fQCZs?t=930
+🍙	12
+🦀	12
+🗽	12
+	4
+2022-02-17
+	6	pvdYG5fQCZs?t=37830
+	12	-
+		Br75btRkfzk?t=0
+		Br75btRkfzk?t=615
+🌽	12
+🍶	12
+🐄	11
+🐄		lhLgYLJCwc4?t=675
+🦔	12
+🦀	12
+🐸	8
+🤖	2
+🍙	2
+	4
+2022-02-18
+	6	lhLgYLJCwc4?t=37575
+	11	-
+		VouZcmozj34?t=0
+	2	VouZcmozj34?t=135
+🍚	12
+🍶	12
+🐄	12
+🦔	12	dyTU0wt9IUQ?t=585
+🦀	12
+🗽	12
+	4
+2022-02-19
+	8	dyTU0wt9IUQ?t=36585
+	8	-
+		jElNS-t8kiQ?t=0
+	4	jElNS-t8kiQ?t=165
+🌽	11
+🍚	12
+🐰	11
+🐰		rofKrKHknNI?t=720
+🦔	12
+🐸	12
+🗽	12
+	4
+2022-02-20
+	6	rofKrKHknNI?t=37620
+	11	-
+		6lbGGV68j7s?t=0
+	2	6lbGGV68j7s?t=795
+🍚	12
+🐄	12
+🐰	12
+🐸	4
+🐸	8	PAd5Kmx3PwI?t=3525
+🍙	12
+🗽	12
+	4
+2022-02-21
+	8	PAd5Kmx3PwI?t=35925
+	9	-
+		91j_dd5rwKE?t=0
+	2	91j_dd5rwKE?t=480
+🍚	12
+🌽	12
+🐰	12
+🐄	12	t--RcChwxAw?t=180
+🍙	12
+🦀	12
+	4
+2022-02-22
+	8	t--RcChwxAw?t=36180
+	9	-
+		Wj5nG9CD5eY?t=0
+	2	Wj5nG9CD5eY?t=120
+🌽	12
+🍶	12
+🐄	12
+🦔
+🦔	11	sFfsm_OE6oQ?t=1485
+🗽	12
+🦀	12
+	4
+2022-02-23
+	8	sFfsm_OE6oQ?t=36585
+	10	-
+		iAewaH-2b38?t=0
+		iAewaH-2b38?t=555
+🍚	12
+🌽	12
+🍶	12
+🐨
+🐨	11	a2aNAdPfkFY?t=1485
+🐸	12
+🦀	12
+	4
+2022-02-24
+	8	a2aNAdPfkFY?t=36585
+	10	-
+		PozYaen-xjQ?t=0
+		PozYaen-xjQ?t=795
+🍚	12
+🍶	12
+🐄	10
+🐄	2	tjQ_GaZFea8?t=45
+🐨	12
+🦔	10
+	2
+🐸	8
+🤖	4
+	4
+2022-02-25
+	6	tjQ_GaZFea8?t=37845
+	12	-
+		gRICGwJgZPU?t=0
+		gRICGwJgZPU?t=630
+🌽	12
+🍶	12
+🐰	11
+🐰		uEscT14wprk?t=930
+🐨	12
+🦔	12
+🗽	12
+	4
+2022-02-26
+	6	uEscT14wprk?t=37830
+	11	-
+		_kvtl09u_nI?t=0
+	2	_kvtl09u_nI?t=675
+🍚	12
+🌽	12
+🐰	11
+🐰		z1IwIm2PI0E?t=1215
+🦀	12
+🗽	12
+🐸	12
+	4
+2022-02-27
+	6	z1IwIm2PI0E?t=38115
+	12	-
+		ETcB2f2tycY?t=0
+		ETcB2f2tycY?t=735
+🐄	12
+🌽	12
+🐨	11
+🐨		yXTj-nEngEM?t=465
+🦔	12
+	6
+🗽	18
+	4
+2022-02-28
+	7	yXTj-nEngEM?t=37365
+	10	-
+		mgjR4UMeK5U?t=0
+	2	mgjR4UMeK5U?t=555
+🍚	12
+🍶	12
+🐨	12
+🦔	12	ly4WBu5f2NA?t=180
+🍙	12
+🦀	12
+	4
+2022-03-01
+	8	ly4WBu5f2NA?t=36180
+	10	-
+		iWcgYOaRdjU?t=0
+		iWcgYOaRdjU?t=135
+🍚	12
+🌽	12
+🐄	12
+🦔	12	327_fzsYC-w?t=15
+🗽	12
+🐸	12
+	4
+2022-03-02
+	8	327_fzsYC-w?t=36015
+	10	-
+		6OOczU3GhgY?t=0
+		6OOczU3GhgY?t=300
+🌽	12
+🐨	12
+🍶	12
+🍙		yPq4NHU90So?t=0
+🍙	11	yPq4NHU90So?t=585
+🦀	12
+🐸	12
+	4
+2022-03-03
+	9	yPq4NHU90So?t=35685
+	8	-
+		CrOkRMTzcFA?t=0
+	2	CrOkRMTzcFA?t=795
+🍚	12
+🐨	10
+	2
+🍶	6
+🍶		8p5wLdTyOQQ?t=0
+🍶	5	8p5wLdTyOQQ?t=810
+🦔	12
+🦀	12
+🗽	8
+🤖	4
+	4
+2022-03-04
+	2	8p5wLdTyOQQ?t=41310
+	16	-
+		f9IbJu9bDRc?t=0
+		f9IbJu9bDRc?t=420
+🐨	12
+🐄	12
+🍶	12
+🦔		1bexN7vlZuk?t=0
+🦔	11	1bexN7vlZuk?t=855
+🦀	11
+
+🗽	12
+	4
+2022-03-05
+	8	1bexN7vlZuk?t=35955
+	10	-
+		SOI__7dYSNQ?t=0
+		SOI__7dYSNQ?t=705
+🐄	12
+🍚	12
+🌽	12
+🐸		VBjvQpZYSTc?t=180
+🐸		SOI__7dYSNQ?t=34905
+🐸	10	VBjvQpZYSTc?t=1980
+🗽	12
+🍙	12
+	4
+2022-03-06
+	8	VBjvQpZYSTc?t=36180
+	9	-
+		TKT5FkpY0ss?t=0
+	2	TKT5FkpY0ss?t=420
+🍚	12
+🐄	12
+🌽	12
+🍶
+🍶		oriSTYR0z4M?t=1170
+🍶		TKT5FkpY0ss?t=36420
+🍶		oriSTYR0z4M?t=2970
+🍶		TKT5FkpY0ss?t=38220
+🍶	7	oriSTYR0z4M?t=4770
+🦔	12
+🦀	12
+	4
+2022-03-07
+	8	oriSTYR0z4M?t=36270
+	10	-
+		e9jlYRZV_-8?t=0
+		e9jlYRZV_-8?t=450
+🍚	12
+🍶	12
+🐰	12
+🦔	12	73Uh3hZxwnI?t=90
+🦀	12
+🗽	12
+	4
+2022-03-08
+	8	73Uh3hZxwnI?t=36090
+	10	-
+		xCmJeljhn1k?t=0
+		xCmJeljhn1k?t=630
+🐄	12
+🐨	12
+🐰	12
+🦔
+🦔	11	crRavu3LQRs?t=855
+🐸	12
+🗽	12
+	4
+2022-03-09
+	8	crRavu3LQRs?t=35955
+	9	-
+		C6VZehwZ3yM?t=0
+	2	C6VZehwZ3yM?t=210
+🐨	12
+🍚	12
+🍶	11
+🍶		kGHklutUk9g?t=735
+🌽	12
+🍙	12
+🐸	12
+	4
+2022-03-10
+	6	kGHklutUk9g?t=37635
+	11	-
+		Q3xP1tmz9h8?t=0
+	2	Q3xP1tmz9h8?t=450
+🐨	12
+🍚	12
+🍶	10
+	2
+🌽	12	wxd2W4eM25o?t=435
+🐸	12
+🦀	8
+🤖	4
+	4
+2022-03-11
+	8	wxd2W4eM25o?t=36435
+	9	-
+		bYmkM5lNLCc?t=0
+	2	bYmkM5lNLCc?t=690
+🐄	12
+🍶	12
+🌽	12
+🦔	12	St6U2sGlnuQ?t=720
+🦀	12
+🍙	12
+	4
+2022-03-12
+	7	St6U2sGlnuQ?t=36720
+	10	-
+		Vdz0VujlBEw?t=0
+	2	Vdz0VujlBEw?t=480
+🍚	12
+🐨	12
+🐰	12
+🦔		vMCsFX2LDyI?t=0
+🦔	11	vMCsFX2LDyI?t=855
+🦀	12
+🗽	12
+	4
+2022-03-13
+	8	vMCsFX2LDyI?t=35955
+	10	-
+		hwzK75Gqtfo?t=0
+		hwzK75Gqtfo?t=135
+🍚	12
+🐄	12
+🐰	12
+🦔	12	GTxuC7lWzgU?t=255
+🐸	12
+🗽	12
+	4
+2022-03-14
+	8	GTxuC7lWzgU?t=36255
+	10	-
+		lo4PIssQyQU?t=0
+		lo4PIssQyQU?t=255
+🍚	12
+🐄	12
+🍶	12
+🦔	12	_YlJBbEOAlE?t=315
+🍙	12
+🐸	12
+	4
+2022-03-15
+	8	_YlJBbEOAlE?t=36315
+	10	-
+		KD_O93s_5Ds?t=0
+		KD_O93s_5Ds?t=90
+🐄	12
+🍚	12
+🌽	12
+🍙		QCwF-Wtsdts?t=30
+🍙		KD_O93s_5Ds?t=34290
+🍙	10	QCwF-Wtsdts?t=1830
+🗽	12
+🦀	12
+	4
+2022-03-16
+	8	QCwF-Wtsdts?t=36030
+	11	-
+		pSHA9QtZ9Q0?t=0
+🐄	12	pSHA9QtZ9Q0?t=630
+🐨	12
+🍶	12
+🍙	12	3FUrzp3Tg5w?t=270
+🐸	12
+🦀	12
+	2
+🦀	2
+2022-03-17
+🦀		3FUrzp3Tg5w?t=36270
+
+🦀	6
+	5	-
+		8Ybm2sVcT-g?t=0
+🐨		8Ybm2sVcT-g?t=105
+
+🐨	16
+🌽	12
+🍶	12
+🦔
+🦔	11	B3ujBclPuzU?t=585
+🗽	12
+🐸	8
+🤖	4
+	4
+2022-03-18
+	9	B3ujBclPuzU?t=35685
+	9	-
+		Xc8uCM7-Taw?t=0
+		Xc8uCM7-Taw?t=450
+🐨	12
+🐄	12
+🍶	12
+🗽	2
+🗽		O8gqvQJQmus?t=0
+🗽	9	O8gqvQJQmus?t=825
+🦀	12
+🐸	12
+	4
+2022-03-19
+	10	O8gqvQJQmus?t=34125
+	7	-
+		3hSi43bUG6I?t=0
+	2	3hSi43bUG6I?t=30
+🐄	12
+🍶	12
+🐰	12
+🌽	4
+🌽	8	KW3wviNk2f4?t=180
+🦔	12
+🦀	12
+	4
+2022-03-20
+	12	KW3wviNk2f4?t=32580
+	5	-
+		WPiOl7Qxx4Q?t=0
+	2	WPiOl7Qxx4Q?t=15
+🐄	12
+🍚	12
+🐰	12
+🐸
+🐸	11	GJF-3Fuli-c?t=855
+🗽	12
+🦀	12
+	4
+2022-03-21
+	8	GJF-3Fuli-c?t=35955
+	10	-
+		LMezk2AaY6c?t=0
+		LMezk2AaY6c?t=480
+🐨	12
+🍚	12
+🦔	12
+🍙	12	HZEH6eLOPLM?t=180
+🗽	12
+🦀	12
+	4
+2022-03-22
+	8	HZEH6eLOPLM?t=36180
+	46	-
+		jZaQufJXEJI?t=0
+🦔		jZaQufJXEJI?t=405
+🍙	12
+🐸	11
+
+🗽	12
+	4
+2022-03-23
+	7	jZaQufJXEJI?t=37305
+	12	-
+		SE8td1nuYo0?t=0
+🐄	12	SE8td1nuYo0?t=765
+🌽	12
+🍶	11
+🍶		7-9PGoonJs8?t=825
+🦔	12
+🐸	12
+🦀	12
+	4
+2022-03-24
+	6	7-9PGoonJs8?t=37725
+	13	-
+		8-q6rKjeCa4?t=0
+🐄	12	8-q6rKjeCa4?t=840
+🌽	12
+🦔	12
+🐸	5
+	35	-
+2022-03-25
+	19	-
+		YK9bazPTOCQ?t=0
+🌽	17	YK9bazPTOCQ?t=780
+
+🍶	18
+🍚	12	pixfTgKSFZ8?t=690
+🐸	12
+🗽	12
+	4
+2022-03-26
+	7	pixfTgKSFZ8?t=36690
+	11	-
+		L_TGM8qfHWc?t=0
+		L_TGM8qfHWc?t=675
+🌽	12
+🐄	12
+🍚	12
+🦔	12	7quFBjfpVa4?t=285
+🍙	12
+🗽	12
+	4
+2022-03-27
+	8	7quFBjfpVa4?t=36285
 	88	-
