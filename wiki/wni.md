@@ -380,7 +380,7 @@
 [遠野菜月]()[動画](http://mwsgvs.weathernews.jp/audition/mp4/2014/03.mp4)
 [成田沙耶加](https://ja.wikipedia.org/wiki/%E6%88%90%E7%94%B0%E6%B2%99%E8%80%B6%E5%8A%A0)[動画](http://mwsgvs.weathernews.jp/audition/mp4/2014/04.mp4)　帝京平成大学→リポーター
 [木村美和子]()[動画](http://mwsgvs.weathernews.jp/audition/mp4/2014/05.mp4)
-[**高山奈々**](https://ja.wikipedia.org/wiki/%E9%AB%98%E5%B1%B1%E5%A5%88%E3%80%85) (ニコニコお姉さん)[動画](http://mwsgvs.weathernews.jp/audition/mp4/2014/06.mp4)　長岡美少女図鑑→国際こども・福祉カレッジ→日本きものシステム協同組合ドリームエンジェル→WNI
+[高山奈々](https://ja.wikipedia.org/wiki/%E9%AB%98%E5%B1%B1%E5%A5%88%E3%80%85) (ニコニコお姉さん)[動画](http://mwsgvs.weathernews.jp/audition/mp4/2014/06.mp4)　長岡美少女図鑑→国際こども・福祉カレッジ→日本きものシステム協同組合ドリームエンジェル→WNI
 [**白井ゆかり**](https://ja.wikipedia.org/wiki/%E7%99%BD%E4%BA%95%E3%82%86%E3%81%8B%E3%82%8A_\(%E6%B0%97%E8%B1%A1%E3%82%AD%E3%83%A3%E3%82%B9%E3%82%BF%E3%83%BC\))(ハッピープリンセス)[動画](http://mwsgvs.weathernews.jp/audition/mp4/2014/07.mp4)　日本大学→WNI
 一般投票：2015.08.01-2015.08.07
 合格者：高山奈々,白井ゆかり
