@@ -520,6 +520,9 @@
 ## Facebook
 [福吉貴文](https://www.facebook.com/100016607048445/)
 
+## YouTube
+[福吉貴文](https://www.youtube.com/channel/UCRZgR2s5psEO63uZsIaPJtA)　チャットでコメントするときの垢
+
 ## リンク
 
 ### 山岸愛梨
