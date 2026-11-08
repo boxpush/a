@@ -1109,6 +1109,7 @@
 
 * 2025
 [【360 Reality Audio】「アイのマネ」Music Video](https://www.youtube.com/watch?v=qw4SGDqUTGg)
+[Instagram 2025年2月1日](https://www.instagram.com/haruka_n_/p/DFgvnnOyTXg/)
 
 [宝塚受験にも挑戦した女優出身・松本真央、“縁”に導かれてお天気キャスターに　「墓場まで持って行きたい」ハプニングも明かす](https://news.mynavi.jp/article/20250927-maomatsumoto/)
 
