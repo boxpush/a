@@ -1089,7 +1089,8 @@
 [Instagram 2021年1月3日](https://www.instagram.com/p/CJj0K-eD6pK/)
 [Instagram 2021年1月10日](https://www.instagram.com/p/CJ2_A3UjD7B/)
 [Instagram 2021年2月24日](https://www.instagram.com/p/CLrcAxVjKF8/)
-[Instagram2021年4月19日](https://www.instagram.com/p/CN0A2KKj_VC/)
+[Instagram 2021年4月19日](https://www.instagram.com/p/CN0A2KKj_VC/)
+[Instagram 2021年10月22日](https://www.instagram.com/p/CVUQRrfh3bN/)
 
 [Spring Musical Showcase Vol.3](https://www.senzoku-concert.jp/upload/concert/202204131111158l4GRo3510N0ag9e.pdf)
 [Summer Musical Showcase](https://www.senzoku-concert.jp/upload/concert/20220428163330E4UtVcxJF0FpZE2Y.pdf)
@@ -1109,7 +1110,7 @@
 
 * 2025
 [【360 Reality Audio】「アイのマネ」Music Video](https://www.youtube.com/watch?v=qw4SGDqUTGg)
-[Instagram 2025年2月1日](https://www.instagram.com/haruka_n_/p/DFgvnnOyTXg/)
+[Instagram 2025年2月1日](https://www.instagram.com/p/DFgvnnOyTXg/)
 
 [宝塚受験にも挑戦した女優出身・松本真央、“縁”に導かれてお天気キャスターに　「墓場まで持って行きたい」ハプニングも明かす](https://news.mynavi.jp/article/20250927-maomatsumoto/)
 
