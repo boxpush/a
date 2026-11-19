@@ -18399,8 +18399,8 @@
 🐹		3sV8NsZM0Fo?t=1410
 🐹	2	3sV8NsZM0Fo?t=2295
 🐹	2	3sV8NsZM0Fo?t=4140
-🐹		3sV8NsZM0Fo?t=5910
-🐹		3sV8NsZM0Fo?t=6510
+		3sV8NsZM0Fo?t=5910
+		3sV8NsZM0Fo?t=6510
 		3sV8NsZM0Fo?t=7455
 		3sV8NsZM0Fo?t=8340
 		3sV8NsZM0Fo?t=8925
@@ -18720,8 +18720,7 @@
 🐟		Wpzi0k_Nyt4?t=3375
 🐟		Wpzi0k_Nyt4?t=4230
 🐟	4	Wpzi0k_Nyt4?t=5175
-🐟/🐹	2	Wpzi0k_Nyt4?t=8730
-🐟
+🐟	3	Wpzi0k_Nyt4?t=8730
 🐹		Dl0vPCVEWSw?t=0
 🐹	3	Dl0vPCVEWSw?t=885
 🐹		Dl0vPCVEWSw?t=3570
@@ -19020,7 +19019,8 @@
 🐰	12	UmEEEMt_LMo?t=885
 	4	WnKfZPQzbMw?t=240
 2023-11-11
-	20	WnKfZPQzbMw?t=3840
+🦔	2	WnKfZPQzbMw?t=3840
+	18
 🍘		sLE1F7QCevg?t=0
 🍘	2	sLE1F7QCevg?t=885
 🍘	3	sLE1F7QCevg?t=2715
@@ -20052,7 +20052,8 @@
 🍙		tBHQhPTgpXo?t=8145
 🍙		OCDZyPa19gs?t=0
 🐸	12
-	4	yw9NCjUZHlQ?t=165
+🦔	2	yw9NCjUZHlQ?t=165
+	2
 2023-12-05
 	20	yw9NCjUZHlQ?t=3765
 🐹		WASQfqESqmQ?t=0
@@ -20139,7 +20140,7 @@
 🐸		v2DjspFyb1g?t=5985
 🐸		v2DjspFyb1g?t=6615
 🐸		v2DjspFyb1g?t=7440
-🐸		v2DjspFyb1g?t=8085
+		v2DjspFyb1g?t=8085
 		QmOI6I4MQb8?t=0
 🐨	12	QmOI6I4MQb8?t=705
 	4	1eM6iiUWbDc?t=285
@@ -20223,8 +20224,8 @@
 🐨		5lhV_dpR24E?t=7455
 🐨		5lhV_dpR24E?t=8115
 🐨		xEQ-pyqVfQ0?t=105
-🐸	5
-	7
+🐸	6
+	6
 		H6gjIJLumf8?t=150
 🍑	2
 
@@ -20663,8 +20664,7 @@
 🐸		EHpNrK7ZmF8?t=5100
 🐸		EHpNrK7ZmF8?t=6030
 🐸		EHpNrK7ZmF8?t=6705
-🐸	2	EHpNrK7ZmF8?t=7545
-🐰
+🐸	3	EHpNrK7ZmF8?t=7545
 🐰		U0JGF-awJgg?t=0
 🐰		U0JGF-awJgg?t=885
 🐰	2	U0JGF-awJgg?t=1800
@@ -21076,7 +21076,8 @@
 🐸		VSV8garFUDQ?t=3270
 🐸		VSV8garFUDQ?t=4155
 🐸	3	VSV8garFUDQ?t=5070
-🐸	2	VSV8garFUDQ?t=7800
+🐸		VSV8garFUDQ?t=7800
+
 		crbDwGKKGBE?t=0
 🍙		crbDwGKKGBE?t=885
 🍙	3	crbDwGKKGBE?t=1725
@@ -21123,8 +21124,7 @@
 🐸		B_I0fWr13K0?t=3300
 🐸		B_I0fWr13K0?t=4185
 🐸	3	B_I0fWr13K0?t=5100
-🐸		B_I0fWr13K0?t=7785
-
+🐸	2	B_I0fWr13K0?t=7785
 		MUvahzMFJN8?t=345
 🍙
 🍙	4	MUvahzMFJN8?t=2115
@@ -21469,10 +21469,10 @@
 		bx4frUbopYg?t=4230
 		bx4frUbopYg?t=4830
 		bx4frUbopYg?t=5400
-🐸		bx4frUbopYg?t=6045
-🐸		bx4frUbopYg?t=6960
-🐸		bx4frUbopYg?t=7605
-🐸		bx4frUbopYg?t=8475
+		bx4frUbopYg?t=6045
+		bx4frUbopYg?t=6960
+		bx4frUbopYg?t=7605
+		bx4frUbopYg?t=8475
 🐸		NnX-OyhlqpM?t=0
 🐸		NnX-OyhlqpM?t=885
 🐸		NnX-OyhlqpM?t=1815
@@ -23178,7 +23178,7 @@
 🐰	12
 	4	QEClTGw5LYE?t=165
 2024-02-25
-🐰		QEClTGw5LYE?t=3765
+		QEClTGw5LYE?t=3765
 🐨
 	18
 🐹		jrLlcYHwvq0?t=0
@@ -23264,10 +23264,11 @@
 🍙		T8r_6jGrqDM?t=8280
 		Dt2k1D7u3fI?t=0
 🐸	12	Dt2k1D7u3fI?t=795
-	2	IxVbCiY29dM?t=885
-🐿	2
+	4	IxVbCiY29dM?t=885
 2024-02-27
-	20	IxVbCiY29dM?t=4485
+	2	IxVbCiY29dM?t=4485
+🐰
+	17
 🍘		UpYwrC56VNw?t=0
 🍘	3	UpYwrC56VNw?t=885
 🍘		UpYwrC56VNw?t=3465
@@ -24220,7 +24221,7 @@
 2024-03-19
 		9W4Or3GNN0s?t=3810
 🎀
-
+🐹
 🦔
 	16
 🐟		ik2fit2fkGI?t=0
@@ -24916,9 +24917,7 @@
 🐿		zWv5jQYKsMk?t=8130
 🐿		69B-0Nxyamg?t=75
 🐰	12
-	2	dSyGEpMKOOU?t=210
-🐿
-
+	4	dSyGEpMKOOU?t=210
 2024-04-06
 	20	dSyGEpMKOOU?t=3810
 🐟		Ps_TWOrOZ40?t=0
@@ -25502,8 +25501,7 @@
 🐰		-86d4Z93UlA?t=8130
 🐰		UruCpZrceII?t=240
 🐿	12
-🐹		8k48HFWeUww?t=360
-	3
+	4	8k48HFWeUww?t=360
 2024-04-20
 		8k48HFWeUww?t=3960
 🐹
@@ -25773,7 +25771,7 @@
 🍙	12	dm-jj7UzA84?t=885
 	4	wBr9Wk2ZIpo?t=75
 2024-04-27
-🐿		wBr9Wk2ZIpo?t=3675
+		wBr9Wk2ZIpo?t=3675
 🍑
 	18
 🐟		74iTVSF6bSY?t=0
@@ -28110,9 +28108,10 @@
 🐨	2	XTCealS-dAI?t=7905
 		wqJ0Pa-6ows?t=195
 🐿	12
-	4	LCTAFptrf44?t=345
+	3	LCTAFptrf44?t=345
+🍑
 2024-06-22
-		LCTAFptrf44?t=3945
+🍑		LCTAFptrf44?t=3945
 🦔
 	18
 🐹		oYblSEWoQaA?t=0
@@ -28275,9 +28274,8 @@
 🐿		Nr-F7p-d0To?t=4995
 🐿		Nr-F7p-d0To?t=5850
 🐿		Nr-F7p-d0To?t=6075
-		Nr-F7p-d0To?t=7005
-🍘
-🍙		Nr-F7p-d0To?t=8775
+🐿	2	Nr-F7p-d0To?t=7005
+🐿		Nr-F7p-d0To?t=8775
 🍙	12	VGxfg1ONAcU?t=630
 	4	4Kr63OE5FYY?t=15
 2024-06-26
@@ -28782,8 +28780,9 @@
 🐿		Q6yf8Ilq4MA?t=4710
 🐿		Q6yf8Ilq4MA?t=5640
 🐿		Q6yf8Ilq4MA?t=6180
-🐿	2	Q6yf8Ilq4MA?t=7125
-🐿		Q6yf8Ilq4MA?t=8865
+		Q6yf8Ilq4MA?t=7125
+🍙
+🐰		Q6yf8Ilq4MA?t=8865
 🐰	12	EiKI3N2VMbo?t=570
 	4	561NaNigoB8?t=75
 2024-07-09
@@ -28980,8 +28979,7 @@
 		B_qDRy-zNa0?t=7320
 🐰	2
 🐰/🐿	2
-🐿/🐰	3
-🐰/🐿
+🐿/🐰	4
 		WJAiTp1eVto?t=645
 🐰	5
 	4
@@ -30844,8 +30842,8 @@
 🐨	13
 	3
 2024-09-08
-	3	6l8nIYljO1Y?t=15390
-	17	nVBn1MHHUac?t=330
+	4	6l8nIYljO1Y?t=15390
+	16	nVBn1MHHUac?t=1230
 🍑		7_4OKIg5PLU?t=0
 🍑	2	7_4OKIg5PLU?t=885
 🍑	3	7_4OKIg5PLU?t=2730
@@ -31265,9 +31263,8 @@
 🐨	2	Larviv6mOts?t=6960
 🐨		Larviv6mOts?t=8505
 🐨		5G1lqyD6itY?t=705
-🐿	4
-🐿/🍙
-🍙/🐿	3
+🐿	5
+🍙	3
 🐿/🍙
 🐿	2
 🐨
@@ -31346,7 +31343,9 @@
 🏵️	4
 	4
 2024-09-20
-	3	7B9QI6v-Hj4?t=15345
+		7B9QI6v-Hj4?t=15345
+🐹
+
 	15	syu1Uymh3P0?t=240
 	2	siSapuvY5l8?t=120
 🍑	11
@@ -31657,8 +31656,8 @@
 🐿		34YlBqksGu0?t=1815
 🐿		34YlBqksGu0?t=2670
 🐿		34YlBqksGu0?t=3285
-		34YlBqksGu0?t=4215
-🐨/🐿		34YlBqksGu0?t=5100
+🐿		34YlBqksGu0?t=4215
+🐿		34YlBqksGu0?t=5100
 🐿/🐨	3
 
 🐿		QK17KA-5L0s?t=420
@@ -34753,8 +34752,7 @@
 	4
 2024-12-10
 🍘		OCba2-AAFOQ?t=15870
-🐹
-	2
+	3
 	16	6WAmK6Ugj1g?t=15
 🐟		ZI7HZ288GAo?t=0
 🐟	3	ZI7HZ288GAo?t=885
@@ -35009,7 +35007,8 @@
 🐿		-_-Bgcy-lLQ?t=8055
 🐿		-_-Bgcy-lLQ?t=8970
 🍙	9	MshD2EHfIM0?t=735
-🐿	3
+	2
+🐿
 	4
 2024-12-16
 	4	MshD2EHfIM0?t=15135
@@ -35380,8 +35379,8 @@
 🦀	2	_oGlGCG1fX8?t=7800
 🦀		MBK2ERAKDvo?t=645
 🐨	12
-🐨/🐰		ieGz9z2XqaM?t=180
 🐰/🐨
+🐰/🐨		ieGz9z2XqaM?t=1080
 🐰	10
 🐟	2
 	2
@@ -36085,7 +36084,8 @@
 2025-01-24
 		_BAaAPsRq1w?t=14100
 		KLutl4wJEU4?t=29580
-	2	_BAaAPsRq1w?t=15900
+🍙		_BAaAPsRq1w?t=15900
+
 		KLutl4wJEU4?t=32280
 		_BAaAPsRq1w?t=18600
 		KLutl4wJEU4?t=34080
@@ -36397,7 +36397,7 @@
 🐟	10
 🐟	2	nhrDaO_2UoM?t=330
 🎀	11
-		Qi88bm38UTc?t=600
+🎀		Qi88bm38UTc?t=600
 🦀	12
 🐰	2
 🐰	2	mROPLLygIZI?t=1785
@@ -36510,9 +36510,11 @@
 🐨	11	JiXM_nXFKso?t=1350
 🐨		Rs3e5KPdEOs?t=435
 🐿	8
-	8
+	7
+🐹
 2025-02-11
-	4	Rs3e5KPdEOs?t=15735
+🐹		Rs3e5KPdEOs?t=15735
+	3
 		8Na64j1mYFQ?t=0
 	14	8Na64j1mYFQ?t=735
 		Jt5JDM74CcU?t=765
@@ -37043,8 +37045,7 @@
 🐿	3	LsP3LDbMprs?t=2010
 🐿		LsP3LDbMprs?t=4725
 🐿		LsP3LDbMprs?t=5250
-🐿	6	LsP3LDbMprs?t=6075
-
+🐿	7	LsP3LDbMprs?t=6075
 🐨		oqyZ9Fsxrxw?t=0
 🐨		oqyZ9Fsxrxw?t=870
 🐨		oqyZ9Fsxrxw?t=1755
@@ -37774,9 +37775,7 @@
 	3
 🐿
 2025-04-06
-		GFjUMu1E7DU?t=15075
-🐟
-	2
+	4	GFjUMu1E7DU?t=15075
 	15	lP1JdwqM10A?t=330
 		ZnOTgTkKd7Q?t=1005
 🐹	11
@@ -37917,8 +37916,8 @@
 	3
 	15	SKL9bsTzsrI?t=510
 		FdlHi1mMxLs?t=1215
-🐹	11
-🐹		SQKMuuERHJQ?t=900
+🐹	10
+🐹	2	SQKMuuERHJQ?t=0
 🍑	11
 🍑		Uw6lYYWQxAg?t=30
 🦀	11
@@ -38011,7 +38010,7 @@
 	15	tcglc-c3F8c?t=555
 		kzD1R1XA_dE?t=375
 🐟	12
-🐹		YFzHiSEIK4I?t=0
+		YFzHiSEIK4I?t=0
 🐹	2	YFzHiSEIK4I?t=885
 🐹	6	YFzHiSEIK4I?t=2700
 🐹		YFzHiSEIK4I?t=8130
@@ -38043,8 +38042,8 @@
 🐡		y_R9U5wFbMs?t=0
 🐟	11	y_R9U5wFbMs?t=885
 🐟		D2oB4ym_GfY?t=615
-🐹	11
-🐹		3ZXrrMimcIQ?t=1065
+🐹	10
+🐹	2	3ZXrrMimcIQ?t=165
 🍙	12
 🐰		OavBE4jkOcU?t=0
 🐰		OavBE4jkOcU?t=885
@@ -38421,7 +38420,7 @@
 🍙	2	aXC3UP3nC3M?t=7785
 🍙		tHwIFdwsSSY?t=0
 🐰	12	tHwIFdwsSSY?t=780
-🐹	2
+	2
 🍑	2
 2025-04-30
 	3	tHwIFdwsSSY?t=15180
@@ -38851,13 +38850,11 @@
 🐰	12	_EffMKya47Q?t=690
 	4
 2025-05-17
-		_EffMKya47Q?t=15090
-🍑
-	2
+	4	_EffMKya47Q?t=15090
 	15	zZWYfHYXF2M?t=405
 		vXAnDyTZgM0?t=885
-🐹	11
-🐹		o0AbFXB1CkI?t=915
+🐹	10
+🐹	2	o0AbFXB1CkI?t=15
 🐟	11
 🐟		KzRTbMA525Q?t=0
 🍑	11	KzRTbMA525Q?t=720
@@ -38980,8 +38977,7 @@
 
 	17	dD10QAORAwk?t=765
 		b-VMsjuULv0?t=810
-🐹	10
-🐹		9AfSMfqA0L0?t=0
+🐹	11
 🐹		9AfSMfqA0L0?t=885
 🐡	2
 🐡	4	9AfSMfqA0L0?t=3570
@@ -39149,7 +39145,7 @@
 🐿		wdBibKg4vXk?t=3270
 🐿		wdBibKg4vXk?t=4215
 🐿	5	wdBibKg4vXk?t=5100
-🐰		gV3o_CCCl9Y?t=0
+🐿		gV3o_CCCl9Y?t=0
 🐰	12	gV3o_CCCl9Y?t=750
 	4
 2025-05-29
@@ -39308,7 +39304,8 @@
 🐿	2	2wQaQsMMIAw?t=6720
 🐿		GuLhzOfynFs?t=0
 🐿	12	GuLhzOfynFs?t=885
-	4
+	2
+🐟	2
 2025-06-04
 	4	GuLhzOfynFs?t=15285
 	15	_gfPM_ty_QI?t=240
@@ -39574,9 +39571,8 @@
 🎀	4
 🐟	3
 
-🎀	2
-🎀		D_KfXESer-M?t=60
-
+🎀	3
+		D_KfXESer-M?t=960
 🍘	12
 🍙		R7o0h-Z_csM?t=0
 🍙	3	R7o0h-Z_csM?t=885
@@ -39784,8 +39780,9 @@
 🐟	2	k2Rwzvj9Pgs?t=8670
 🐟		k2Rwzvj9Pgs?t=10485
 🐟		DBq3FSMjSUU?t=810
-🐹	12
-🦀	11	n68iwL7r8io?t=1065
+🐹	11
+🐹		n68iwL7r8io?t=165
+🦀	11
 🦀		aq8cZgI3mBo?t=735
 🍙	11
 🍙		YKtV_g2Oq7Y?t=255
@@ -39893,8 +39890,7 @@
 	2
 🐨	8	ws6x4B8_XxA?t=585
 🏵️	4
-	2
-🍑	2
+	4
 2025-06-27
 	4	ws6x4B8_XxA?t=14985
 	15	7rjX4GWrpD0?t=135
@@ -39964,7 +39960,7 @@
 🐿		XESHyDP01B0?t=5535
 🐿		XESHyDP01B0?t=6390
 🐿	3	XESHyDP01B0?t=7275
-		_CEuQOaX7rI?t=300
+🐿		_CEuQOaX7rI?t=300
 🍙	12
 	4
 2025-06-30
@@ -40137,7 +40133,9 @@
 🍑	2
 
 2025-07-07
-	4	mWWzFYS2diA?t=15150
+		mWWzFYS2diA?t=15150
+🐿	2
+
 	14	FGd4FgjsTwM?t=810
 	2	DN2XpjvW0dA?t=135
 🐟	10
@@ -40476,7 +40474,7 @@
 🍀		plZVM__K1DA?t=1005
 🦉	12
 🐿	11	ihNCkt19C8s?t=720
-🐿		7RhrR6R721I?t=585
+		7RhrR6R721I?t=585
 🐨	8
 🏵️	4
 	4
@@ -40493,8 +40491,7 @@
 🐟	3
 🍀	4
 🍀		tDjUaHCq-TI?t=975
-🐰	11
-🐰		9KGgKkUyQl8?t=0
+🐰	12
 🐿	12	9KGgKkUyQl8?t=855
 🐨	4	10I3pKMTG58?t=540
 	2	-
@@ -40557,8 +40554,8 @@
 🍑	11
 🍑		jhqIrFIQqiI?t=690
 🦉	12
-🍀	11	us5taJhXTi4?t=495
-🍀		e2DypSFLuj0?t=960
+🍀	10	us5taJhXTi4?t=495
+🍀	2	e2DypSFLuj0?t=60
 🍘	12
 🐨	11	Z_7vkRQ0_1Y?t=825
 🐨		xheKUygflfE?t=510
@@ -40876,8 +40873,8 @@
 	4	OzuOAddvNP4?t=15240
 	15	C7VJYWqE-2M?t=375
 		KfWr2GNVtyo?t=690
-🍀	11
-🍀		xTSF-uYNuGM?t=1035
+🍀	10
+🍀	2	xTSF-uYNuGM?t=135
 🐟	10
 🐟	2	x0yGbJMHmwA?t=240
 🐹	12
@@ -40977,8 +40974,9 @@
 	15	LZhUCl_uh0k?t=240
 		UfET1KPyINE?t=870
 🍀	10
-🍀	2	htVaqEIYEq4?t=165
-🍘	11
+🍀		htVaqEIYEq4?t=165
+🍀		UfET1KPyINE?t=11670
+🍘	11	htVaqEIYEq4?t=1965
 🍘		APy3GpaPFVo?t=765
 🐟	11
 🐟		uNZcPRCvBDc?t=285
@@ -41139,7 +41137,9 @@
 🐰	12	7nKi_JDuS7k?t=645
 	4
 2025-09-02
-	4	7nKi_JDuS7k?t=15045
+		7nKi_JDuS7k?t=15045
+🐟
+	2
 	14	UWIxE45yLNU?t=390
 	2	YFEkaBaQlmU?t=0
 🐡	11
@@ -41184,8 +41184,9 @@
 🍀	11
 🍀		F9Bh4WSLGzM?t=15
 🐟	10
-🐟	2	RrGrHIkWKT0?t=165
-🐿	12
+🐟		RrGrHIkWKT0?t=165
+🐟		F9Bh4WSLGzM?t=10815
+🐿	12	RrGrHIkWKT0?t=1965
 🐹	12	htGVn0ICzV4?t=735
 🍙	4	3AKU0N-qDU8?t=420
 2025-09-05
@@ -41230,9 +41231,8 @@
 		OmRT6gmkGvo?t=630
 🍑	11
 🍑		NpbKP4zV_R0?t=1140
-🐟	11
-🐟		B3O1mz4pSJc?t=75
-🦉	12
+🐟	12
+🦉	12	B3O1mz4pSJc?t=975
 🦀	11	ZsC5g_XgJHs?t=900
 		QtjJd5QUIH4?t=450
 🐿	12
@@ -41324,8 +41324,8 @@
 🦉	2	dOJ4VsmhhhY?t=210
 🐟	11
 🐟		MSE4f3wtdJs?t=810
-🐿	11
-🐿		Ewhbpc6Yivs?t=960
+🐿	10
+🐿	2	Ewhbpc6Yivs?t=60
 🐰	12
 🍙	12	-4JGVK-ogfc?t=645
 🍘	12	YEK3S_kB6mw?t=855
@@ -41493,8 +41493,7 @@
 🍀	11
 🍀		vopC0E14mgo?t=870
 🐿	10
-🐿		v59r-2h78C4?t=195
-
+🐿	2	v59r-2h78C4?t=195
 🐹	11
 🐹		cmH3pIuwGWA?t=240
 🍘	12
@@ -41520,8 +41519,8 @@
 		xEJQrH4XIT0?t=930
 🐡	11
 🐡		wefcaGQPxDQ?t=1125
-🍀	10
-🍀	2	fuhaPZ5_KXw?t=375
+🍀	11
+🍀		fuhaPZ5_KXw?t=1275
 🐿	10
 
 		cv2dyP6nTl8?t=465
@@ -41591,16 +41590,13 @@
 		0VrLkcfNPM8?t=885
 🐟	11
 🐟		MioPvd5RE50?t=390
-🍀	10
-🍀		itZKUIEV4Jc?t=0
+🍀	11
 🍀		itZKUIEV4Jc?t=885
 🍑	11
 🍑		78cE14-V8z8?t=795
 🐰	11
 🐰		902Nvj0p8B4?t=225
-🐿	10
-
-🐹
+🐿	12
 🐹	4	iliyqQMOAQU?t=570
 		-
 🐿		Gjgxwk3ro4E?t=0
@@ -41897,15 +41893,14 @@
 	4	N60GvbnMRrQ?t=15015
 	15	jOXuMj-EPT4?t=660
 		VPr9iJcEwuc?t=750
-🍀	11
-🍀		dvJhfAIbJLU?t=1110
+🍀	10
+🍀	2	dvJhfAIbJLU?t=210
 🐟	11
 🐟		A-70no94HIE?t=465
 🐰	11
 🐰		1yGSwtawHXw?t=15
 🍙	12
-		X32Fdqi2BgQ?t=765
-🐿	10
+🐿	11	X32Fdqi2BgQ?t=765
 🐿		sETI3xKnmsI?t=300
 🍘	12
 	4
@@ -41992,9 +41987,7 @@
 	2
 🐿	8	Ls7tikkL4Wk?t=885
 🏵️	4
-	2
-🐹
-
+	4
 2025-10-24
 	4	Ls7tikkL4Wk?t=15285
 	15	oxNqrs8KFNY?t=390
@@ -42024,8 +42017,7 @@
 🍀		59NS79FPp94?t=240
 🦀	12
 🍘	12	3NFtN44qTfg?t=1170
-		gpJeuX7IZDs?t=765
-🐿	10
+🐿	11	gpJeuX7IZDs?t=765
 🐿		xHYWQbCA68c?t=225
 🐨	12
 	4
@@ -42055,8 +42047,8 @@
 		HY4gnFCZPOA?t=795
 🐟	11
 🐟		9pgHPpb5bpo?t=1395
-🍀	11
-🍀		iX4SMzxqyvU?t=960
+🍀	10
+🍀	2	iX4SMzxqyvU?t=60
 🐰	11
 🐰		1gn6CUPjhME?t=315
 🍙	11
@@ -42134,8 +42126,7 @@
 		buwlCfIEH7I?t=825
 🍑	10
 🍑	2	oBSVqYrj_Ds?t=270
-
-🍀	10
+🍀	11
 🍀		EWHvd--r11Q?t=675
 🐟	11
 🐟		ZHE4_hXz5DA?t=390
@@ -42154,16 +42145,14 @@
 	3	-
 		-uGpgy4uLOs?t=0
 🍀	11	-uGpgy4uLOs?t=255
-		BdXPEpoBQHM?t=120
+🍀		BdXPEpoBQHM?t=120
 🐿	11
 🐿		0mKU8HzRYU8?t=300
 🐹	11
 🐹		_twsi58N6GE?t=0
 🐰	12	_twsi58N6GE?t=870
 🍘	12	zPwgORNsNho?t=585
-
-🐹
-	2
+	4
 2025-11-03
 	4	zPwgORNsNho?t=14985
 	15	fLnj0KO3wpg?t=735
@@ -42281,7 +42270,8 @@
 	2	b6b270tKLZE?t=45
 🦉	10
 🦉	2	qa-r6Abdvco?t=180
-🍀	11
+🍀	10
+🍀		t1CnZTeLibc?t=0
 🍀		t1CnZTeLibc?t=885
 🐿	10
 🐿	2	FjQijgBsk2g?t=210
@@ -42365,8 +42355,8 @@
 	2
 	15	oWkiu2tM1AE?t=855
 		wQHt375H3Uw?t=855
-🍀	10
-🍀	2	1CkblWWhggo?t=210
+🍀	11
+🍀		1CkblWWhggo?t=1110
 🍑	11
 🍑		bLY3MTfwJtY?t=1095
 🐟	12
@@ -42380,8 +42370,8 @@
 🍙
 	2
 	15	LwGz-9Hs2_4?t=600
-	2	CXFqNSdZtPA?t=660
-🍀	9
+		CXFqNSdZtPA?t=660
+🍀	10
 🍀	2	4FWGo6iawlM?t=285
 🦉	10
 🦉	2	Ket4BO9gCxQ?t=165
@@ -42389,8 +42379,7 @@
 🍑		ThY5MiidrLQ?t=600
 🐟	9
 	3
-		SIeoDBQWwWQ?t=750
-🐿	11
+🐿	12	SIeoDBQWwWQ?t=750
 🐨	12	zA-tjey4dXU?t=810
 	4
 2025-11-17
@@ -42463,8 +42452,8 @@
 		ye1HCV8E8FY?t=795
 🐡	10
 🐡	2	EDJ9djOcuiE?t=150
-🍀	11
-		nnrUefroyX4?t=1020
+🍀	10
+🍀	2	nnrUefroyX4?t=120
 🐟	10
 🐟	2	EiFNMygaJv4?t=30
 🐹	12
@@ -42569,8 +42558,7 @@
 🍘	10
 
 		neJnDowASVo?t=420
-🐿	10
-	2
+🐿	12
 🍙	9	EuE4onWnuyY?t=810
 
 🏵️	2
@@ -42608,9 +42596,7 @@
 🍀	12	7hyn-a_xkAI?t=105
 🐰	12	N3qeJC9n-qw?t=615
 🐨	12	s2dflHmcX2M?t=855
-
-🍑
-	2
+	4
 2025-11-30
 		s2dflHmcX2M?t=15255
 🍀
@@ -42623,9 +42609,8 @@
 🦉		RX_A2vIvIj4?t=720
 🧈	11
 🧈		MbKCZ2fVo0o?t=180
-🐿	10
-
-		SvIGHYiBsl4?t=330
+🐿	11
+🐿		SvIGHYiBsl4?t=330
 🍘	11
 🍘		sY2ZGDMQrCQ?t=90
 🐨	12
@@ -42771,8 +42756,9 @@
 🐰	11	TGKzJChB1VU?t=765
 🐰		hc3_ZasO_SE?t=930
 🐹	12
-	3
-🐹
+	2
+		fC_-0MI3fc4?t=210
+🐹		hc3_ZasO_SE?t=15330
 2025-12-09
 		hc3_ZasO_SE?t=16230
 🐹	3
@@ -42853,10 +42839,11 @@
 🐹		OWcifAQeoUg?t=480
 🍘	12
 🐨	12	OddxT76yUDI?t=645
-	4
-2025-12-13
-🍑	2	OddxT76yUDI?t=15045
+🍑	2
 	2
+2025-12-13
+🍑		OddxT76yUDI?t=15045
+	3
 	15	lgkGfPeQUA0?t=570
 		GgsBDcfAJa0?t=510
 🐟	12
@@ -42918,15 +42905,14 @@
 🍀		JDFIKne5BZM?t=780
 🦉	11
 🦉		fSE3mfE_XLk?t=330
-🐿	10
-🐿	2	HdvUOSWe3oU?t=645
+🐿	11
+🐿		HdvUOSWe3oU?t=1545
 🍙	12
 🐰	12	dS68nGAkHEI?t=720
 	4
 2025-12-17
 🍑		dS68nGAkHEI?t=15120
-🍘
-	2
+	3
 	15	GK-AOIoODw8?t=135
 		GkM2fMQ_Xm0?t=1140
 🐡	10
@@ -42986,8 +42972,8 @@
 		6ufZrZhX8m8?t=315
 🍑	11
 🍑		MtrbNXxxDxQ?t=1140
-🍀	10
-🍀	2	GKjhHXb3iRs?t=75
+🍀	11
+🍀		GKjhHXb3iRs?t=975
 🦉	11
 🦉		uDB7qJRQ_fU?t=285
 🍙	12
@@ -43076,7 +43062,7 @@
 	4	SGZjW_LffCc?t=405
 🍘	8
 	7	-
-		fh_ssQzcO2I?t=0
+🍀		fh_ssQzcO2I?t=0
 🍙	4	fh_ssQzcO2I?t=345
 	4
 2025-12-26
@@ -43153,9 +43139,8 @@
 🦉		OQaeOgxPsFs?t=510
 🍀	11
 🍀		x27HnbhuKUk?t=825
-
-🐿	10
-		tZQtL5UP-Kw?t=285
+🐿	11
+🐿		tZQtL5UP-Kw?t=285
 🍘	12
 🐹	12	Nda2bCl7Zdk?t=630
 🍙	12	Cub1ZgGWdyg?t=690
@@ -43167,9 +43152,8 @@
 		i7P_0XMeBag?t=450
 🐟	11
 🐟		QOM8sHnzvV0?t=1020
-
 🐿	10
-🐿		4or4b4-i-IM?t=1245
+🐿	2	4or4b4-i-IM?t=345
 🍀	11
 🍀		EZB0ag8qffw?t=15
 🐨	12
@@ -43212,9 +43196,8 @@
 	4	wt1a5s5-YG0?t=15345
 	15	RGe4Czrd2SQ?t=510
 		D6iXe485wRI?t=615
-🐡	11
-🐡		RDVafLs_p6E?t=1005
-🐿	11
+🐡	12
+🐿	11	RDVafLs_p6E?t=1905
 🐿		-wXB7Oe3lnM?t=480
 🍑	11
 🍑		WyTIdLHp_rQ?t=240
@@ -43249,8 +43232,8 @@
 🦉		2ysQNGzsnpQ?t=825
 🐟	11
 🐟		8p2y0J4kfs4?t=375
-🐿	11
-🐿		s9Fhay_Eusc?t=1335
+🐿	10
+🐿	2	s9Fhay_Eusc?t=435
 🐹	12
 🐰	12	zrLmiUGDDmI?t=645
 	4
@@ -43278,15 +43261,12 @@
 🐟		Ml-GjI9QfNI?t=1275
 🍑	10
 🍑	2	9PZF7wupVY8?t=0
-
-🐿	11
+🐿	12
 🐰	11	9h2Bc3Pckmo?t=1155
 🐰		g_6JEXZObxw?t=960
 🐹	12
 🐨	12	kTn6Oh7Llrc?t=675
-	2
-🐰
-
+	4
 2026-01-08
 	4	kTn6Oh7Llrc?t=15075
 	15	DptFntFINUA?t=195
@@ -43295,9 +43275,8 @@
 🍀		6UO3Pg49YaU?t=540
 🐟	11
 🐟		kcHWoiim4ic?t=420
-
-🐿	10
-		SyNgbVYXAqY?t=825
+🐿	11
+🐿		SyNgbVYXAqY?t=825
 🐰	10
 🐰	2	2ON0B1hGkSQ?t=315
 🐨	11
@@ -43319,8 +43298,8 @@
 	2
 🍶	9
 🍶		U0DajzyR3pI?t=945
-🐿	9
-	3
+🐿	11
+
 🐨	10	TlPUc_p7ZJ8?t=615
 	2
 🍘	12	xriG0VbfPDo?t=465
@@ -43349,7 +43328,7 @@
 🦉	10
 🦉	2	KlJTQXAlyc4?t=540
 🐿	11
-		gNvaPCed0ng?t=150
+🐿		gNvaPCed0ng?t=150
 🍙	12
 		B1mziKoLOPY?t=600
 🐰	11
@@ -43410,10 +43389,9 @@
 🦉		oGvpdIhp84E?t=645
 🦀	11
 🦀		BO8qrqibaf4?t=180
-🐿	9
-
-		MSSyv5GhLaU?t=615
-🐹	13
+🐿	10
+🐿	2	MSSyv5GhLaU?t=615
+🐹	12
 	2	-
 🐰		dz-L01NJkrU?t=0
 🐰	5	dz-L01NJkrU?t=225
@@ -43427,7 +43405,10 @@
 🐡	2	kmSUKLMueik?t=315
 🍑	10
 🍑	2	EM0r4EMhMKc?t=180
-🍶	11
+🍶	4
+🐿	2
+	3
+🍶	2
 🍶		2qR5bBQzKAc?t=105
 🐹	12
 🍘	12	Ra8b53n-U2w?t=765
@@ -43471,8 +43452,8 @@
 		Uj3vHPryXHY?t=0
 		Uj3vHPryXHY?t=885
 🍀	10
-🐟		aFb7Cl4rcaQ?t=120
-🍑	12
+🍀	2	aFb7Cl4rcaQ?t=120
+🍑	11
 🍑		DbAAEqrNtRM?t=735
 🦉	11
 🦉		hO6V-CjgaFo?t=180
@@ -43502,8 +43483,8 @@
 	3	AZ3ZvL7r1fk?t=16005
 	16	R_HIVz9neto?t=390
 		oWnO_oSE-c0?t=0
-🍀	11	oWnO_oSE-c0?t=705
-🍀		s0xsNeeWyEQ?t=1095
+🍀	10	oWnO_oSE-c0?t=705
+🍀	2	s0xsNeeWyEQ?t=195
 🐟	11
 🐟		jEMyfL3t6ZY?t=270
 🦉	11
@@ -43521,8 +43502,7 @@
 
 🍑	10
 🍑		7Zg6V60MOUw?t=1260
-
-🐿	10
+🐿	11
 🐿		FiW649mR11g?t=75
 🦀	10
 🦀	2	l0Xg1pdhdXM?t=210
@@ -43604,9 +43584,11 @@
 🐨	11
 🐨		HyMboX0e0Hc?t=15
 🐰	12
-	4
+	3
+🍑
 2026-01-28
-	4	HyMboX0e0Hc?t=15315
+🍑		HyMboX0e0Hc?t=15315
+	3
 	15	bJr28tLhVes?t=645
 		uqLsZOhOtmI?t=210
 🦉	11
@@ -43647,8 +43629,7 @@
 🦉	11
 🦉		RNz6ZAyF944?t=1080
 🍶	4
-
-🍀	2
+🍀	3
 
 🍶	3
 🍶		LNXPoFxhbdM?t=450
@@ -43668,7 +43649,7 @@
 🐟	11
 🐟		CbZ5nJALEE0?t=780
 🍀	11
-		hC0KzpgNKtQ?t=0
+🍀		hC0KzpgNKtQ?t=0
 🍘	12	hC0KzpgNKtQ?t=840
 🐰	12	_7nexZDgwOk?t=705
 	4
@@ -43721,9 +43702,10 @@
 🐨	11
 🐨		26gHwOpquW4?t=60
 🐰	12
-	4
+	3
+🐿
 2026-02-04
-		26gHwOpquW4?t=15360
+🐿		26gHwOpquW4?t=15360
 🐟
 	2
 	15	GNhKhFIfRmw?t=30
@@ -43914,14 +43896,11 @@
 🐟	10
 🐟	2	rNt9faI5jnU?t=225
 🦉	12
-		z45sRMC3IOs?t=795
-🐿	10
-🐿		cMqgOPY7SZ8?t=150
-🍑	12
+🐿	12	z45sRMC3IOs?t=795
+🍑	12	cMqgOPY7SZ8?t=1050
 🍘	12	Iygdj_hFhFM?t=705
 🍙	12	-Zk_xf8UERg?t=1185
-🦉	2
-	2
+	4
 2026-02-16
 	4	-Zk_xf8UERg?t=15585
 	15	6suTdDIQG3M?t=345
@@ -43948,8 +43927,7 @@
 🍀	10
 🍀		iexk6tC6OEY?t=0
 🍀		90eOfiDt_ok?t=11460
-🐿	10	iexk6tC6OEY?t=1785
-🐿		boyun05x-2A?t=0
+🐿	11	iexk6tC6OEY?t=1785
 🐿		boyun05x-2A?t=885
 🍘	11
 🍘		qfke3qtZrI4?t=630
@@ -44156,7 +44134,9 @@
 🐹	12
 🍘	12	SlojEuDM-cs?t=630
 🐰	12	xuQgvC-c8kY?t=900
-	4
+
+🐹	2
+
 2026-03-02
 	4	xuQgvC-c8kY?t=15300
 	14	pO-8I4HXGWo?t=720
@@ -44260,8 +44240,8 @@
 	4	QLc0mtY_LoA?t=15210
 	14	wfpR5evmdj8?t=585
 	2	gdKJtW3kmTs?t=330
-🐟	11
-🐟		jCiXvQCJ6qU?t=1125
+🐟	10
+🐟	2	jCiXvQCJ6qU?t=225
 🦉	11
 🦉		Eq1K9GZ0cZU?t=705
 🐨	11
@@ -44282,9 +44262,7 @@
 🍀	10
 🍀		eIn0uR4A5-Q?t=0
 🍀		yBeTWlKiUZc?t=11640
-		eIn0uR4A5-Q?t=1740
-🐿	9
-	2
+🐿	12	eIn0uR4A5-Q?t=1740
 🐨	12	B_ttYMxDoM0?t=660
 🍙	10	80AUA2KQVDk?t=705
 	6
@@ -44299,8 +44277,7 @@
 
 🍑	10
 🍑		aMnq15o6V8Q?t=405
-
-🐿	10
+🐿	11
 🐿		a4z8APV5_WI?t=885
 🍀	11
 🍀		gKJ2SEYzIB8?t=780
@@ -44464,8 +44441,8 @@
 	2	onC5VxXzthQ?t=0
 🐟	11
 🐟		sa0nxKs5Cnc?t=975
-🐿	10
-🐿	2	BUo2k0ASCwU?t=75
+🐿	11
+🐿		BUo2k0ASCwU?t=975
 🍀	11
 🍀		V1fFfH3doD0?t=495
 🐰	10
@@ -44481,9 +44458,8 @@
 🍑		KycR2hDca54?t=885
 🐟	11
 🐟		hY8-ghn4eoY?t=795
-
-🐿	10
-		hXv-kCCViv8?t=240
+🐿	11
+🐿		hXv-kCCViv8?t=240
 🍙	11
 🍙		fLevASxPM0s?t=450
 🍘	11
@@ -44510,9 +44486,8 @@
 		-zek6DL1xUg?t=750
 🦉	11
 🦉		e0txp5U7dHQ?t=915
-
-🐿	10
-		KJh4q-5wyg0?t=615
+🐿	11
+🐿		KJh4q-5wyg0?t=615
 🍀	11
 🍀		nMzRRJgvH-s?t=195
 🍙	11
@@ -44599,7 +44574,8 @@
 🍙	12	TIX6JOPXkhY?t=660
 	4
 2026-03-28
-🍑	2	TIX6JOPXkhY?t=15060
+		TIX6JOPXkhY?t=15060
+🍑
 	2
 	14	dtNRmpDDs6U?t=465
 		zCEI_9RIjuE?t=30
@@ -44646,14 +44622,13 @@
 🍙	12
 🐹	12	3lPNzZ9C5PA?t=795
 🐨	12	WLqq8EFl8c8?t=810
-	2
-🐹	2
+	4
 2026-03-31
 	4	WLqq8EFl8c8?t=15210
 	15	e0in8S8FEA4?t=240
 		Af-ZkTIVq0s?t=675
-🍀	10
-🍀	2	wwO1GpyWQaM?t=15
+🍀	11
+🍀		wwO1GpyWQaM?t=915
 🍑	11
 🍑		kUJUdvMM604?t=420
 🦀	10
@@ -44735,8 +44710,7 @@
 🐹	11	tC9Nzx5eXa8?t=705
 🐹		UxaPkgX2xa4?t=120
 🍙	12
-	3
-🐹
+	4
 2026-04-05
 	4	UxaPkgX2xa4?t=15420
 	15	AJXg0zcYk_4?t=255
@@ -44748,10 +44722,10 @@
 🐟		3n70vZNkytY?t=885
 🐿	11
 🐿		nuZQg6tc9YI?t=0
-🍀	11	nuZQg6tc9YI?t=885
-🍀		8DnmvEi9rOc?t=45
-🍙	12
-🐰	12	hWua3qPkg_k?t=915
+🍀	12	nuZQg6tc9YI?t=885
+🍙	11	8DnmvEi9rOc?t=945
+🍙		hWua3qPkg_k?t=15
+🐰	12
 	4
 2026-04-06
 	4	hWua3qPkg_k?t=15315
@@ -44777,7 +44751,7 @@
 🦉	11
 🦉		12mxOupPNE8?t=615
 🐿	11
-		3zUORl7-2RQ?t=825
+🐿		3zUORl7-2RQ?t=825
 🍀	11
 🍀		TgQEafKOV4c?t=1125
 🧈	12
@@ -44828,8 +44802,8 @@
 	4	LgG1fZt1wvY?t=12360
 	15	g3NzldX9hr8?t=135
 		osLvbvSU7U8?t=1095
-🐿	11
-🐿		DYzhP4ZAgrc?t=1185
+🐿	10
+🐿	2	DYzhP4ZAgrc?t=285
 🦉	10
 🦉	2	l1VV47VjHWE?t=75
 🐟	2
@@ -44839,7 +44813,8 @@
 🐨	12	VxGUd5puFQ8?t=1380
 🐰	12	-FQJ9rJ-v1o?t=945
 🐹	12	XIaJviF3rRs?t=660
-	4
+🦉	2
+	2
 2026-04-11
 	4	XIaJviF3rRs?t=15060
 	15	Ukb1mTxbB3Q?t=165
@@ -44877,7 +44852,7 @@
 🍑	11
 🍑		i6K_jETCJwc?t=705
 🐿	11
-		tx1yjsKbkUE?t=870
+🐿		tx1yjsKbkUE?t=870
 🍙	11
 🍙		vZQKDOrGH6E?t=390
 🐹	12
@@ -44892,7 +44867,7 @@
 🐡	10
 🐡	2	cHhi19P8AWg?t=75
 🐿	11
-		9gg4zz2XSX0?t=840
+🐿		9gg4zz2XSX0?t=840
 🍀	11
 🍀		CKByg0jgHfw?t=750
 🧈	11
@@ -44946,7 +44921,7 @@
 	3
 		DsWYjeGDHds?t=480
 🐿	11
-		1NlC11ABnjg?t=930
+🐿		1NlC11ABnjg?t=930
 🦀	4
 🦉	3
 
@@ -44959,8 +44934,7 @@
 🐹	12	IZ6qlzK5ysU?t=870
 	4
 2026-04-18
-🍑	2	IZ6qlzK5ysU?t=15270
-	3
+	5	IZ6qlzK5ysU?t=15270
 	15	RnNZCaJ14aI?t=345
 🐿	11	Y68ShgddyWQ?t=1755
 🐿		93IpAgYdiA8?t=240
@@ -44975,9 +44949,8 @@
 	4	JlLqpp-uNpU?t=15270
 	14	cVdcMVhskUk?t=210
 	2	PWqcQsnUJYY?t=75
-🍀	11
-🍀		_k-GXKO9sJY?t=930
-🍑	11
+🍀	12
+🍑	11	_k-GXKO9sJY?t=1830
 🍑		d8L5KHaQhCg?t=0
 🐟	11	d8L5KHaQhCg?t=810
 🐟		LqEzmiMzPs4?t=645
@@ -44999,7 +44972,7 @@
 🍑	10
 🍑		GjSRUN5WxNc?t=840
 🐿	11
-		9LfyPy60FD4?t=570
+🐿		9LfyPy60FD4?t=570
 🐨	10
 🐨		S57rDwBiuLE?t=195
 🐨		9LfyPy60FD4?t=11370
@@ -45032,9 +45005,8 @@
 	4	TLruyuQ7XkM?t=15120
 	15	7V7tHIZhcgo?t=270
 		N34B86_KPwg?t=660
-🐿	6
-	4
-	2	1uOnhj_IGUg?t=120
+🐿	10
+🐿	2	1uOnhj_IGUg?t=120
 🍀	11
 🍀		Z26hj_Kox9Y?t=690
 🍑	11
@@ -45087,8 +45059,7 @@
 🦉	2	Rbb1icftnPk?t=120
 🍀	11
 🍀		UFgXoV_5nEs?t=600
-🐿	11
-🐟
+🐿	12
 🐟	12	n1Y-DTtPocc?t=150
 🍘	12	hAKLyuQyA-A?t=765
 🐰	12	Yxsp8c0cAXk?t=615
@@ -45104,7 +45075,7 @@
 🍀	11
 🍀		sHUWWrSyxb0?t=855
 🐿	11
-		qOIvG6wQ2aE?t=345
+🐿		qOIvG6wQ2aE?t=345
 🐟	12
 🍙	11	yrKrCiGd6zk?t=570
 🍙		LpWgUgLw4xA?t=720
@@ -45114,13 +45085,11 @@
 	4	LpWgUgLw4xA?t=16020
 	14	ATueWuSksZ0?t=285
 	2	g_LnloKMUTk?t=180
-🍀	10
-🍀	2	hJJHv2d2qUQ?t=60
+🍀	11
+🍀		hJJHv2d2qUQ?t=960
 🍑	10
 🍑	2	F5xyu2lILwU?t=360
-
-🐿	10
-
+🐿	12
 🍙	11	AQzUDinxm3A?t=795
 🍙		6E0qKhfWBno?t=795
 🐰	12
@@ -45133,10 +45102,8 @@
 		94D6UJBcXcE?t=885
 🍑	10
 🍑	2	n-T4f-sCO0w?t=0
-
-🐿	8
-	2
-		624fJRsbv8w?t=1140
+🐿	11
+🐿		624fJRsbv8w?t=1140
 🦀	12
 🧈	10	uANk7OU9z4g?t=1365
 🧈	2	p-ItXpmdQTw?t=450
@@ -45213,7 +45180,8 @@
 🐰	12	EB2MPHovhH4?t=675
 	4
 2026-05-03
-	4	EB2MPHovhH4?t=15075
+🐿		EB2MPHovhH4?t=15075
+	3
 	16	52qdHuqrnGg?t=330
 🐟	10	z3LGgkpylro?t=1830
 🐟	2	k-cZQ3SoNEg?t=60
@@ -45227,7 +45195,8 @@
 🐰	12	7eVn-4UvaqI?t=675
 	4
 2026-05-04
-	4	7eVn-4UvaqI?t=15075
+🐿	2	7eVn-4UvaqI?t=15075
+	2
 	15	fIeBalapFts?t=30
 		rb8N8uFbU4c?t=855
 🍑	10
@@ -45246,9 +45215,8 @@
 	2	H-9Fr6yyfuk?t=30
 🍑	10
 🍑	2	GazqKcEqV1M?t=150
-🍀	11
-🍀		LtWb54D2U1c?t=690
-🐿	11
+🍀	12
+🐿	11	LtWb54D2U1c?t=1590
 🐿		oCo3IoQQwJM?t=720
 🐹	12
 🐰	12	G7U3W3BO8SA?t=690
@@ -45262,8 +45230,7 @@
 		he6CKeF_Pnw?t=870
 🐟	11
 🐟		tiGgTy1I0nQ?t=1125
-
-🐿	10
+🐿	11
 🐿		6cGIC_NFZVI?t=375
 🦉	12
 🦀	10	geKDCZA36g4?t=675
@@ -45278,9 +45245,8 @@
 🐟	12
 🍀	11	wHYjWgS1Qns?t=1530
 🍀		24TNQ8H2HOg?t=0
-🐿	10	24TNQ8H2HOg?t=855
-
-		S-RlirX8GUU?t=90
+🐿	11	24TNQ8H2HOg?t=855
+🐿		S-RlirX8GUU?t=90
 🦉	12
 🐨	12	3hMuRnaFd2s?t=780
 	3	-
@@ -45409,8 +45375,7 @@
 	4	bhQP9Z8590s?t=10980
 	15	5RQQzzEY-9Y?t=150
 		o4BKvfXUnuk?t=780
-🐿	11
-
+🐿	12
 🦉	11	PoPbg3TBGW8?t=1950
 🦉		zRszMle6eAw?t=1005
 🍀	10
@@ -45486,7 +45451,8 @@
 	3
 🍑
 2026-05-20
-	4	xDnK5Q-Cw1w?t=14745
+🐿	2	xDnK5Q-Cw1w?t=14745
+	2
 	15	PjfKJJaIYcI?t=255
 		emJVR49BWUA?t=600
 🐡	10
@@ -45512,7 +45478,7 @@
 		G5MxTaMLIUA?t=0
 		G5MxTaMLIUA?t=615
 🐿	3
-		uufDL4fPxs8?t=570
+🐿		uufDL4fPxs8?t=570
 🍘	10
 🍘	2	MpZePidcly8?t=1065
 🐨	12
@@ -45523,8 +45489,7 @@
 	2
 		AVdp_8yamzg?t=1965
 2026-05-22
-		AVdp_8yamzg?t=2865
-		nMxRzR9xkSY?t=15795
+	2	nMxRzR9xkSY?t=14895
 	17	AVdp_8yamzg?t=4665
 		B5dI9asLc5c?t=1215
 🦉	10
@@ -45545,8 +45510,7 @@
 🍙	5	BSJSH7jaVyw?t=540
 	4
 2026-05-23
-	2	BSJSH7jaVyw?t=8640
-🍑
+	3	BSJSH7jaVyw?t=8640
 🍑		5Hazxhmjyzw?t=90
 	16
 🍀
@@ -45566,8 +45530,7 @@
 		saLdZGtoO8w?t=600
 🍑	11
 🍑		ichtloCXAxk?t=690
-🐿	11
-
+🐿	12
 🐹/🐡	2	QQte3QLUeKQ?t=240
 🐹	10
 🐨	12	XeA2zcbDTVI?t=615
@@ -45654,8 +45617,8 @@
 🧈	12
 🍘	10	gSH2u8rWhgg?t=630
 🍘		KQ2KJcjUZog?t=0
-🍘		KQ2KJcjUZog?t=885
-🍙	12
+🍘		gSH2u8rWhgg?t=10530
+🍙	12	KQ2KJcjUZog?t=1785
 	4
 2026-05-30
 		KQ2KJcjUZog?t=16185
@@ -45763,9 +45726,8 @@
 		NdLHZAF-avM?t=420
 🦉	11
 🦉		dMF2uto_pk0?t=795
-
-🐿	10
-		EHDNJalVybQ?t=990
+🐿	11
+🐿		EHDNJalVybQ?t=990
 🍶	4
 🐟	2
 
@@ -45854,8 +45816,7 @@
 🦉	10
 🦉	2	yozjXd7xQPU?t=75
 🍑	12
-🐿	10	gkNbRwTNsqc?t=780
-🐿		y1WavBCTSSo?t=0
+🐿	11	gkNbRwTNsqc?t=780
 🐿		y1WavBCTSSo?t=885
 🐨	11
 🐨		hDmqEIUVi38?t=1185
@@ -45870,7 +45831,8 @@
 🦉	11
 🦉		7MwQeto6Exc?t=1065
 🐿	11
-🍀	12	DfFKnv4MmG4?t=990
+🐿		DfFKnv4MmG4?t=990
+🍀	11
 🍀		dFmn2cOjfVc?t=1005
 🦀	11
 🦀		ujmt-OYXF2k?t=540
@@ -45933,7 +45895,7 @@
 	4
 2026-06-15
 🍑		Zpi5O_hVI4A?t=15345
-	2
+🐿	2
 		yJxyWhdbEOo?t=0
 	15	yJxyWhdbEOo?t=795
 		9mii-sq8Lnw?t=690
@@ -45941,9 +45903,8 @@
 🍑		VlqR59BILow?t=735
 🍀	11
 🍀		5nnMK3LvV1k?t=780
-
-🐿	10
-		e7OgeIXX6o4?t=135
+🐿	11
+🐿		e7OgeIXX6o4?t=135
 🐡	11
 🐡		cEBPi3SKKDc?t=135
 🐰	11
@@ -46008,9 +45969,7 @@
 🐹	12
 🍙	9	jqyL9u1gR6o?t=780
 🏵️	2
-
-🐡	2
-	2
+	5
 2026-06-19
 🦉	2	jqyL9u1gR6o?t=15180
 	2
@@ -46053,8 +46012,7 @@
 🐟		BZz8ehEP_LQ?t=690
 🐡	11
 🐡		Kc1asKWIG64?t=285
-
-🐿	10
+🐿	11
 🐿		TkfOTzYXsNk?t=465
 🦉	11
 🦉		rp2GJtszULs?t=555
@@ -46114,7 +46072,9 @@
 🐟	10
 🐟	2	-9b2dzEThD0?t=45
 🐟	2	KLPrPOJX1U8?t=12405
-🐿	9	-9b2dzEThD0?t=3645
+🐿		-9b2dzEThD0?t=3645
+🐿		KLPrPOJX1U8?t=15105
+🐿	7	-9b2dzEThD0?t=5445
 🐿		LUCjuA5F9WI?t=285
 🦀	11
 🦀		s3pLLYc8ClE?t=690
@@ -46165,8 +46125,9 @@
 🐟		qS1t3GodgF8?t=405
 🦉	10
 🦉	2	7A0w_kMcvI0?t=180
-🍀	12
-🍑	12	Jk4jgqh0sHY?t=1755
+🍀	11
+🍀		Jk4jgqh0sHY?t=855
+🍑	12
 🍙	12	NKue3H3gWsw?t=855
 🍘	12	1GYxomOH300?t=870
 	4
@@ -46261,7 +46222,9 @@
 🐰	2
 
 2026-07-04
-	4	-ILuBZTgIao?t=7995
+		-ILuBZTgIao?t=7995
+🐿	2
+
 		iHlp1sUeNeU?t=0
 	13	iHlp1sUeNeU?t=825
 	2	R7qQL5V3Uto?t=150
@@ -46285,7 +46248,7 @@
 🦉	11
 🦉		jUlbbLjBLY8?t=720
 🐿	11
-		w8wnTtLkOBE?t=495
+🐿		w8wnTtLkOBE?t=495
 🍀	11
 🍀		KflD37hAPNs?t=210
 🍙	12
@@ -46357,9 +46320,7 @@
 🍘	12
 🐨	12	M3q4ZEW5OQ4?t=480
 🐹	8	VXHO5ir_d5I?t=840
-🍙/🏵️
-🏵️/🍙
-🏵️	2
+🏵️	4
 	4
 2026-07-10
 	3	VXHO5ir_d5I?t=15240
@@ -46419,9 +46380,8 @@
 🍑		K3CoL7L3WIA?t=360
 🦉	10
 🦉	2	gM2nWnWJf2Q?t=15
-
-🐿	10
-		Vp14aR8esqU?t=375
+🐿	11
+🐿		Vp14aR8esqU?t=375
 🍶	11
 🍶		MnrZyUwyPGY?t=735
 🐰	12
@@ -46434,8 +46394,8 @@
 		0rLABiqZV3g?t=780
 🦉	10
 🦉	2	gw5kWYnxT88?t=75
-🍀	11
-🍀		zNUPMQA9fqc?t=1110
+🍀	10
+🍀	2	zNUPMQA9fqc?t=210
 🐿	10
 
 		YpSgupekcPM?t=480
@@ -46473,8 +46433,7 @@
 🐟	2	x6E3qp3NWb8?t=120
 🍑	11
 🍑		uAdtvp-K6nk?t=510
-
-🐿	10
+🐿	11
 🐿		_I0TlhBUU6M?t=345
 🐨	11
 		UwPAs_L508k?t=1275
@@ -46495,7 +46454,7 @@
 🦉	4
 🦉		AWoTCYPSoHg?t=810
 🐿	11
-		s0Sc4TJUY0w?t=45
+🐿		s0Sc4TJUY0w?t=45
 🐰	11
 🐰		uIzGI3P2af8?t=1350
 🐹	8
@@ -46523,8 +46482,7 @@
 🐰	12	8arXMfF6dBw?t=675
 	4
 2026-07-19
-🍑	2	8arXMfF6dBw?t=15075
-	2
+	4	8arXMfF6dBw?t=15075
 	14	iQLsgigBnK0?t=165
 		xjdAU3nFNRk?t=0
 		xjdAU3nFNRk?t=600
@@ -46541,14 +46499,15 @@
 🐰	12
 	4
 2026-07-20
-	2	DR-xMz3Zjwo?t=15480
+		DR-xMz3Zjwo?t=15480
+🐿
 🍑
 
 	14	W65QaI21tXE?t=555
 	2	o-mSzqN3mnE?t=45
-🐿	10
-
-🍀	12	o9fov4mxB9I?t=720
+🐿	11
+🐿		o9fov4mxB9I?t=720
+🍀	11
 🍀		pK5VgqRoIYk?t=810
 🦉	11
 🦉		iIYtlkOT9UI?t=60
@@ -46601,9 +46560,8 @@
 		k1N3C3OG_Y4?t=1125
 🍀	10
 🍀	2	uy_oEdGF0_o?t=135
-🐿	6
-	5
-		WhbrWrM7mzo?t=1035
+🐿	11
+🐿		WhbrWrM7mzo?t=1035
 🐡	12
 🐹	11	i6eULiAMC44?t=525
 🐹		rpbNJroPQPw?t=990
@@ -46619,9 +46577,8 @@
 	3	1zk-SIjH0QE?t=9075
 	15	hkO3UbVUGPg?t=165
 	2	MKQnKrDJfYs?t=75
-🐿	6
-	5
-		OiTli1Gsolk?t=0
+🐿	11
+🐿		OiTli1Gsolk?t=0
 🦉	11	OiTli1Gsolk?t=885
 🦉		KifLUcmQmBc?t=1065
 🍑	12
@@ -46672,8 +46629,9 @@
 	2
 	14	IiEDwtG8KEs?t=30
 	2	WDWtsH3eGzQ?t=270
-🍀	12
-🐿	11	AKYUiAOYyU8?t=1965
+🍀	11
+🍀		AKYUiAOYyU8?t=1065
+🐿	11
 🐿		B7tFEWw5tSs?t=585
 🍑	11
 🍑		J48PqTr-0Zc?t=60
@@ -46717,9 +46675,8 @@
 		FWp6xAFH4Wo?t=870
 🐿	11
 🐿		zABjdl1Zz5I?t=855
-🍀	11
-🍀		zXoG5LMXNe8?t=150
-🦀	11
+🍀	12
+🦀	11	zXoG5LMXNe8?t=1050
 🦀		WG0Ehytb8MA?t=150
 🐹	10
 🐹	2	9w5kYXy8MjU?t=15
@@ -46761,8 +46718,7 @@
 	2	HGkSgO0dzuk?t=90
 🦉	11
 🦉		3JDLN7lZfBE?t=0
-		3JDLN7lZfBE?t=840
-🐿	11
+🐿	12	3JDLN7lZfBE?t=840
 🦀	11	8diWXGVuq4g?t=735
 🦀		LeTXkZjPUtQ?t=0
 🍘	11	LeTXkZjPUtQ?t=825
@@ -46790,8 +46746,8 @@
 	4	xnEtptE0MN0?t=15480
 	15	zGxepeWvT9c?t=210
 		1n-YhtZMfUE?t=1020
-🍀	11
-🍀		K2h2IAtPZM8?t=975
+🍀	10
+🍀	2	K2h2IAtPZM8?t=75
 🐟	12
 🍘	12	S3nrV3ExnCM?t=1920
 🧈	11	_QKIdWws8PM?t=1185
@@ -46994,8 +46950,9 @@
 🐟		ICyOSVeLkrc?t=690
 🦉	11
 🦉		7QohL0TMm6Q?t=870
-🍑	12
-🍀	12	GonEBphpWbU?t=1485
+🍑	11
+🍑		GonEBphpWbU?t=585
+🍀	12
 🍘	12	_2KvHboq6c0?t=1245
 🍙	12	l6NHszrMits?t=960
 🦉	2
@@ -47018,7 +46975,9 @@
 🍘	4
 
 🐰	5
-	4
+
+🐿
+	2
 2026-08-17
 	5	emUCJPA6hyU?t=14595
 	14	QucqIW3mhjs?t=795
@@ -47142,8 +47101,7 @@
 🍘	13
 	3
 2026-08-24
-	3	-vSwddMXA08?t=15810
-🐹
+	4	-vSwddMXA08?t=15810
 	15	eTLS6LG2xgY?t=240
 		Tkudzsxs7FI?t=690
 🍑	11
@@ -47198,8 +47156,7 @@
 	16	2_LnWMIUaCc?t=225
 		wJafYa0FxJQ?t=105
 🍑	12
-		MyxG1HkQZh4?t=1410
-🍀	10
+🍀	11	MyxG1HkQZh4?t=1410
 🍀		PYiw01XDEQ4?t=735
 🐿	11
 🐿		ysFNagtexKQ?t=345
@@ -47304,9 +47261,8 @@
 	16	fD3eUrmG5Ps?t=135
 		72BTaUmFNkY?t=900
 🦉	10
-🦉		DntmaQ4zdOE?t=75
-🦉		72BTaUmFNkY?t=11700
-🍀	11	DntmaQ4zdOE?t=1875
+🦉	2	DntmaQ4zdOE?t=75
+🍀	11
 🍀		g9KtkfWgiwM?t=930
 🐟	11
 🐟		HgI-rRuYVio?t=315
@@ -47355,8 +47311,9 @@
 🐟	10
 🐟	2	apOj_cCGFQY?t=2370
 🐿	10
-🐿	2	rYzvSk_YWIY?t=45
-🍑	11
+🐿		rYzvSk_YWIY?t=45
+🐿		apOj_cCGFQY?t=14070
+🍑	11	rYzvSk_YWIY?t=1845
 🍑		bPyaGh-eOKY?t=390
 🍘	11
 🍘		Ck6UC0w5Rw8?t=555
@@ -47370,11 +47327,9 @@
 	2	Y7zGxFb-wlc?t=45
 🦉	11
 🦉		B96Lhxr3FWw?t=480
-
-🐿	10
+🐿	11
 🐿		-_6QJgZFWOY?t=555
-
-🍀	10
+🍀	11
 🍀		fH_41V2MIQA?t=135
 🍘	12
 🐰	11	FE85dOLSyz8?t=585
@@ -47405,8 +47360,9 @@
 🦀	12
 🍙	11	FAj65J64AN0?t=1455
 🍙		Gv8Hu_w2PVw?t=915
-🐰	12
-🐹	12	orStl4eZzl4?t=1005
+🐰	11
+🐰		orStl4eZzl4?t=105
+🐹	12
 	4
 2026-09-08
 	3	orStl4eZzl4?t=15405
@@ -47596,7 +47552,10 @@
 🐡		sFOk4LpbTa0?t=960
 🦉	10
 🦉	2	RrEtxHI4lkU?t=210
-🍶	11
+🍶	4
+🐿	2
+	2
+🍶	3
 🍶		lbdq85adHs0?t=225
 🦀	11
 🦀		dM9IwLUH4SE?t=225
@@ -47661,8 +47620,7 @@
 🐡		5oGtaueeOCI?t=0
 🦉	11	5oGtaueeOCI?t=855
 🦉		lShPD3-34u4?t=570
-
-🐿	11
+🐿	12
 🍑	11	-ZiS9RU35dE?t=735
 🍑		00LXSZ-x5f8?t=1035
 🍙	12
@@ -47760,7 +47718,8 @@
 🐟		kao22r75xWI?t=0
 🐟		kao22r75xWI?t=870
 🍀	10
-	2	rq7-63MqvAo?t=30
+
+		rq7-63MqvAo?t=930
 🍶	11
 🍶		CWohTEujpRo?t=0
 🐹	8	CWohTEujpRo?t=855
@@ -47823,10 +47782,10 @@
 	18	y2WpL-pz9BU?t=3585
 	2	vqYKZGJFkoE?t=315
 🐟	10
-🐟	2	Q_7FJe7SUdk?t=15
-
-🐿	10
-🐿		doiivW_GXzk?t=1095
+🐟		Q_7FJe7SUdk?t=15
+🐟		vqYKZGJFkoE?t=12015
+🐿	10	Q_7FJe7SUdk?t=1815
+🐿	2	doiivW_GXzk?t=195
 ⚔	11
 ⚔		0Saq4nw9Huw?t=870
 🦉	12
@@ -47882,9 +47841,8 @@
 	19	ERU0aZGKLo4?t=3645
 		LdgQJhUZYBM?t=795
 🐟	12
-🐿	10	hw3zIaTIxd8?t=750
-
-		Qwtmm9ZJyEc?t=960
+🐿	11	hw3zIaTIxd8?t=750
+🐿		Qwtmm9ZJyEc?t=960
 🍑	10
 🍑	2	MuhAxyDKWWg?t=195
 🧈	10
@@ -47929,10 +47887,8 @@
 	19	AZR_YgijpDc?t=2010
 		OIzAofWxd2g?t=915
 🦉	12
-		iWewbiudKfs?t=675
-🐿	8
-	2
-		-Y5Kk-hrt8U?t=840
+🐿	11	iWewbiudKfs?t=675
+🐿		-Y5Kk-hrt8U?t=840
 🍶	11
 🍶		B1Un329B4rY?t=315
 🐡	10
@@ -47957,8 +47913,8 @@
 	4	Q8gBFQIwvFc?t=225
 2026-10-11
 	19	Q8gBFQIwvFc?t=3825
-	3	ADMEBX_8YqM?t=795
-🐿	9
+		ADMEBX_8YqM?t=795
+🐿	11
 🐿		75xDeXN97TU?t=810
 🍑	12
 🍀	11	ultrTyrXukw?t=585
@@ -47979,7 +47935,7 @@
 🦉	11
 🦉		syrZsizM1aM?t=945
 🐿	11
-		z6ZNqSZFSec?t=420
+🐿		z6ZNqSZFSec?t=420
 🍀	11
 🍀		MWpD4jIgcM0?t=1200
 🐟	11
@@ -48009,7 +47965,7 @@
 🦉	11	Z-hEwTtWdX0?t=690
 🦉		zmwOfuGAnUA?t=780
 🐿	11
-		qs2oMlDQF24?t=735
+🐿		qs2oMlDQF24?t=735
 🐟	12
 🦀	11	4WWL8d1Impg?t=870
 🦀		EmXoWSD6MNw?t=0
@@ -48039,7 +47995,7 @@
 	19	Wn6HxJSXcJo?t=3360
 		wcMlaZs-QRo?t=765
 🐿	11
-		FJ5o3vIG4Lc?t=630
+🐿		FJ5o3vIG4Lc?t=630
 🍀	11
 🍀		nL3hFU9vWnQ?t=975
 🦉	11
@@ -48164,8 +48120,7 @@
 	2	NJMFQwEa4u4?t=15
 🦉	10
 🦉	2	TI4ubV2gAuI?t=60
-
-🐿	10
+🐿	11
 🐿		Yugmv5wV_iE?t=1005
 🍀	12
 🍶	11	ykRvzs8VizQ?t=1395
@@ -48386,9 +48341,8 @@
 ⚔		q0tmwT5ZToE?t=855
 🦀	10
 🦀	2	oG3J3ujJbcA?t=90
-
-🐿	10
-		jCzOXVXmS34?t=570
+🐿	11
+🐿		jCzOXVXmS34?t=570
 🍶	11
 🍶		bEmV4S0-AAM?t=780
 🍘	12
@@ -48404,9 +48358,8 @@
 🐟		-iAPiYdoUgg?t=735
 🍑	11
 🍑		2GIP3l_UtO8?t=630
-
-🍀	10
-		bSzHe0DPaPM?t=765
+🍀	11
+🍀		bSzHe0DPaPM?t=765
 🐰	11
 🐰		Cbc7dAjjezI?t=165
 🍙	12
@@ -48436,8 +48389,7 @@
 🐡		NPTrJ_SHkzE?t=405
 🍑	11
 🍑		jT1xsxt-5bk?t=675
-	2
-🐿	9
+🐿	11
 🐿		sLM1NNHt9Hs?t=180
 🐿		jT1xsxt-5bk?t=12375
 🐰	9	sLM1NNHt9Hs?t=1980
@@ -48569,8 +48521,8 @@
 	4	DPTH2iXD6T0?t=0
 2026-11-18
 	19	DPTH2iXD6T0?t=3600
-	3	fK-ujT70yFg?t=1050
-🍀	9
+		fK-ujT70yFg?t=1050
+🍀	11
 🍀		C6znO9DmXKc?t=690
 🦉	11
 🦉		GTQNhhDtC0o?t=720
