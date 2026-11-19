@@ -38706,21 +38706,17 @@
 🐟	12
 🍑	12	eSuquCkaa3w?t=1350
 🐨		IO8a-ZKd5cg?t=0
-🐨		IO8a-ZKd5cg?t=885
-🍑	6	q9mccxzABzc?t=180
+🐨	3	IO8a-ZKd5cg?t=885
+🐨	2	IO8a-ZKd5cg?t=3315
+🐨		IO8a-ZKd5cg?t=5145
+🐨		IO8a-ZKd5cg?t=6000
 🐨		IO8a-ZKd5cg?t=6675
 🐨	2	IO8a-ZKd5cg?t=7590
-🍑		q9mccxzABzc?t=8280
-🍑		yuRKpoWvRJE?t=825
-🍑	3	q9mccxzABzc?t=10080
-🐿	3	yuRKpoWvRJE?t=4425
-🐿		q9mccxzABzc?t=15480
-🐿		yuRKpoWvRJE?t=8025
-🐿	3	q9mccxzABzc?t=17280
+		yuRKpoWvRJE?t=0
+🐿	12	yuRKpoWvRJE?t=825
 	4
 2025-05-12
-		q9mccxzABzc?t=23580
-🐿	3
+	4	yuRKpoWvRJE?t=15225
 	15	4BfQ4bFcbO8?t=270
 		QrvkzBE_bP0?t=1575
 🍘	10
@@ -42173,9 +42169,7 @@
 🐿		ceKzuzhT4ig?t=0
 🦀	11	ceKzuzhT4ig?t=855
 🦀		a4IItkhiEBs?t=0
-🍙		a4IItkhiEBs?t=840
-🍙	6	lX9d-_xcJm4?t=105
-🍙	5	a4IItkhiEBs?t=7140
+🍙	12	a4IItkhiEBs?t=840
 🍘	12	lGzNxdfi5ZI?t=525
 	4
 2025-11-04
@@ -42315,20 +42309,14 @@
 🧈	11
 🧈		8HpIRs3SoWY?t=705
 🐹	12
-🍘	6	QaLp9_SEwS8?t=150
-🍘		-otfXaQ76Pw?t=375
-🍘	2	QaLp9_SEwS8?t=6450
-🍘		-otfXaQ76Pw?t=3075
-🍘		QaLp9_SEwS8?t=9150
-	8	-otfXaQ76Pw?t=4875
-🐨		2nCKajNoI1Q?t=7455
-🐨	2	-otfXaQ76Pw?t=12975
-🐨		2nCKajNoI1Q?t=10155
-	2	-otfXaQ76Pw?t=15675
-🍙	3	MCVahS1z6Fo?t=900
+🍘	11	QaLp9_SEwS8?t=150
+🍘		2nCKajNoI1Q?t=255
+🐨	12
+
+	3	-
 2025-11-13
-🍙		MCVahS1z6Fo?t=3600
-		-otfXaQ76Pw?t=21075
+		-
+		BWPvVkyxmkI?t=0
 	16	BWPvVkyxmkI?t=555
 	2	QMUAIOe90BQ?t=120
 🐡	10
@@ -42414,14 +42402,10 @@
 🍀		hj5zCVLC3oA?t=870
 🐰	12
 🐨	12	AcGbEDqqNu8?t=660
-		2ZLLk39UjNM?t=120
-🍙	2
-
+	4	-
 2025-11-18
-		2ZLLk39UjNM?t=3720
-	2	U_H7wzuvmkU?t=600
-🐹		rSDls0fea6o?t=9900
-	15	U_H7wzuvmkU?t=3300
+		U_H7wzuvmkU?t=0
+	18	U_H7wzuvmkU?t=600
 		8f26L9rfC5I?t=435
 🐡	12
 🍑	11	J2SDgX5mh9o?t=690
@@ -42854,11 +42838,9 @@
 🍑	10
 🍑	2	_GG1A0RO0Mg?t=75
 🧈	8
-	2	w1hypixiaKw?t=1965
-		_GG1A0RO0Mg?t=10875
+	3
 		fYml8JYZNbs?t=315
-🐹		w1hypixiaKw?t=5565
-🐹	10	fYml8JYZNbs?t=2115
+🐹	11
 🐹		OWcifAQeoUg?t=480
 🍘	12
 🐨	12	OddxT76yUDI?t=645
@@ -44213,9 +44195,8 @@
 🐿		7_6on5qRHpI?t=720
 🍘	12
 🐹	8	YZqORsa02W8?t=1260
-🐹		FuHLo-mmK-4?t=510
-🍙	8
-🍀		Secew6YU9c0?t=5520
+	9	-
+🍙		BT6UMrdcE-w?t=0
 		BT6UMrdcE-w?t=780
 🐰	5
 	4
@@ -44336,9 +44317,7 @@
 🍀	11
 🍀		gKJ2SEYzIB8?t=780
 🐰	12
-🐹	5	58StW9K1H0k?t=990
-🐹		SdjBypNwLSI?t=870
-🐹	6	58StW9K1H0k?t=6390
+🐹	12	58StW9K1H0k?t=990
 	4
 2026-03-11
 	5	58StW9K1H0k?t=15390
@@ -46985,19 +46964,16 @@
 🦀	10
 🦀	2	U-YFelNciYA?t=540
 🍘	12
-🐹	3	G5ri3GjArEs?t=990
-🐹		iyxtLciPGSc?t=1005
+🐹	4	G5ri3GjArEs?t=990
 🍙/🐹		8GXRgXW4Eqs?t=195
-🐰/🐹/🍙
+🐹/🍙
 🐹
 🍙	3
 🍙/🐹	2
 	2
-🐰	2	iyxtLciPGSc?t=10905
+	2	LaXHVMkC0M4?t=390
 2026-08-13
-	2	LaXHVMkC0M4?t=2190
-		iyxtLciPGSc?t=14505
-	3	LaXHVMkC0M4?t=4890
+	6	LaXHVMkC0M4?t=2190
 🐟	7	gcssKTxN20o?t=105
 
 🐟	2
